@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Home"
 ---
-# This is an H1
 
-## This is an H2
+This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
 
-### This is an H3
+Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
