@@ -3,6 +3,11 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+- Aug 16-Dec 19 National Taiwan University 
+- Aug 09-May 15 UC Merced 
+- Aug 08-Jul 09 Academia Sinica 
+- Apr 07-Jul 08 Altek Corp. 
+- Sep 06-Mar 07 Academia Sinica 
+- Feb 03-Jul 05 National Taiwan University 
+- Oct 99-Jan 03 PixArt Inc. 
+- Sep 93-Jul 97 National Taiwan University 
