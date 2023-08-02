@@ -13,48 +13,30 @@ body a {
   color: $linkColor
 }
 
-.table-latitude {
+table {
+  border: 0;
+  border-collapse: collapse;
+  border-radius: 8px;
   width: 100%;
-  caption {
-      text-transform: uppercase;
-      font-weight: bold;
-      color: $lfs-yellow;
-      text-align: center;
-  }
-  thead {
-      border-top: 2px solid $lfs-yellow;
-      border-bottom: 2px solid $lfs-yellow;
-      th {
-          text-transform: uppercase;
-          text-align: center;
-          padding: 10px;
-          color: $lfs-blue;
-          border: 1px solid #F1F1F1;
-      }
-  }
-  tbody {
-      tr {
-          border-bottom: 1px solid #F1F1F1;
-          color: $lfs-grey;
-          td {
-              padding: 10px;
-              border: 1px solid #F1F1F1;
-          }
-          th {
-              padding-left: 10px;
-              border: 1px solid #F1F1F1;
-          }
-      }
-  }
-  tfoot {
-      color: $lfs-yellow;
-      font-style: italic;
-      border-bottom: 2px solid $lfs-yellow;
-      tr {
-          td {
-              padding: 10px;
-              border: 1px solid #F1F1F1;
-          }
-      }
-  }
+}
+
+th {
+  border: solid 1px #5ceffe;
+  padding: 16px 8px;
+}
+
+td {
+  border: solid 1px #5ceffe;
+  text-align: center;
+  padding: 8px;
+  color: #757575;
+}
+
+table td a{
+  background-color: #25b327;
+  color: white;
+  padding:5px 20px;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
 }
