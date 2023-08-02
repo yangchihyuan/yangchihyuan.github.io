@@ -22,7 +22,8 @@ table {
 
 th {
   border: solid 1px #000000;
-  padding: 16px 8px;
+  /*padding: 16px 8px;   /* short hand for top and left?*/
+  padding: 16px
 }
 
 td {
@@ -33,7 +34,8 @@ td {
 /*  color: #757575; */
 }
 
-table td a{
+/* The table td and a are three selectors, which can be written in a single line*/
+/*table td a{
   background-color: #25b327;
   color: white;
   padding:5px 20px;
@@ -41,3 +43,4 @@ table td a{
   font-weight: bold;
   text-decoration: none;
 }
+*/
