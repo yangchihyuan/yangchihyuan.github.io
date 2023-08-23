@@ -1,6 +1,6 @@
 featured:
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf'}
-- {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.' url: '/publications/CVPRW20.pdf'}
+- {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', url: '/publications/CVPRW20.pdf'}
 index:
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf'}
-- {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.' url: '/publications/CVPRW20.pdf'}
+- {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', url: '/publications/CVPRW20.pdf'}
