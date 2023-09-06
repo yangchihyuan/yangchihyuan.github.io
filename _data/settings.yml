@@ -1,10 +1,13 @@
 menu:
+- {name: 'lab', url: '/lab'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'talk', url: '/talk'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+
+lab:
 
 people:
 - {name: 'Primary Investigator', title: 'Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'yangchihyuan@gmail.com', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -19,4 +22,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'College of Intelligent Computing', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '(886) 000-0000', email: 'yangchihyuan@gmail.com', office: 'Management Building 11C', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'College of Intelligent Computing', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '(886) 000-0000', email: 'yangchihyuan@gmail.com', office: 'Management Building 11F', image: 'assets/img/contact.jpg'}
