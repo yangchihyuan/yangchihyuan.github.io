@@ -10,7 +10,7 @@ menu:
 #lab:
 
 people:
-- {name: 'Primary Investigator', title: 'Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'yangchihyuan@gmail.com', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Primary Investigator', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800#2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
@@ -22,4 +22,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'College of Intelligent Computing', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '(886) 000-0000', email: 'yangchihyuan@gmail.com', office: 'Management Building 11F', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800#2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/contact.jpg'}
