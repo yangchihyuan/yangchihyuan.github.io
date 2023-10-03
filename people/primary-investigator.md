@@ -3,16 +3,16 @@ layout: page
 title: "Primary Investigator"
 ---
 
-Researcher - Physics & Astronomy
+Researcher - Computer Vision & Stock Investing
 
-Some University - 1 Main Street, Canada
+No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.)
 
-Phone: (000) 000-0000
+Phone: +886-3-2118800 #2543
 
-Email: hello@university.edu
+Email: cyyang@cgu.edu.tw
 
-Office: Science Building 505
+Office: Management Building Room 1409
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+Assistant Professor.
