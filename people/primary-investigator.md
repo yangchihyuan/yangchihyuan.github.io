@@ -5,7 +5,7 @@ title: "Primary Investigator"
 
 Research area - Computer Vision & Stock Investing
 
-Address: No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.)
+Address: No. 259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.)
 
 Phone: +886-3-2118800 #2543
 
