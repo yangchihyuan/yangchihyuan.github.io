@@ -6,6 +6,7 @@ featured:
 - {name: 'SemiStar-GAN: Semi-Supervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Shu-Yu Hsu, Chih-Yuan Yang, Chi-Chia Huang, and Jane Yung-jen Hsu), ACCV18.', url: '/publications/ACCV18_SemiStarGAN.pdf'}
 - {name: 'Learning a No-Reference Quality Metric for Single-Image Super-Resolution (Chao Ma, Chih-Yuan Yang, Xiaokang Yang, and Ming-Hsuan Yang), CVIU17.', url: '/publications/CVIU17_no_reference.pdf'}
 - {name: 'Compressed Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), IJCV17.', url: '/publications/IJCV17_face.pdf'}
+- {name: 'Compressed Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), IJCV17.', url: '/publications/IJCV17_face.pdf'}
 index:
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf'}
 - {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', url: '/publications/CVPRW20.pdf'}
