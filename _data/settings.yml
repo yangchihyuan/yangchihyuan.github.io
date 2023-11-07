@@ -17,6 +17,9 @@ people:
 courses:
 - {name: 'Computer Vision 2023', url: 'cv2023'}
 
+talk:
+- {name: 'Stock Investing at NTU iAgent', url: 'stock_investing_2303'}
+
 social:
 - {icon: 'github', link: 'https://github.com/yangchihyuan'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
