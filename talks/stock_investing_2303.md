@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Computer Vision 2023"
+title: "Stock Investing"
 ---
 
 Fall 2023, Thur. 1:10pm to 4:00pm, Location: Engineering Building Room 302 <br/>
