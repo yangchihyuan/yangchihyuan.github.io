@@ -17,7 +17,7 @@ people:
 courses:
 - {name: 'Computer Vision 2023', url: 'cv2023'}
 
-talk:
+talks:
 - {name: 'Stock Investing at NTU iAgent', url: 'stock_investing_2303'}
 
 social:
