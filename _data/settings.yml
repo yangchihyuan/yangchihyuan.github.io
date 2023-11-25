@@ -26,4 +26,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Chih-Yuan Yang', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/Chih-Yuan_Yang.png'}
