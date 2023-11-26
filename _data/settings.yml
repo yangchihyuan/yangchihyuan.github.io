@@ -12,7 +12,7 @@ menu:
 people:
 - {name: 'Chih-Yuan Yang 楊智淵', title: 'Assistant Professor', description: 'Expertise in computer vision and stock investing', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/Chih-Yuan_Yang.png', url: 'Chih-Yuan_Yang'}
 - {name: 'Brian Liu 劉冠亨', title: 'Master student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
-- {name: 'Le-Hung Yang 楊樂泓', title: 'Master student',  image: 'assets/img/Man_Portrait.jpg', description: 'Expertise in C++, engineerning  mechanics, stock investing.', url: 'Le-Hung_Yang'}
+- {name: 'Le-Hung Yang 楊樂泓', title: 'Master student',  image: 'assets/img/Le-Hung_Yang.jpg', description: 'Expertise in C++, engineerning  mechanics, stock investing.', url: 'Le-Hung_Yang'}
 
 courses:
 - {name: 'Computer Vision 2023', url: 'cv2023'}
@@ -25,4 +25,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1409', image: 'assets/img/Chih-Yuan_Yang.png'}
+- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1409', image: 'assets/img/Chih-Yuan_Yang.png'}

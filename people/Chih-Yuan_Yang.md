@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Chih-Yuan Yang 楊智淵"
 ---
+
+Assistant Professor
 
 Research area - Computer Vision & Stock Investing
 
@@ -11,6 +13,6 @@ Phone: +886-3-2118800 #2543
 
 Email: cyyang@cgu.edu.tw
 
-Office: Management Building Room 1409
+Office: Management Building B1409
 
 ---
