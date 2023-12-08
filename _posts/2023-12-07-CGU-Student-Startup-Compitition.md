@@ -2,7 +2,9 @@
 layout: post
 title: "Brian Liu's team wins the champion of 2023 CGU Student Startup Compititioin"
 ---
- (English paragraphs are translated from Chinese paragraphs by MS Copilot)
+
+ (Warming: English paragraphs are translated from Chinese ones by MS Copilot and errors are contained.)
+
  The 2023 Chang Gung University “Gengxin Cup” Campus Innovation and Entrepreneurship Competition was held on December 2nd. The competition aims to promote the campus’s new entrepreneurial atmosphere through innovative education combined with entrepreneurial competitions and cultivate talents with entrepreneurial spirit and practical industry experience.
 
 The results of the finals were announced. The first prize was won by the “OMNIMTAIX” team composed of Liu Guanheng, Wei Youhong, and Ding Hongyan from the Chang Gung University Department of Artificial Intelligence. Their entrepreneurial concept and prototype demonstrated the team’s creativity and technical capabilities, and won unanimous praise from the judges, winning a prize of 30,000 New Taiwan dollars.
