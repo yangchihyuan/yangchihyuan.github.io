@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brian Liu's team wins the champion of 2023 CGU Student Startup Compititioin"
+title: "Brian Liu's team wins the championship of the 2023 CGU Student Startup Compititioin"
 ---
 
  (Warming: English paragraphs are translated from Chinese ones by MS Copilot and errors are contained.)
