@@ -7,8 +7,8 @@
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p><img src="{{ item.image }}" height="200"></p>
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><a href="{{ item.image }}"> img src="{{ item.image }}" height="200"></a>
+        <a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
