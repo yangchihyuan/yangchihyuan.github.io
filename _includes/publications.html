@@ -10,7 +10,7 @@
       {% for item in site.data.publications.index %}
       <tr>
         <td><a href="{{ item.image }}"> <img src="{{ item.image }}" height="150"></a></td>
-        <td><p></p><a href="{{ item.url }}">{{ item.name }}</a></p></td>
+        <td><p><a href="{{ item.url }}">{{ item.name }}</a></p></td>
       </tr>
       {% endfor %}
     </table>
