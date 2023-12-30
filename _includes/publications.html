@@ -6,7 +6,7 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
-    <table cellspacing="0" cellpadding="0">
+    <table border="0" cellspacing="0" cellpadding="0">
       {% for item in site.data.publications.index %}
       <tr>
         <td><a href="{{ item.image }}"> <img src="{{ item.image }}" height="150"></a></td>
