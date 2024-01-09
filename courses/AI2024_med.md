@@ -7,96 +7,33 @@ title: "人工智慧概論 2024"
 講師: 楊智淵
 
 #### 課程資訊
-在本門課程裏，我會介紹AI的基本概念。
+在本門課程裏，我會介紹AI的基本概念與應用。
 
 #### 修課需求
-基本的中文說聽讀寫既可。
+基本的中文說聽讀寫能力。
 
 #### 課程大綱
-
-|Week|Date|Topic                                                      |Slides   |Recording | Action |
+|週次|日期|主題                                                      |投影片   |錄影 | 活動 |
 |---|---|---|---|---|---|
-|1   |9/7        | Introduction to computer vision, camera, human vision                |  [pptx](https://www.dropbox.com/scl/fi/sj9f5l2rrd5ahn0laleqg/ComputerVision_Lecture_01.pptx?rlkey=ks1gw7w6yyglmmr104y811vin&dl=0)    | [video](https://youtu.be/PAsd1LVJXdw)         |                              |
-|2   |9/14       | Human vision, color, digital camera, image filtering,                |  [pptx](https://www.dropbox.com/scl/fi/10dfs9rqjvucen2fbkk8t/ComputerVision_Lecture_02.pptx?rlkey=fqnllxgv5qi03ihoi0mqeyf6n&dl=0)    | [video](https://youtu.be/rO6pu1ukSww)         |                              |
-|3   |9/21       | Fourier transform, image pyramid, aliasing, JPEG compression         |  [pptx](https://www.dropbox.com/scl/fi/6rgawqwk9dogn8qt80f3h/ComputerVision_Lecture_03.pptx?rlkey=kfs31awxdl2ohltxaeqn815jl&dl=0)    | [video](https://youtu.be/_DSUGWh5RmI)         | Team member list     |
-|4   |9/28       | Applications of Fourier transform, computing resources of CGU AI Center   | [pptx](https://www.dropbox.com/scl/fi/e39e1yh56gbcjnkblc314/ComputerVision_Lecture_04.pptx?rlkey=9cxfnxdi1xtct7ob8njpy60cq&dl=0)     | [video](https://youtu.be/DBRiH6GusOw)         | Homework1 presentation       |
-|5   |10/5       | Homework 1 feedback, CGU AI center Kubeflow demo, deep learning for computer vision  | [pptx](https://www.dropbox.com/scl/fi/egqdc8jkcezwcv1i1obkp/ComputerVision_Lecture_05.pptx?rlkey=zstpfadm3gw4jkdh1u70ctb2l&dl=0) | [video](https://youtu.be/JLMkb_D8bMo)   | Project proposal due         |
-|6   |10/12      | Project pitch feedback, k-nearest neighbor, k-fold cross validation  | [pptx](https://www.dropbox.com/scl/fi/no010y0rwnchv1w4qqxqo/ComputerVision_Lecture_06.pptx?rlkey=aqqt0ittuko0rdxjqb9pso78r&dl=0)     | [video](https://youtu.be/vmjmBsVC6FQ)         | Project pitch                |
-|7   |10/19      | CGU AI center computing resource tutorial for DNN training and image generation | [pptx](https://www.dropbox.com/scl/fi/xfmzg4bqnqoyupirs5w5i/ComputerVision_Lecture_07.pptx?rlkey=m442gr4s0hh35jc3vonrgef7r&dl=0)   | [video](https://youtu.be/t-AM4O5xNgk)         | Homework2 presentation       |
-|8   |10/26      | HOG-based pedestrian detection, CNN-part 1: linear classifier, regulation and optimization  | [pptx](https://www.dropbox.com/scl/fi/5na5fffm3nrsg5nod5jig/ComputerVision_Lecture_08.pptx?rlkey=g3egr0q4xh4ww7nkdyn0ikzcw&dl=0)     | [video](https://youtu.be/-qqMtPRie1A)         |                              |
-|9   |11/2       | CNN-part 2: Neural networks, backpropagation, convolutional neural networks   | [pptx](https://www.dropbox.com/scl/fi/kovzbrx1aph80tumkgfvu/ComputerVision_Lecture_09.pptx?rlkey=oq93nuhx6uu8u6seu2atnm8p8&dl=0)     | [video](https://youtu.be/JV6tfAkbRB4)         |                              |
-|10  |11/9       | CNN-part 3: 1x1 convolution  | [pptx](https://www.dropbox.com/scl/fi/8607job6u8f02ekuj95lo/ComputerVision_Lecture_10.pptx?rlkey=kmvc3h8pr9wqyrau1xcjh99uh&dl=0)     | [video](https://youtu.be/lR0ZY48t56k)         | Homework3 presentation       | 
-|11  |11/16      | Homework 3 feedback, 3D convolution, generative model part1: GANs            | [pptx](https://www.dropbox.com/scl/fi/7qqbcs8ellbc5ipb9r3ir/ComputerVision_Lecture_11.pptx?rlkey=eayjbjc7hgxbqtuxg6todr5qb&dl=0)     | [video](https://youtu.be/hNNWsxF20Jc)         | Project midterm report       |
-|12  |11/23      | Generative model part2: GANs, Diffusion model, CLIP | [pptx](https://www.dropbox.com/scl/fi/9a7oycdpwnsx2apct7g5j/ComputerVision_Lecture_12.pptx?rlkey=0h5l3s86usyfntg1p0i9tm1yu&dl=0)     | [video](https://youtu.be/Y8EtHl2YehY)         |                              |
-|13  |11/30      | Students' Homework4 Presentation                                           |      |          | Homework4 presentation       |
-|14  |12/7       | Transformer, ViT, CLIP, LAION, DDPM, DDIM, AE, VAE, VQ-VAE                                            | [pptx](https://www.dropbox.com/scl/fi/hcm0l79ihcvus4av4qqyt/ComputerVision_Lecture_13.pptx?rlkey=33qj1vfhabiw0kgaikhrthn65&dl=0)     | [video](https://youtu.be/TvRugxDwCao)         |                              |
-|15  |12/14      | SAGAN, BigGAN, BERT, Network-to-Network, VQGAN, DALL-E, Latent Diffusion, OpenCLIP, PyramidCLIP | [pptx](https://www.dropbox.com/scl/fi/a17p5yb365pjv8vpqc9tj/ComputerVision_Lecture_14.pptx?rlkey=yhqidy4nee67daupw6y06lzlj&dl=0)     | [video](https://youtu.be/eySnwJAmYRo)         |     |
-|16  |12/21      | Final presentation, BLIP                                                        | [pptx](https://www.dropbox.com/scl/fi/tnhashsp306g9ka4u9vpw/ComputerVision_Lecture_15.pptx?rlkey=qwoxpo3a8f39ue3tphvza9wpr&dl=0)     | [video](https://youtu.be/-WqC36Fl-zY)         | Term project presentation         |
+|1   |2/19        |                 |      |         |                              |
+|3   |3/4         |                 |      |         |                              |
+|5   |3/18        |                 |      |         |                              |
+|7   |4/1         |                 |      |         |  期中考或期中報告             |
+|9   |4/15        |                 |      |         |                              |
+|11  |4/29        |                 |      |         |                              |
+|13  |5/13        |                 |      |         |                              |
+|15  |5/27        |                 |      |         |  期末考或期末報告             |
 
 <br/>
 
-#### Term Project Topics, Slides, and Reports
+#### 教科書
 
-|Topic|Slides   |Report |
-|---|---|---|
-|Deepfake Detection: An In-depth Comparative Analysis of the Generalizability of Various Deepfake Detection Techniques|[pptx](https://www.dropbox.com/scl/fi/ovux5utsdk15oblw729pk/D1200701_Deepfake-detection-final-report.pptx?rlkey=dvfze1tm9rz8oomv4syrqlvv2&dl=0)|[docx](https://www.dropbox.com/scl/fi/2brvmmxxc2bpatovoyb81/D1200701_Deepfake-detection_final-report.docx?rlkey=009o7dwjwb9if9tfb4gu2fado&dl=0)|
-|Visual Inspection on Mango Maturity|[pptx](https://www.dropbox.com/scl/fi/6fdu7k413zwhgx6pmrpzw/M1261009_Final-Project-Report.pptx?rlkey=h2fg0ufpf4faoctyu56yp37cl&dl=0)|[pdf](https://www.dropbox.com/scl/fi/mlpab7jz3tfat4c061v6k/M1261013_paper-report-EN.pdf?rlkey=hniybo2l2ik3seiug0235huvf&dl=0)|
-|Impact of Lighting Conditions on Face Recognition Accuracy|[pptx](https://www.dropbox.com/scl/fi/j5310ka9yfmjpw2tyvfmd/M1261004_Face_Recognition.pptx?rlkey=1ex2icf89m1whvivp8ceh0tq2&dl=0)|[pdf](https://www.dropbox.com/scl/fi/ja6au1igv8qjcj814e4r6/M1261004_Final-Project-Report.pdf?rlkey=58z9x9omt4mv1udc7oqkipbd1&dl=0)|
-|Sign Language Translation System |[pptx](https://www.dropbox.com/scl/fi/dbfeubvxufr0bnxhg4qee/M1261007_Sign-Language-Translation-System_final.pptx?rlkey=38ocz97dg148ozd4jnunnc9ds&dl=0)|[docx](https://www.dropbox.com/scl/fi/g41no8a7nefu9rhxi7l9n/M1261015_SignLanguageTranlationSystem_FinalReport.docx?rlkey=q3mbiq1trlghraq4zb275ksdn&dl=0)|
-|Social Distance Detection |[pptx](https://www.dropbox.com/scl/fi/q37oac236efyalzl174kg/M1161003_Social_Distance_Detection.pptx?rlkey=288z7o1uvbns742tu7gz551cp&dl=0)|[pdf](https://www.dropbox.com/scl/fi/8n2kgcfcegnpbwgzxqy33/M1161003_Computer-Vision_Project-Final-Report_M1161003_M1161005_M1161008.pdf?rlkey=pf3ezj9l12mnlxycwb1i5kzk0&dl=0)|
-
-Instructor's comments on the final reports [pdf](https://www.dropbox.com/scl/fi/v7dvuk3186b1qbaeyi7c7/Instructor_s-comments-on-the-final-reports.pdf?rlkey=7crm816aditf8bn9iyweliq1i&dl=0)
-<br/>
-
-#### Textbook
-- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) <br/>
-It is available online for free.
-
-#### Reference Books
-- Available online for free offered by the authors.
-  - [Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jam Solem. (2012)
-  - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow et al. (2016). A third-party-made PDF is available at [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf).
-  - [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon J.D. Prince. (2012)
-  - [Data Driven Science and Engineering](http://databookuw.com/databook.pdf) by Steven L. Brunton and J. Nathan Kutz. (2017)
-  - [Learn Computer Vision Using OpenCV With Deep Learning CNNs and RNNs](https://link.springer.com/book/10.1007/978-1-4842-4261-2) by Sunila Gollapudi (2019)
-- No free PDF offered by the authors, but available at school library.
-  - Digital Image Processing 3th edition by Rafael Gonzalez and Richard Woods. (2008) There is a 4th edition published in 2017.
-  - Digital Image Processing using Matlab 2nd edition by Rafael Gonzalez et al. (2010)
-  - Learning OpenCV3 by Adrian Kaehler & Gary Bradski. (2017)
-- No free PDF offered by the authors, but code available at GitHub.
-  - OpenCV 3.x with Python By Example 2nd edition by Gabriel Garrido and Prateek Joshi. (2018)
+#### 參考書籍
   
-#### Existing Full-length Course Lecture Recordings
-- [MIT 6.S191: Introduction to Deep Learning 2023](http://introtodeeplearning.com/)
-- [NTHU EE 6485 Computer Vision 2022](https://aliensunmin.github.io/teaching/cv2022/index.html)
-- [UMich EECS 498-007: Deep Learning for Computer Vision 2019](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP)
-- [Stanford CS231n: Deep Learning for Computer Vision 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [UCF CAP5415: Computer Vision 2014](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
+#### 成績計算
+- 85% 期中期末考或期中期末報告
+- 15% 上課出席
 
-#### Existing Online Lecture Videos for Computer Vision Knowledge Points
-- [Columbia Computer Science 2021](https://www.youtube.com/@firstprinciplesofcomputerv3258)
-
-#### Existing Computer Vision Course Slides for Self-Learning
-- Alexei Efros at UC Berkeley [https://cs280-berkeley.github.io/](https://cs280-berkeley.github.io/)
-- Derek Hoiem at UIUC [https://courses.engr.illinois.edu/cs543/sp2017/](https://courses.engr.illinois.edu/cs543/sp2017/)
-- David Forsyth at UIUC [http://luthuli.cs.uiuc.edu/~daf/courses/CV23/planned.html](http://luthuli.cs.uiuc.edu/~daf/courses/CV23/planned.html)
-- James Hays at Georgia Tech [https://faculty.cc.gatech.edu/~hays/compvision2022fall/](https://faculty.cc.gatech.edu/~hays/compvision2022fall/)
-- Steve Seitz at U Washington [https://courses.cs.washington.edu/courses/cse576/20sp/calendar/](https://courses.cs.washington.edu/courses/cse576/20sp/calendar/)
-- Min Sun at NTHU [https://aliensunmin.github.io/teaching/cv2022/index.html](https://aliensunmin.github.io/teaching/cv2022/index.html)
-- Justin Johnson at UMich [https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
-
-#### School e-Learning Link
-[CGU e-Learning site](https://el.cgu.edu.tw/)
-
-#### Grading
-Your final grade will be made up from
-- 60% 4 pieces of programming homework
-- 35% term project, including proposal (5%), project pitch (5%), midterm report (5%), final project presentation (10%), and final project report(10%). Maximum 5 members each group.
-- 5% class participation 
-- late policy<br/>
-You will lose 10% each day for a late submission. However, you have three "late days" for the whole course. That is to say, the first 24 hours after the due date counts as 1 day, up to 48 hours is two and 72 for the third late day. After running out of the three "late days", I will deduct the penalty from your points.
-
-#### Contact Info and Office Hour
-Chih-Yuan Yang: cyyang@cgu.edu.tw <br/>
-Office hours: Tue 10:30~11:30 Management Building Room 1416<br/>
+#### 連絡資訊與面談時間
+楊智淵: cyyang@cgu.edu.tw <br/>
+面談時間: 每週二上午 10:30~11:30 管理大樓14樓 1416室<br/>
