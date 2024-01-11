@@ -29,8 +29,8 @@ title: "人工智慧概論 2024"
 #### 教科書
 
 #### 參考書籍與資料
-未來司法：AI法官 (Artificial Justice Justice in times of digital colonialism) 出版年:2022 媒體:DVD 
-AI時代，你跟上了嗎？｜李宏毅｜人文講堂｜完整版 20231209 媒體: YouTube [Link](https://www.youtube.com/watch?v=iqaiPyvDD4Y&ab_channel=%E5%A4%A7%E6%84%9B%E4%BA%BA%E6%96%87%E8%AC%9B%E5%A0%82)
+未來司法：AI法官 (Artificial Justice Justice in times of digital colonialism) 出版年:2022 媒體:DVD <br/>
+AI時代，你跟上了嗎？｜李宏毅｜人文講堂｜完整版 20231209 媒體: YouTube [(連結)](https://www.youtube.com/watch?v=iqaiPyvDD4Y&ab_channel=%E5%A4%A7%E6%84%9B%E4%BA%BA%E6%96%87%E8%AC%9B%E5%A0%82)
   
 #### 成績計算
 - 85% 期中期末考或期中期末報告
