@@ -1,15 +1,16 @@
 ---
-layout: page
+layout: page_IntroAICourse
 title: "人工智慧概論 2024 (醫學系A)"
 ---
 #### 時間與地點
 單週之週一下午5:10至7:00，教室待定<br/>
 
-#### 課程資訊
-本門課程的內容為人工智慧的介紹，旨在培養學生對人工智慧的基礎認識。課程的涵蓋範圍為：人工智慧的歷史、人工智慧的研究到影響，人工智慧各領域的應用。本門課之教學目標為培養學生具備人工智慧的基本知識。課程進行為方式為上課講授與讀書報告，期中期末以考試檢驗成果。由於坊間及網路上講解人工智慧的書籍與影片很多，修課同學可以自由參考彈性學習，有疑惑由老師和助教幫忙解答。
+#### 助教與答問時間
+劉冠亨 m1261003@cgu.edu.tw 
 
-#### 修課需求
-基本的中文說聽讀寫能力。
+#### 教師與答問時間
+楊智淵 cyyang@cgu.edu.tw <br/>
+每週二上午 10:30~11:30 管理大樓14樓 1416室<br/>
 
 #### 課程大綱
 
@@ -26,10 +27,7 @@ title: "人工智慧概論 2024 (醫學系A)"
 
 <br/>
 
-#### 教科書
-
-#### 參考書籍與資料
-
+<---
 |年份 | 題名 | 講者 | 媒體 |
 |2023 | The Turing Lectures: The future of generative AI | Michael Wooldridge |YouTube [(連結)](https://www.youtube.com/watch?v=2kSl0xkq2lM&ab_channel=TheAlanTuringInstitute)| 
 |2023 | AI and the future of humanity | Yuval Noah Harari | YouTube [(連結)](https://www.youtube.com/watch?v=LWiM-LuRe6w&ab_channel=YuvalNoahHarari)|
@@ -44,15 +42,6 @@ title: "人工智慧概論 2024 (醫學系A)"
 |2022 | 未來司法：AI法官 (Artificial Justice Justice in times of digital colonialism) | | DVD |
 |2019 | 人工智慧並沒有你想像中的聰明，但它做得到 | |TED [(連結)](https://www.ted.com/talks/jeff_dean_ai_isn_t_as_smart_as_you_think_but_it_could_be?language=zh-tw) |
 |2018|  MIT 6.S094 自駕車 | |YouTube [(連結)](https://www.youtube.com/playlist?list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP) |
+--->
 
-#### 成績計算
-- 85% 期中期末考或期中期末報告
-- 15% 上課出席
-
-#### 助教與面談時間
-劉冠亨 m1261003@cgu.edu.tw 
-
-#### 教師與面談時間
-楊智淵 cyyang@cgu.edu.tw <br/>
-面談時間: 每週二上午 10:30~11:30 管理大樓14樓 1416室<br/>
 
