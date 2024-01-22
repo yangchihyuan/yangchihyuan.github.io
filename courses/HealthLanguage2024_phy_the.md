@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_PythonCourse
 title: "健康應用之程式語言 2024 (物治系)"
 ---
 <!---
