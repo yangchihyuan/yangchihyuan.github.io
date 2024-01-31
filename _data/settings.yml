@@ -26,7 +26,7 @@ talks:
 
 social:
 - {icon: 'github', link: 'https://github.com/yangchihyuan'}
-#- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/yangchihyuan'}
 
 contacts:
 - {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2548', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1416', image: 'assets/img/Chih-Yuan_Yang.png'}
