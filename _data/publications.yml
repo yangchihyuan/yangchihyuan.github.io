@@ -15,8 +15,8 @@ index:
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf', image: '/publications/AAAI21.jpg'}
 - {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', url: '/publications/CVPRW20.pdf', image: '/publications/CVPRW20.jpg'}
 - {name: 'A Mobile Robot Generating Video Summaries of Seniors’ Indoor Activities (Chih-Yuan Yang, Heeseung Yun, Srenavis Varadaraj, and Jane Yung-jen Hsu), MobileHCI19.', url: '/publications/MobileHCI19_Robot.pdf', image: '/publications/MobileHCI19.jpg'}
-- {name: 'IdenNet: Identity-Aware Facial Action Unit Detection (Cheng-Hao Tu, Chih-Yuan Yang, and Jane Yung-jen Hsu), FG19.', url: '/publications/FG19_IdenNet.pdf' }
-- {name: 'SemiStar-GAN: Semi-Supervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Shu-Yu Hsu, Chih-Yuan Yang, Chi-Chia Huang, and Jane Yung-jen Hsu), ACCV18.', url: '/publications/ACCV18_SemiStarGAN.pdf'}
+- {name: 'IdenNet: Identity-Aware Facial Action Unit Detection (Cheng-Hao Tu, Chih-Yuan Yang, and Jane Yung-jen Hsu), FG19.', url: '/publications/FG19_IdenNet.pdf', image: '/publications/FG19_IdenNet.jpg' }
+- {name: 'SemiStar-GAN: Semi-Supervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Shu-Yu Hsu, Chih-Yuan Yang, Chi-Chia Huang, and Jane Yung-jen Hsu), ACCV18.', url: '/publications/ACCV18_SemiStarGAN.pdf', image: '/publications/ACCV18_SemiStarGAN.jpg'}
 - {name: 'Learning a No-Reference Quality Metric for Single-Image Super-Resolution (Chao Ma, Chih-Yuan Yang, Xiaokang Yang, and Ming-Hsuan Yang), CVIU17.', url: '/publications/CVIU17_no_reference.pdf'}
 - {name: 'Compressed Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), IJCV17.', url: '/publications/IJCV17_face.pdf'}
 - {name: 'Single-Image Super-Resolution: A Benchmark (Chih-Yuan Yang, Chao Ma, and Ming-Hsuan Yang), ECCV14.', url: '/publications/14ECCV_SingleImageSuperResolutionABenchmark.pdf'}
