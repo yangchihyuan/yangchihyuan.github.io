@@ -12,13 +12,12 @@ menu:
 people:
 - {name: 'Chih-Yuan Yang 楊智淵', title: 'Assistant Professor', description: 'Expertise in computer vision and stock investing', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1416', image: 'assets/img/Chih-Yuan_Yang.png', url: 'Chih-Yuan_Yang'}
 - {name: 'Brian Liu 劉冠亨', title: 'Master student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
-- {name: 'Le-Hung Yang 楊樂泓', title: 'Master student',  image: 'assets/img/Le-Hung_Yang.jpg', description: 'Expertise in C++, engineerning  mechanics, stock investing.', url: 'Le-Hung_Yang'}
 
 courses:
 - {name: '人工智慧概論 2024(醫學系A)', url: 'IntroToAI2024_SoMed'}
 - {name: '人工智慧概論 2024(職治系)', url: 'IntroToAI2024_DoOT'}
-- {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_resp_the'}
-- {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_phy_the'}
+- {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
+- {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_physical_therapy'}
 - {name: 'Computer Vision 2023', url: 'cv2023'}
 
 talks:
