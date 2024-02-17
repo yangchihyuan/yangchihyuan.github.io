@@ -14,7 +14,7 @@ people:
 - {name: 'Brian Liu 劉冠亨', title: 'Master student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
 
 courses:
-- {name: '人工智慧概論 2024(醫學系A)', url: 'IntroToAI2024_medicine'}
+- {name: '人工智慧概論 2024(醫學系A)', url: 'IntroToAI2024_medicine_A'}
 - {name: '人工智慧概論 2024(職治系)', url: 'IntroToAI2024_occupational_therapy'}
 - {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
 - {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_physical_therapy'}
