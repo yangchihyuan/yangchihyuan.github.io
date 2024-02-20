@@ -23,7 +23,7 @@ title: "健康應用之程式語言 2024 (物治系)"
 
 |週次|日期   |主題                       |投影片   |錄影       | 預定事項     |
 |--- |---   |---                        |---     |---        |---       |
-|1   |2/19  | 課程介紹與python簡介、開發環境       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWE2xpbRm9tLhgnKREF8LYABDFQ8D7Vm7N0F1dwjnPosrQ?e=rhte1G)        |          |          |
+|1   |2/19  | 課程介紹與python簡介、開發環境       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWE2xpbRm9tLhgnKREF8LYABDFQ8D7Vm7N0F1dwjnPosrQ?e=rhte1G)        |  [YouTube](https://youtu.be/BXqpsbl7iEw)        |          |
 |2   |2/26  | 變數、運算式               |         |          |          |
 |3   |3/4   | 判斷式                     |         |         |           |
 |4   |3/11  | 迴圈                       |        |        |           |
