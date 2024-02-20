@@ -6,7 +6,6 @@ title: "人工智慧概論 2024 (醫學系A)"
 <!---
 開課序號 60858
 學生人數 56人
- [YouTube](https://youtu.be/pdTDJaQq8ig)
 -->
 #### 時間與地點
 單週之週一下午4:10至6:00，教室C0102R<br/>
@@ -22,7 +21,7 @@ title: "人工智慧概論 2024 (醫學系A)"
 
 |週次|日期         |主題                  |投影片 |錄影     | 預定事項     |
 |--- |---         |---                   |---   |---      |---          |
-|1   |2/19        | 淺論人工智慧          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EU8JfJEyfAJNpqhA2qOkV0QBOpIbhjIGk1L55A93MsPQHw?e=yxXdz7)     |      |             |
+|1   |2/19        | 淺論人工智慧          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EU8JfJEyfAJNpqhA2qOkV0QBOpIbhjIGk1L55A93MsPQHw?e=yxXdz7)     |  [YouTube](https://youtu.be/1ZX2OJxKUX4)     |             |
 |3   |3/4         | 人工智慧之應用簡介     |      |         |             |
 |5   |3/18        | 人工智慧之影響簡介     |      |         |             |
 |7   |4/1         |                      |      |         |  期中考      |
