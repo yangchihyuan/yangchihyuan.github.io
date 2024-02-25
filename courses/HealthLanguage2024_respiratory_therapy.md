@@ -6,7 +6,6 @@ title: "健康應用之程式語言 2024 (呼治系)"
 課程代碼 GT0174
 開課序號 61032
 學生人數 29人
-     [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgTC2j0wDgNLn4HNjNtp0iMBrfHhnS90_YSWiKoJk7lYeQ?e=lQQcd1)
 -->
 
 #### 時間與地點
@@ -24,7 +23,7 @@ title: "健康應用之程式語言 2024 (呼治系)"
 
 |週次|日期   |主題                       |投影片   |錄影 | 預定事項 |
 |--- |---   |---                        |---|---|---|
-|1   |2/23  | 課程介紹與python簡介、開發環境  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec07vKRkQehBlGJUmsUUk5cBnk3LXOqIAev0pfnt89wx-w?e=LNpp8B)  | [YouTube](https://youtu.be/UItCRIwmPzg)        |                              |
+|1   |2/23  | 課程介紹與python簡介、開發環境  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec07vKRkQehBlGJUmsUUk5cBnk3LXOqIAev0pfnt89wx-w?e=LNpp8B) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgTC2j0wDgNLn4HNjNtp0iMBrfHhnS90_YSWiKoJk7lYeQ?e=lQQcd1) | [YouTube](https://youtu.be/UItCRIwmPzg)        |                              |
 |2   |3/1   | 變數、運算式               |      |         |                              |
 |3   |3/8   | 判斷式                     |      |         |                              |
 |4   |3/15  | 迴圈                       |      |         |                              |
