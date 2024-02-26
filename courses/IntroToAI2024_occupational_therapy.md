@@ -24,7 +24,7 @@ title: "人工智慧概論 2024 (職治系)"
 
 |週次|日期         |主題                  |投影片 |錄影     | 預定事項                      |
 |--- |---         |---                   |---   |---      |---                           |
-|2   |2/26        | 淺論人工智慧          |      |         |                              |
+|2   |2/26        | 淺論人工智慧          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUJcy2me7tdLizFvQWEJXkYBCavJhot-xTr3XP0ruqA5kQ?e=8vWxoX)     |         |                              |
 |4   |3/11        | 人工智慧之應用簡介    |      |         |                              |
 |6   |3/25        | 人工智慧之影響簡介     |      |         |                              |
 |8   |4/8         |                      |      |         |  期中考                      |
