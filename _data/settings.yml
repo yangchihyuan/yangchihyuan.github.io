@@ -18,6 +18,7 @@ courses:
 - {name: '人工智慧概論 2024(職治系)', url: 'IntroToAI2024_occupational_therapy'}
 - {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
 - {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_physical_therapy'}
+- {name: 'Programming Design for Health Applications 2024(department of physical therapy)', url: 'HealthLanguage2024_physical_therapy_eng'}
 - {name: 'Computer Vision 2023', url: 'cv2023'}
 
 talks:
