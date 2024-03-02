@@ -25,17 +25,17 @@ title: "健康應用之程式語言 2024 (物治系)"
 |--- |---   |---                        |---     |---        |---       |
 |1   |2/19  | 課程介紹與python簡介、開發環境       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWE2xpbRm9tLhgnKREF8LYABDFQ8D7Vm7N0F1dwjnPosrQ?e=rhte1G) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgTC2j0wDgNLn4HNjNtp0iMBrfHhnS90_YSWiKoJk7lYeQ?e=lQQcd1)       |  [YouTube](https://youtu.be/BXqpsbl7iEw)        |          |
 |2   |2/26  | 變數、運算式               | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EY6dsm6bQQhFlRL1wAIaq6UBA6F3OvZkpVxUgJZCxCVAVw?e=WX8hdP) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EnoxoOREvOJNrwGwixNMcrEBGf7jzcqb2-FQJIiDJbkE5w?e=HgKhjz) [pptx_Eng](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EcEiGaws1l1IqAMp0vK4xpcB_8SBdnpolWYfo4_rtmWbvg?e=Tn1uBF) [code_Eng](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/Enu1EWyCdOpAg1bMZCmImSwBERzlnDfhteLXpH1H8N0v9g?e=2mKQR7)       | [YouTube](https://youtu.be/FK1JJ8RebwM)         |          |
-|3   |3/4   | 判斷式                     |         |         |           |
-|4   |3/11  | 迴圈                       |        |        |           |
-|5   |3/18  | 串列與元組                  |       |         |           |
-|6   |3/25  | 字典                       |        |         |           |
+|3   |3/4   | 流程控制                     | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeMYxYwmjtRBuLm3Eegy3eQBeeJ3ZmcrsIsNniZJYFpGLg?e=oZDU6e) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EhT6fGcO-ZtMritw7V76TVkBbbLEMFN2SXtT3rtcIrbrrg?e=1FM4eA)       |         |           |
+|4   |3/11  | 串列與元組                       |        |        |           |
+|5   |3/18  | 字典                  |       |         |           |
+|6   |3/25  | 函式與模組                       |        |         |           |
 |7   |4/1   |                           |        |         | 期中考     |
 |8   |4/8   |                           |      |         |  期末專題提案報告  |
-|9   |4/15  | 函式與模組                |      |         |              |
-|10  |4/22  | 演算法                    |      |         |              |
-|11  |4/29  | 檔案與例外處理            |      |         |              |
-|12  |5/6   | 類別與物件導向            |      |         |              |
-|13  |5/13  | Excel套件                 |      |         |              |
+|9   |4/15  | 演算法                |      |         |              |
+|10  |4/22  | 檔案與例外處理                    |      |         |              |
+|11  |4/29  | 類別與物件導向            |      |         |              |
+|12  |5/6   | Excel套件            |      |         |              |
+|13  |5/13  | 視覺化套件                 |      |         |              |
 |14  |5/20  | 繪圖套件                  |      |         |               |
 |15  |5/27  |                           |      |         |  期末報告      |
 |16  |6/3   |                           |      |         |  期末報告       |

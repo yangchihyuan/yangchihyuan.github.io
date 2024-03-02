@@ -25,18 +25,18 @@ title: "健康應用之程式語言 2024 (呼治系)"
 |--- |---   |---                        |---|---|---|
 |1   |2/23  | 課程介紹與python簡介、開發環境  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec07vKRkQehBlGJUmsUUk5cBnk3LXOqIAev0pfnt89wx-w?e=LNpp8B) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgTC2j0wDgNLn4HNjNtp0iMBrfHhnS90_YSWiKoJk7lYeQ?e=lQQcd1) | [YouTube](https://youtu.be/UItCRIwmPzg)        |                              |
 |2   |3/1   | 變數、運算式               | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUGqYI2jIA5EluD7t-5fYgYBZ_18nW_IWbzT8s8ncdxn6g?e=k2z9vZ)   [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EnoxoOREvOJNrwGwixNMcrEBGf7jzcqb2-FQJIiDJbkE5w?e=HgKhjz)  | [YouTube](https://youtu.be/8NDaTvVsvjQ)        |                              |
-|3   |3/8   | 判斷式                     |      |         |                              |
-|4   |3/15  | 迴圈                       |      |         |                              |
-|5   |3/22  | 串列與元組                |      |         |                              |
-|6   |3/29  | 字典                      |    |         |                              |
+|3   |3/8   | 流程控制                     |      |         |                              |
+|4   |3/15  | 串列與元組                       |      |         |                              |
+|5   |3/22  | 字典                |      |         |                              |
+|6   |3/29  | 函式與模組                      |    |         |                              |
 |7   |4/5   |                           |      |         | 清明連假                       |
 |8   |4/12  |                           |      |         | 期中考                        |
 |9   |4/19  |                           |      |         | 期末專題提案報告                             |
-|10  |4/26  | 函式與模組                |      |         |                              |
-|11  |5/3   | 演算法                    |      |         |                              |
-|12  |5/10  | 檔案與例外處理            |      |         |                              |
-|13  |5/17  | 類別與物件導向            |      |         |                              |
-|14  |5/24  | Excel套件                 |      |         |                              |
+|10  |4/26  | 演算法                |      |         |                              |
+|11  |5/3   | 檔案與例外處理                    |      |         |                              |
+|12  |5/10  | 類別與物件導向            |      |         |                              |
+|13  |5/17  | Excel套件            |      |         |                              |
+|14  |5/24  | 視覺化套件                 |      |         |                              |
 |15  |5/31  | 繪圖套件                  |      |         |                        |
 |16  |6/7   |                            |      |         |  期末報告                      |
 
