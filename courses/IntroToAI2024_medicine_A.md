@@ -25,7 +25,7 @@ Line id : 0922489898 <br/>
 |--- |---         |---                   |---   |---      |---          |
 |1   |2/19        | 淺論人工智慧          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EU8JfJEyfAJNpqhA2qOkV0QBOpIbhjIGk1L55A93MsPQHw?e=yxXdz7)   |  [YouTube](https://youtu.be/BBuKagiEx38)     |             |
 |3   |3/4         | 人工智慧之應用簡介     | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EW7vPBekZjpDiW4zAck-z1oBFgyF8yNXhJPfCnfU0MG9fQ?e=Jl2bWL)     | [YouTube](https://youtu.be/dqY9D7oKt2k)        |             |
-|5   |3/18        | 人工智慧之影響簡介     |      |         |             |
+|5   |3/18        | 人工智慧之影響簡介     | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbqnUodDbLRFixSknUEMwCUBRcQppmkWRalnLMe14gZwtw?e=jqszgX)     |         |             |
 |7   |4/1         |                      |      |         |  期中考      |
 |9   |4/15        | 人工智慧之技術簡介   |      |         |             |
 |11  |4/29        | 期末報告1  |      |         |     |
