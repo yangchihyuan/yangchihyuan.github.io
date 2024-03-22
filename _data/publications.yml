@@ -18,8 +18,8 @@ index:
 - {name: 'IdenNet: Identity-Aware Facial Action Unit Detection (Cheng-Hao Tu, Chih-Yuan Yang, and Jane Yung-jen Hsu), FG19.', url: '/publications/FG19_IdenNet.pdf', image: '/publications/FG19_IdenNet.jpg' }
 - {name: 'SemiStar-GAN: Semi-Supervised Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (Shu-Yu Hsu, Chih-Yuan Yang, Chi-Chia Huang, and Jane Yung-jen Hsu), ACCV18.', url: '/publications/ACCV18_SemiStarGAN.pdf', image: '/publications/ACCV18_SemiStarGAN.jpg'}
 - {name: 'Learning a No-Reference Quality Metric for Single-Image Super-Resolution (Chao Ma, Chih-Yuan Yang, Xiaokang Yang, and Ming-Hsuan Yang), CVIU17.', url: '/publications/CVIU17_no_reference.pdf', image: '/publications/CVIU17_no_reference.jpg'}
-- {name: 'Compressed Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), IJCV17.', url: '/publications/IJCV17_face.pdf'}
-- {name: 'Single-Image Super-Resolution: A Benchmark (Chih-Yuan Yang, Chao Ma, and Ming-Hsuan Yang), ECCV14.', url: '/publications/14ECCV_SingleImageSuperResolutionABenchmark.pdf'}
-- {name: 'Fast Direct Super-Resolution by Simple Functions (Chih-Yuan Yang and Ming-Hsuan Yang), ICCV13.', url: '/publications/13ICCV_FastDirectSuperResolutionBySimpleFunctions.pdf'}
-- {name: 'Structured Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), CVPR13.', url: '/publications/13CVPR_hallucination.pdf'}
-- {name: 'Exploiting Self-Similarities for Single Frame Super-Resolution (Chih-Yuan Yang, Jia-Bing Huang, and Ming-Hsuan Yang), ACCV10.', url: '/publications/10ACCV.pdf'}
+- {name: 'Compressed Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), IJCV17.', url: '/publications/IJCV17_face.pdf', image: '/publications/IJCV17_face.jpg'}
+- {name: 'Single-Image Super-Resolution: A Benchmark (Chih-Yuan Yang, Chao Ma, and Ming-Hsuan Yang), ECCV14.', url: '/publications/14ECCV_SingleImageSuperResolutionABenchmark.pdf', image: '/publications/14ECCV_SingleImageSuperResolutionABenchmark.jpg'}
+- {name: 'Fast Direct Super-Resolution by Simple Functions (Chih-Yuan Yang and Ming-Hsuan Yang), ICCV13.', url: '/publications/13ICCV_FastDirectSuperResolutionBySimpleFunctions.pdf', image: '/publications/13ICCV_FastDirectSuperResolutionBySimpleFunctions.jpg'}
+- {name: 'Structured Face Hallucination (Chih-Yuan Yang, Sifei Liu, and Ming-Hsuan Yang), CVPR13.', url: '/publications/13CVPR_hallucination.pdf', image: '/publications/13CVPR_hallucination.jpg' }
+- {name: 'Exploiting Self-Similarities for Single Frame Super-Resolution (Chih-Yuan Yang, Jia-Bing Huang, and Ming-Hsuan Yang), ACCV10.', url: '/publications/10ACCV.pdf', image: '/publications/10ACCV.jpg'}
