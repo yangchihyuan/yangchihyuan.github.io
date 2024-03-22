@@ -9,7 +9,7 @@
     <table cellpadding="5" border='0'>
       {% for item in site.data.publications.index %}
       <tr>
-        <td align="center" style='border:none;'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
+        <td style='border:none; text-align:center'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
         <td style='border:none;'><p><a href="{{ item.url }}">{{ item.name }}</a></p></td>
       </tr>
       {% endfor %}
