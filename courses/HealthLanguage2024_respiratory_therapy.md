@@ -29,15 +29,15 @@ title: "健康應用之程式語言 2024 (呼治系)"
 |4   |3/15  | 串列與元組                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbLvB9uHpGRCjwz_7fhqNPcBTGJXCJp5JqGKMHMaVdBbNQ?e=zIin3b) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EsCHuAhwxRRHh-sJBB9EW5IBNf9Z8JYTnPmjbe5XmeigzA?e=04H3di)     | [YouTube](https://youtu.be/6yiqRuR8JCg)        |                              |
 |5   |3/22  | 字典與內建函式            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ebn9t-amiVFMiVtoOxQPHIABnEpPNa_aaY6f30duisiOkw?e=STgfJ7) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EtmuGX643CBLn3USBrfPN3UBp6UuzIx2GQPJmfmOUGC4pQ?e=wusdHr)     | [YouTube](https://youtu.be/O5bt77mb4So)        |                              |
 |6   |3/29  | 字串函式與模組            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQqySTy9iABDtOrq7WdnpdABWWvKTZxwJ6zCwhJ9e2KBEg?e=ucze7O) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EkxhPemj-n5Klnun5d-1jPIBi3svaxpe4M0Elg2218C0gw?e=7hgQBV)   |         |                              |
-|7   |4/5   |                           |      |         | 清明連假                       |
-|8   |4/12  |                           |      |         | 期中考                        |
-|9   |4/19  |                           |      |         | 期末專題提案報告                             |
-|10  |4/26  | 演算法                |      |         |                              |
-|11  |5/3   | 檔案與例外處理                    |      |         |                              |
-|12  |5/10  | 類別與物件導向            |      |         |                              |
-|13  |5/17  | Excel套件            |      |         |                              |
+|7   |4/5   |                           |      |         | 清明連假                         |
+|8   |4/12  |                           |      |         | 期中考                          |
+|9   |4/19  | 檔案與例外處理            |      |         |                                 |
+|10  |4/26  | 類別與物件導向            |      |         |                                 |
+|11  |5/3   | Excel套件                 |      |         |                                 |
+|12  |5/10  |                           |      |         | 期末專題提案報告               |
+|13  |5/17  | 圖形使用者介面             |      |         |                              |
 |14  |5/24  | 視覺化套件                 |      |         |                              |
 |15  |5/31  | 繪圖套件                  |      |         |                        |
-|16  |6/7   |                            |      |         |  期末報告                      |
+|16  |6/7   |                          |      |         |  期末報告                      |
 
 <br/>
