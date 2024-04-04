@@ -35,4 +35,4 @@ Kuan-Fu Chen, Associate Professor and Attending Physician, Keelung Chang Gung Me
 Chih-Yuan Yang, Assistant Professor, Department of Artificial Intilligence, Chang Gung University (CGU)
 
 #### Q & A
-1. Q. Can authors use their own template rather than the one provided in this webpage? A. Yes, they can, and the four elements are still required: English, poster titles, authors' names and afflications. You can adjust your own poster orientation and size, and the physical size of our poster board is 147cm x 90cm (width x height).
+1. Q: Can authors use their own template rather than the one provided in this webpage? A: Yes, they can, and the four elements are still required: English, poster titles, authors' names and afflications. You can adjust your own poster orientation and size, and the physical size of our poster board is 147cm x 90cm (width x height).
