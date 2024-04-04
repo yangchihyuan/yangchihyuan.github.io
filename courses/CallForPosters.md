@@ -28,7 +28,7 @@ Forum and Poster Session: May 24, 2024
 
 #### Technical Review Committee
 Chair: Kwei-Jay Lin, Chair Professor and Dean, College of Intelligent Computing, Chang Gung University (CGU) <br/>
-Co-Chair: Jane YJ Hsu, Director of NTU IoX Center, Distinguished Professor, Associate Dean, College of Intelligent Computing, Chang Gung University(CGU)<br/>
+Co-Chair: Jane YJ Hsu, Director of NTU IoX Center, Distinguished Professor and Associate Dean, College of Intelligent Computing, Chang Gung University(CGU)<br/>
 TC Members:<br/>
 Chee-Jen Chang, Director, Clinical Informatics and Medical Statistics Research Center (CIMS), Chang Gung University (CGU)<br/>
 Kuan-Fu Chen, Associate Professor and Attending Physician, Keelung Chang Gung Memorial Hospital (CGU and CGMH)<br/>
