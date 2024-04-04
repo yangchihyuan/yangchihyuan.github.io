@@ -1,5 +1,5 @@
 ---
-layout: page_IntroAICourse
+layout: page_CallForPosters
 title: "AI Forum 2024 Call For Posters"
 ---
 
