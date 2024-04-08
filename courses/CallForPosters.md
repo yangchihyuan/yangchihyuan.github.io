@@ -19,7 +19,7 @@ All posters should have a distinct AI element. Topics related to NSTC projects a
 
 The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZyukcZcilRJl2iz-QbwXmYBnXsZGwrtTfY9nlsGNGDBgQ?e=9ffwAs) for your submission, which should be converted in a full-size PDF File and uploaded via this link: [https://shorturl.at/kovM3](https://shorturl.at/kovM3)
 
-Accepted posters must have at least one author registering in the AI Forum.
+Accepted posters must have at least one author registering in the AI Forum. 
 
 #### Important Dates
 **Submission Deadline:** May 17, 2024
@@ -35,4 +35,4 @@ Kuan-Fu Chen, Associate Professor and Attending Physician, Keelung Chang Gung Me
 Chih-Yuan Yang, Assistant Professor, Department of Artificial Intelligence, Chang Gung University (CGU)
 
 #### Q & A
-1. Q: Can authors use their own template rather than the one provided in this webpage? A: Yes, they can, and the four elements are still required: English, poster titles, authors' names and affiliations. You can adjust your own poster orientation and size, and the physical size of our poster board is 147cm x 90cm (width x height).
+1. Q: Can authors use their own template rather than the one provided in this webpage? A: Yes, they can, and the four elements are still required: English, poster titles, authors' names and affiliations. You can adjust your own poster orientation and size, and the physical size of our poster board is 90cm x 150cm (width x height).
