@@ -8,12 +8,17 @@ title: "AI Forum 2024 Call For Posters"
 
 We invite researchers and students in Taiwan and abroad to submit posters for presentation at the TAAI AI Forum. The poster session will showcase recent advances in either research results or project achievements. Posters can highlight research work published in other peer-reviewed conferences with appropriate acknowledgments. 
 
-All posters should have a distinct AI element. Topics related to NSTC projects are encouraged. Topics of interest include, but not limited to the following:
+We accept two types of posters.
+1. AI-related.
+Topics of interest include, but not limited to the following:
 
-1. Foundational advances in design of AI models, algorithms and theory and their software and hardware implementations.
-2. AI for accelerating scientific progress in all disciplines including AI-driven discovery and optimization.
-3. Social, psychological and ethical aspects of AI, including human-machine interaction. 
-4. Topics related to AI education should have a research aspect for it to be eligible for this session.
+- Foundational advances in design of AI models, algorithms and theory and their software and hardware implementations.
+- AI for accelerating scientific progress in all disciplines including AI-driven discovery and optimization.
+- Social, psychological and ethical aspects of AI, including human-machine interaction.
+- Topics related to AI education should have a research aspect for it to be eligible for this session.
+
+2. NSTC project exhibition.
+Any topics are welcome.
 
 #### Submission
 
