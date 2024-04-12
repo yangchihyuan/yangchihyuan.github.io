@@ -18,7 +18,7 @@ We accept two types of posters.
 
 #### Submission
 
-The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this Google Forms link: [Upload URL](https://forms.gle/UTz9cqYwqAFmKYpV8)
+The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this Google Forms link: [Upload URL](https://forms.gle/UTz9cqYwqAFmKYpV8).
 
 Accepted posters must have at least one author registering for the AI Forum. 
 
