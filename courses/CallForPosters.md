@@ -14,11 +14,11 @@ We accept two types of posters.
 - AI for accelerating scientific progress in all disciplines including AI-driven discovery and optimization.
 - Social, psychological and ethical aspects of AI, including human-machine interaction.
 - Topics related to AI education should have a research aspect for it to be eligible for this session.
-2. NSTC project exhibition with any topics.
+2. NSTC project exhibition with a project funded under the area of Intelligent Computing or Information Engineering.
 
 #### Submission
 
-The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this Google Forms link: [Upload URL](https://forms.gle/UTz9cqYwqAFmKYpV8).
+The poster's size should be A1, language is either Chinese or English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this Google Forms link: [Upload URL](https://forms.gle/UTz9cqYwqAFmKYpV8).
 
 Accepted posters must have at least one author registering for the AI Forum. 
 
@@ -40,11 +40,11 @@ Forum and Poster Session: May 24, 2024<br/>
 - 各領域以人工智慧方法達成的科學成就，例如新發現與最佳化。
 - 人工智慧帶來的社會、心理、與倫理方面的影響，包括人類與機器之間的互動。
 - 人工智慧教育方面的主題應包含以科學方法探討的內容，以符合本論壇之宗旨
-2. 國科會研究計劃之成果公開展示，不限研究領域。
+2. 國科會智慧計算或資訊工程學門補助計畫研究成果。
 
 #### 投稿資訊
 
-海報內容說明語言需為英文，並含有標題、作者姓名及組織，作者姓名可附加中文以利識別，海報建議尺寸為A1。請下載此[PowerPoint範本](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true)參考。完稿後請匯出成PDF檔並上傳至此[Google Forms連結](https://forms.gle/UTz9cqYwqAFmKYpV8)。
+海報內容說明語言需為中文或英文，並含有標題、作者姓名及組織，海報建議尺寸為A1。請下載此[PowerPoint範本](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true)參考。完稿後請匯出成PDF檔並上傳至此[Google Forms連結](https://forms.gle/UTz9cqYwqAFmKYpV8)。
 
 接受之海報作者中，需有一位本論壇之註冊與會者。
 
@@ -54,5 +54,5 @@ Forum and Poster Session: May 24, 2024<br/>
 海報展示日：2024年5月24日<br/>
 
 #### 問與答
-1. 問：請問可以用自己的範本而不是大會提供的範本嗎？答：可以。投稿者可以自己設計海報格式，但請遵循以下規範：說明語言為英文、含有海報標題、作者姓名及組織。本會提供之海報看板最大可張貼之海報大小為寬90公分、高150公分。
+1. 問：請問可以用自己的範本而不是大會提供的範本嗎？答：可以。投稿者可以自己設計海報格式，但請遵循以下規範：使用語言為中文或英文、含有海報標題、作者姓名及組織。本會提供之海報看板最大可張貼之海報大小為寬90公分、高150公分。
 
