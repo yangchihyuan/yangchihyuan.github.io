@@ -23,9 +23,9 @@ The poster's size should be A1, language is English, including a title along wit
 Accepted posters must have at least one author registering in the AI Forum. 
 
 #### Important Dates
-**Submission Deadline:** May 17, 2024
-**Acceptance Notification:** May 21, 2024
-**Forum and Poster Session:** May 24, 2024
+**Submission Deadline:** May 17, 2024 </br>
+**Acceptance Notification:** May 21, 2024</br>
+**Forum and Poster Session:** May 24, 2024</br>
 
 #### Q & A
 1. Q: Can authors use their own template rather than the one provided in this webpage? A: Yes, they can, and the four elements are still required: English, poster titles, authors' names and affiliations. You can adjust your own poster orientation and size, and the physical size of our poster board is 90cm x 150cm (width x height).
@@ -49,9 +49,9 @@ Accepted posters must have at least one author registering in the AI Forum.
 接受之海報作者中，需有一位本論壇之註冊與會者。
 
 #### 重要日期
-投稿截止日：2024年5月17日23時59分
-接受稿件公告日：2024年5月21日
-海報展示日：2024年5月24日
+投稿截止日：2024年5月17日23時59分 </br>
+接受稿件公告日：2024年5月21日 </br>
+海報展示日：2024年5月24日</br>
 
 #### 問與答
 1. 問：請問可以用自己的範本而不是大會提供的範本嗎？答：可以。投稿者可以自己設計海報格式，但請遵循以下規範：說明語言為英文、含有海報標題、作者姓名及組織。本會提供之海報看板最大可張貼之海報大小為寬90公分、高150公分。
