@@ -18,7 +18,7 @@ We accept two types of posters.
 
 #### Submission
 
-The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this link: [https://shorturl.at/kovM3](https://shorturl.at/kovM3)
+The poster's size should be A1, language is English, including a title along with authors' names and afflictions. We offer a [PowerPoint template](https://docs.google.com/presentation/d/17yOpgadtPBwS3zAoy23DtTxeMtN1ZCce/edit?usp=sharing&ouid=117648312492788736391&rtpof=true&sd=true) for your submission, which should be converted in a full-size PDF File and uploaded via this Google Forms link: [Upload URL](https://forms.gle/UTz9cqYwqAFmKYpV8)
 
 Accepted posters must have at least one author registering in the AI Forum. 
 
@@ -44,7 +44,7 @@ Forum and Poster Session: May 24, 2024<br/>
 
 #### 投稿資訊
 
-海報內容說明語言需為英文，並含有標題、作者姓名及組織，作者姓名可附加中文以利識別，海報建議尺寸為A1。請下載此[PowerPoint範本](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZyukcZcilRJl2iz-QbwXmYBnXsZGwrtTfY9nlsGNGDBgQ?e=9ffwAs)參考。完稿後請匯出成PDF檔並上傳至此連結[https://shorturl.at/kovM3](https://shorturl.at/kovM3)。
+海報內容說明語言需為英文，並含有標題、作者姓名及組織，作者姓名可附加中文以利識別，海報建議尺寸為A1。請下載此[PowerPoint範本](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZyukcZcilRJl2iz-QbwXmYBnXsZGwrtTfY9nlsGNGDBgQ?e=9ffwAs)參考。完稿後請匯出成PDF檔並上傳至此[Google Forms連結](https://forms.gle/UTz9cqYwqAFmKYpV8)。
 
 接受之海報作者中，需有一位本論壇之註冊與會者。
 
