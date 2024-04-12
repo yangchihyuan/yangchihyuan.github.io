@@ -23,14 +23,14 @@ The poster's size should be A1, language is English, including a title along wit
 Accepted posters must have at least one author registering in the AI Forum. 
 
 #### Important Dates
-**Submission Deadline:** May 17, 2024 <br/>
-**Acceptance Notification:** May 21, 2024<br/>
-**Forum and Poster Session:** May 24, 2024<br/>
+Submission Deadline: May 17, 2024 <br/>
+Acceptance Notification: May 21, 2024<br/>
+Forum and Poster Session: May 24, 2024<br/>
 
 #### Q & A
 1. Q: Can authors use their own template rather than the one provided in this webpage? A: Yes, they can, and the four elements are still required: English, poster titles, authors' names and affiliations. You can adjust your own poster orientation and size, and the physical size of our poster board is 90cm x 150cm (width x height).
 
-#### 2024 台灣人工智慧學會 人工智慧論壇海報徵稿
+#### 2024 中華民國人工智慧學會 人工智慧論壇海報徵稿
 #### 2024年5月24日 上午9點至12點 長庚大學
 
 我們邀請國內外學者及研究人員投搞本論壇的海報展示，藉由呈現最先進的研究進展與結案報告，您可以獲得與專家學者交流的機會，以此精進您的研究內容，並建立信任與信用，以爭取未來的研究經費。本海報議程接受兩種不同的內容的海報
