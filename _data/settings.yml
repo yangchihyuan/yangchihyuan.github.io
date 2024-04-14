@@ -19,7 +19,7 @@ courses:
 - {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
 - {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_physical_therapy'}
 - {name: 'Computer Vision 2023', url: 'cv2023'}
-- {name: 'Test', url: 'CallForPosters'}
+#- {name: 'Test', url: 'CallForPosters'}
 
 talks:
 - {name: 'Stock Investing at NTU iAgent lab', url: 'stock_investing_2303'}
