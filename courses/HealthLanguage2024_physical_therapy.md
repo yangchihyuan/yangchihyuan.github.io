@@ -31,7 +31,7 @@ title: "健康應用之程式語言 2024 (物治系)"
 |6   |3/25  | 字串函式與模組             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUB9mx7ZFThJs-UQjdMJ3-IBgQy-6Uf2RCTCefrre5a8ZQ?e=PMGYSh) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EkxhPemj-n5Klnun5d-1jPIBi3svaxpe4M0Elg2218C0gw?e=7hgQBV)      | [YouTube](https://youtu.be/PGfVzQzwxA8)        |           |
 |7   |4/1   |                           |        |         | 期中考     |
 |8   |4/8   | 檔案與例外處理             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUQTzfoRRKdApu4OVjMp-JIBtB9Hxz1-jDhbs_S3WJoE2A?e=E3H6uB) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/Ety4j-b6eZtDuqw2zucANAUBbJyoLTqjiW9bqnuJVlXSzw?e=ANfxbi)    | [YouTube](https://youtu.be/JdwecUdfH7c)        |              |
-|9   |4/15  | Excel套件                 |      |         |              |
+|9   |4/15  | Excel套件                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZlRhpzasblInA8Z6vZi3YoBOcqjuwlAMWxpqVtBwVStUg?e=ZKKuao) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EmP1PRsTHz9Jr-HVFbjxHf4BhYLPkrefq5B22ME1etOldw?e=KxXGny)     |         |              |
 |10  |4/22  | 圖形使用者介面                  |      |         |              |
 |11  |4/29  |                            |      |         |  期末專題提案報告            |
 |12  |5/6   | 類別與物件             |      |         |              |
