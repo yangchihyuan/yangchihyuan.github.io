@@ -31,7 +31,7 @@ title: "健康應用之程式語言 2024 (呼治系)"
 |6   |3/29  | 字串函式與模組            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQqySTy9iABDtOrq7WdnpdABWWvKTZxwJ6zCwhJ9e2KBEg?e=ucze7O) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EkxhPemj-n5Klnun5d-1jPIBi3svaxpe4M0Elg2218C0gw?e=7hgQBV)   | [YouTube](https://youtu.be/Jf9p5rk7Hcg)        |                              |
 |7   |4/5   |                           |      |         | 清明連假                         |
 |8   |4/12  |                           |      |         | 期中考                          |
-|9   |4/19  | 檔案與例外處理            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETcJr8uRI0JIsFPNfpjGw28B4JnpBLOHNeFkeUCBPbLXgw?e=AI0ptP) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/Ety4j-b6eZtDuqw2zucANAUBbJyoLTqjiW9bqnuJVlXSzw?e=0reMJn)     |         |                                 |
+|9   |4/19  | 檔案與例外處理            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETcJr8uRI0JIsFPNfpjGw28B4JnpBLOHNeFkeUCBPbLXgw?e=AI0ptP) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/Ety4j-b6eZtDuqw2zucANAUBbJyoLTqjiW9bqnuJVlXSzw?e=0reMJn)     | [YouTube](https://youtu.be/XSeRbQSIQSk)        |                                 |
 |10  |4/26  | Excel套件                 |      |         |                                 |
 |11  |5/3   | 圖形使用者介面            |      |         |                                 |
 |12  |5/10  |                           |      |         | 期末專題提案報告               |
