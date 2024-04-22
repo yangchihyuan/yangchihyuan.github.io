@@ -37,4 +37,4 @@ HarmonEld🤗
 
 Source of the post: [Facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid022yaRmF5B7EoxCG1UCEUiZfZJj9PdU3fLE1dZ5vg83qEZj47v1QQ5XsJRJ6AjRqm3l&id=100063962268824)
 
-![Poster](assets/img/MOE_innovation_center.jpg)
+![Poster](http://yangchihyuan.github.io/access/img/MOE_innovation_center.jpg)
