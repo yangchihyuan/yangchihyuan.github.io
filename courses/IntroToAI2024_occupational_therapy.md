@@ -28,7 +28,7 @@ title: "人工智慧概論 2024 (職治系)"
 |4   |3/11        | 人工智慧之應用簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ebm_W7OVMsdHhr-zWQZsRPoB1iuyf8gXvjS9okauYQNxcQ?e=CtXk7B)     | [YouTube](https://youtu.be/jSqUZUysp30)        |                              |
 |6   |3/25        | 人工智慧之影響簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWaijA95WR1JqraYsyWnXZMBnWcxUe7svdzPfMFa5063QQ?e=zlPMgN)     | [YouTube](https://youtu.be/vooNGc1a2fM)        |                              |
 |8   |4/8         |                      |      |         |  期中考                      |
-|10  |4/22        | 人工智慧之技術簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfzQs8F0kYVDpou2ybga0icBG0XXIaPm8sZK7qaAcmDEBg?e=hAFEAx)     |         |                              |
+|10  |4/22        | 人工智慧之技術簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfzQs8F0kYVDpou2ybga0icBG0XXIaPm8sZK7qaAcmDEBg?e=hAFEAx)     | [YouTube](https://youtu.be/Zr99F9efyDA)        |                              |
 |12  |5/6         | 期末報告1             |      |         |                    |
 |14  |5/20        | 期末報告2             |      |         |                      |
 |16  |6/3         | 期末報告3             |      |         |                     |
