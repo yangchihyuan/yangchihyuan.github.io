@@ -34,13 +34,13 @@ Line id : 0922489898 <br/>
 
 <br/>
 
-#### 期末專題
+#### 期末專題報告
 
 |組別|題目                     |投影片      |錄影            |書面報告 |
 |1   |AI在醫學診斷的應用        |           |[YouTube](https://youtu.be/rZ9gwMIrxwk)            |        |
-|2   |AI在遊戲中應用            |           |[YouTube](https://youtu.be/rkMlmVBlsaM)            |        |
-|3   |AI生成藝術作品            |           |            |        |
-|4   |短視頻與人工智慧          |           |            |        |
+|2   |AI在遊戲中的應用          |           |[YouTube](https://youtu.be/B42DPV7uL3w)            |        |
+|3   |AI生成藝術作品            |           |[YouTube](https://youtu.be/9EhsS7ylqJc)            |        |
+|4   |短視頻與人工智慧          |           |[YouTube](https://youtu.be/rgQE8FZtqjY)            |        |
 |5   |AI在西洋棋中的應用         |          |             |        |
 |6   |AI 、音樂與記憶力          |          |             |        |
 |7   |AI在合成人聲的應用         |          |             |        |
