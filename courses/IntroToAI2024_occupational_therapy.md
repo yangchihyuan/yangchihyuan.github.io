@@ -38,18 +38,18 @@ title: "人工智慧概論 2024 (職治系)"
 #### 期末專題報告
 
 |組別|題目                     |投影片      |錄影            |書面報告 |
-|1   |        |           |            |        |
+|1   | ChatGPT                | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EXx5LNFoBLFMvYmqOdF9x4wB9BIRCOeXtFTFq0-UTUMx8A?e=b88p87)          | [YouTube](https://youtu.be/-198t44FqWA)           |        |
 |2   |          |           |            |        |
-|3   | AI在媒體創作上的應用           | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdXhe8GF_SRNtCSFYKBZUOMBG6R69u021Jh3hjFc7J67NA?e=WfGTr2)          |            |        |
+|3   | AI在媒體創作上的應用           | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdXhe8GF_SRNtCSFYKBZUOMBG6R69u021Jh3hjFc7J67NA?e=WfGTr2)          | [YouTube](https://youtu.be/86Dlh5k7nIs)           |        |
 |4   |          |           |            |        |
-|5   | AI文學創作與著作權歸屬        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EZjdCZItMotMj1DXP9Ysjo8BqXmzg6Dfjjh2Arst7Bnmow?e=j3Cryp)          |             |        |
+|5   | AI文學創作與著作權歸屬        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EZjdCZItMotMj1DXP9Ysjo8BqXmzg6Dfjjh2Arst7Bnmow?e=j3Cryp)          | [YouTube](https://youtu.be/iftzDT_hVDU)            |        |
 |6   |          |          |             |        |
 |7   |         |          |             |        |
 |8   |       |          |             |        |
 |9   |     |          |             |        |
-|10  | Netflix人工智慧運用        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EVF0xSmx8r5Nt5U5b5qos3kBHlOB4u9Tiigwj0KyxMSWSQ?e=ACjU9h)         |             |        |
+|10  | Netflix人工智慧運用        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EVF0xSmx8r5Nt5U5b5qos3kBHlOB4u9Tiigwj0KyxMSWSQ?e=ACjU9h)         | [YouTube](https://youtu.be/bmMQQrIMeLA)            |        |
 |11  |                |           |            |        |
-|12  | ChatGPT        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ET_W1PeP1-NPnxEjeretWNsBRZpaDeUPflBTcM-i5u0GLg?e=X6fMlI)         |             |        |
+|12  | ChatGPT        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ET_W1PeP1-NPnxEjeretWNsBRZpaDeUPflBTcM-i5u0GLg?e=X6fMlI)         | [YouTube](https://youtu.be/MbtF8R5bdWo)            |        |
 |13  |                |           |            |        |
 |14  |                |           |            |        |
 |15  |                |           |            |        |
