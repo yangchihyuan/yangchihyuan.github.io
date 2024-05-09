@@ -42,7 +42,7 @@ Line id : 0922489898 <br/>
 |3   |AI生成藝術作品            |           |[YouTube](https://youtu.be/9EhsS7ylqJc)            |        |
 |4   |短視頻與人工智慧          |           |[YouTube](https://youtu.be/rgQE8FZtqjY)            |        |
 |5   |AI在西洋棋中的應用         |          |             |        |
-|6   |AI 、音樂與記憶力          |          |             |        |
+|6   |AI在學習上的應用           |          |             |        |
 |7   |AI在合成人聲的應用         |          |             |        |
 |8   |AI在自動駕駛中的應用       |          |             |        |
 |9   |AI在影像處理領域的應用     |          |             |        |
