@@ -35,7 +35,7 @@ title: "健康應用之程式語言 2024 (物治系)"
 |10  |4/22  | 圖形使用者介面                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUw4cLAFgOBHupTjdkajLj8BKaSvBO1jlGgsVoNx0Q_nqA?e=oYqMYG) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/ErHzk2dt7RpKvep29M4CIKIBTjOaAo0NgI625RKQndoMXg?e=6o8WyN)     | [YouTube](https://youtu.be/6cRjNZqJwAs)        |              |
 |11  |4/29  |                            |      |         |  期末專題提案報告            |
 |12  |5/6   | 類別與物件             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EapcjnEA6wpIoAUqsi5CuzUBurxSZkZT0_xVjhg3L4_7XA?e=FrMvhL) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgpQL4T45VlBoZ_HgvTMRxoBKjG6uMn-xc1VvWFmktJUzw?e=jfcEk2)     | [YouTube](https://youtu.be/dq7uzbYFS7w)        |              |
-|13  |5/13  | 版本控制與團隊開發                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdT1fxQYCf9JqYHEdgncxW8BToHpEht1-r34xKupZeIgnw?e=XLwDB5) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/ElRxTH4-60FJrCjMNhiVbe8B5iubX69Vc_yLYSdgvOgnFg?e=O8DWGK)     |         |              |
+|13  |5/13  | 版本控制與團隊開發                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdT1fxQYCf9JqYHEdgncxW8BToHpEht1-r34xKupZeIgnw?e=XLwDB5)      | [YouTube](https://youtu.be/Ut7cpZyClW0)        |              |
 |14  |5/20  | 資料視覺化套件                   |      |         |               |
 |15  |5/27  |                           |      |         |  期末報告      |
 |16  |6/3   |                           |      |         |  期末報告       |
