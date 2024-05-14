@@ -39,13 +39,13 @@ Line id : 0922489898 <br/>
 |組別|題目                     |投影片      |錄影            |書面報告 |
 |1   |AI在醫學診斷的應用        |           |[YouTube](https://youtu.be/rZ9gwMIrxwk)            |        |
 |2   |AI在遊戲中的應用          |           |[YouTube](https://youtu.be/B42DPV7uL3w)            |        |
-|3   |AI生成藝術作品            |           |[YouTube](https://youtu.be/9EhsS7ylqJc)            |        |
+|3   |AI生成藝術作品            |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EfWbzHktVCNEviE3oViatvABPBGnlhkLDS0nTEHqo6x_oQ?e=wxWlcu)           |[YouTube](https://youtu.be/9EhsS7ylqJc)            |        |
 |4   |短視頻與人工智慧          |           |[YouTube](https://youtu.be/rgQE8FZtqjY)            |        |
-|5   |AI在西洋棋中的應用         |          |             |        |
-|6   |AI在學習上的應用           |          |             |        |
-|7   |AI在合成人聲的應用         |          |             |        |
-|8   |AI在自動駕駛中的應用       |          |             |        |
-|9   |AI在影像處理領域的應用     |          |             |        |
+|5   |AI在西洋棋中的應用         |          |[YouTube](https://youtu.be/TLFNNtwZCNY)             |        |
+|6   |AI在學習上的應用           |          |[YouTube](https://youtu.be/GfeuSZ31Z2Q)             |        |
+|7   |AI在合成人聲的應用         |          |[YouTube](https://youtu.be/C1PLRei6eJA)             |        |
+|8   |AI在自動駕駛中的應用       |[Canva](https://www.canva.com/design/DAGEXdsXk04/VqlTclVrHr9RnarPZdnHWQ/view?utm_content=DAGEXdsXk04&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |[YouTube](https://youtu.be/U3OZ6rUU0dA)             |        |
+|9   |AI在影像處理領域的應用     |          |[YouTube](https://youtu.be/2IQyZW3uCuA)             |        |
 |10  |AI在Statcast的應用         |          |             |        |
 |11  |電影裡的AI                |           |            |        |
 |12  |AI與電子病歷的應用         |          |             |        |
