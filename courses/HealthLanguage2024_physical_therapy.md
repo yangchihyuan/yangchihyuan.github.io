@@ -36,7 +36,7 @@ title: "健康應用之程式語言 2024 (物治系)"
 |11  |4/29  |                            |      |         |  期末專題提案報告            |
 |12  |5/6   | 類別與物件             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EapcjnEA6wpIoAUqsi5CuzUBurxSZkZT0_xVjhg3L4_7XA?e=FrMvhL) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EgpQL4T45VlBoZ_HgvTMRxoBKjG6uMn-xc1VvWFmktJUzw?e=jfcEk2)     | [YouTube](https://youtu.be/dq7uzbYFS7w)        |              |
 |13  |5/13  | 版本控制與團隊開發                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdT1fxQYCf9JqYHEdgncxW8BToHpEht1-r34xKupZeIgnw?e=XLwDB5)      | [YouTube](https://youtu.be/Ut7cpZyClW0)        |              |
-|14  |5/20  | 資料視覺化套件                   |      |         |               |
+|14  |5/20  | 資料視覺化套件                   | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWJUD6SPIh9CvdZDMmXqZkABg4JobvB2UqE9_ZzizZWOwg?e=Rs4SPc) [code](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/Em-5_MuOQhtCiTGIylEmZbsBucJwwYBQnlJJAQI4OOD37w?e=lLUiSF)    |         |               |
 |15  |5/27  |                           |      |         |  期末報告      |
 |16  |6/3   |                           |      |         |  期末報告       |
 
