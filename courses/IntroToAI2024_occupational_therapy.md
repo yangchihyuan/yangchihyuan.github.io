@@ -41,14 +41,14 @@ title: "人工智慧概論 2024 (職治系)"
 |1   | ChatGPT                | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EXx5LNFoBLFMvYmqOdF9x4wB9BIRCOeXtFTFq0-UTUMx8A?e=b88p87)          | [YouTube](https://youtu.be/-198t44FqWA)           |        |
 |2   |          |           |            |        |
 |3   | AI在媒體創作上的應用           | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdXhe8GF_SRNtCSFYKBZUOMBG6R69u021Jh3hjFc7J67NA?e=WfGTr2)          | [YouTube](https://youtu.be/86Dlh5k7nIs)           |        |
-|4   |          |           |            |        |
+|4   | AI繪圖         | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/Efy4uxn6lDpCt9Gm8AscN6EBRFR9KszdKDTh2d-P5-e03g?e=HuePAD)          |            |        |
 |5   | AI文學創作與著作權歸屬        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EZjdCZItMotMj1DXP9Ysjo8BqXmzg6Dfjjh2Arst7Bnmow?e=j3Cryp)          | [YouTube](https://youtu.be/iftzDT_hVDU)            |        |
 |6   |          |          |             |        |
-|7   |         |          |             |        |
+|7   | AI虛擬偶像的誕生        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EbErvfgRNoJFj0HFONt6EHQBKW57q55sw2X8mwrkCAegEg?e=fz47F9)         |             |        |
 |8   |       |          |             |        |
 |9   |     |          |             |        |
 |10  | Netflix人工智慧運用        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EVF0xSmx8r5Nt5U5b5qos3kBHlOB4u9Tiigwj0KyxMSWSQ?e=ACjU9h)         | [YouTube](https://youtu.be/bmMQQrIMeLA)            |        |
-|11  |                |           |            |        |
+|11  | AI換臉技術面面觀            | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EfJg1poUQeJKsC46d57jyPgBJwXE9X_V5m2v0eHdKUzGiQ?e=un8dNm)          |            |        |
 |12  | ChatGPT        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ET_W1PeP1-NPnxEjeretWNsBRZpaDeUPflBTcM-i5u0GLg?e=X6fMlI)         | [YouTube](https://youtu.be/MbtF8R5bdWo)            |        |
 |13  |                |           |            |        |
 |14  |                |           |            |        |
