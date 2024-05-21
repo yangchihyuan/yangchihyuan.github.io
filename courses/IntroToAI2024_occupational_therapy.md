@@ -43,7 +43,7 @@ title: "人工智慧概論 2024 (職治系)"
 |3   | AI在媒體創作上的應用           | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdXhe8GF_SRNtCSFYKBZUOMBG6R69u021Jh3hjFc7J67NA?e=WfGTr2)          | [YouTube](https://youtu.be/86Dlh5k7nIs)           |        |
 |4   | AI繪圖         | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/Efy4uxn6lDpCt9Gm8AscN6EBRFR9KszdKDTh2d-P5-e03g?e=HuePAD)          | [YouTube](https://youtu.be/1jBKM4sFWqg)           |        |
 |5   | AI文學創作與著作權歸屬        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EZjdCZItMotMj1DXP9Ysjo8BqXmzg6Dfjjh2Arst7Bnmow?e=j3Cryp)          | [YouTube](https://youtu.be/iftzDT_hVDU)            |        |
-|6   | AI詐騙的應用與防範         |          | [YouTube](https://youtu.be/EBqKjKVm9GY)            |        |
+|6   | AI詐騙的應用與防範         | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EXTAqlcw2npEpYsNiZaunlEBbEw7ii9kp-vY2-1jFMXz_w?e=le4yWV)         | [YouTube](https://youtu.be/EBqKjKVm9GY)            |        |
 |7   | AI虛擬偶像的誕生        | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EbErvfgRNoJFj0HFONt6EHQBKW57q55sw2X8mwrkCAegEg?e=fz47F9)         | [YouTube](https://youtu.be/cPQw-65LujI)            |        |
 |8   |       |          |             |        |
 |9   |     |          |             |        |
@@ -52,7 +52,7 @@ title: "人工智慧概論 2024 (職治系)"
 |12  | ChatGPT        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ET_W1PeP1-NPnxEjeretWNsBRZpaDeUPflBTcM-i5u0GLg?e=X6fMlI)         | [YouTube](https://youtu.be/MbtF8R5bdWo)            | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/ETLoCzFAidpCowoAba4odPsBnFdqlKSr1Ok42Z6_D5ra9A?e=pfgkBi)       |
 |13  |                |           |            |        |
 |14  |                |           |            |        |
-|15  | 我不是機器人   |           | [YouTube](https://youtu.be/XdasMTM6LZQ)           | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/Edm30VxMFztEmFNHFP0thkcB4FN0qjPMGuPBqJkH6RdEjA?e=sKjocD)       |
+|15  | 我不是機器人   | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWxn-wSKXItBjy5WzU0BDIQBioWe-oBN82vzyqfauc8K-A?e=kEeOh1)          | [YouTube](https://youtu.be/XdasMTM6LZQ)           | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/Edm30VxMFztEmFNHFP0thkcB4FN0qjPMGuPBqJkH6RdEjA?e=sKjocD)       |
 |16  |                |           |            |        |
 
 <br/>
