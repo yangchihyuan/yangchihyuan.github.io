@@ -38,18 +38,18 @@ Line id : 0922489898 <br/>
 
 |組別|題目                     |投影片      |錄影            |書面報告 |
 |1   |AI在醫學診斷的應用        |           |[YouTube](https://youtu.be/rZ9gwMIrxwk)            |        |
-|2   |AI在遊戲中的應用          |           |[YouTube](https://youtu.be/B42DPV7uL3w)            |        |
+|2   |AI在遊戲中的應用          |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EWiRKTC9i6dLkmBsWeGrG38B4XoSmWwOQwafJ7BXRNYqYw?e=kuMDbX)           |[YouTube](https://youtu.be/B42DPV7uL3w)            |        |
 |3   |AI生成藝術作品            |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EfWbzHktVCNEviE3oViatvABPBGnlhkLDS0nTEHqo6x_oQ?e=wxWlcu)           |[YouTube](https://youtu.be/9EhsS7ylqJc)            |        |
-|4   |短視頻與人工智慧          |           |[YouTube](https://youtu.be/rgQE8FZtqjY)            |        |
+|4   |短視頻與人工智慧          |[Canva](https://www.canva.com/design/DAGDh9Y8Ekk/U-BisiuKjnlQl-uSJcDhcg/view?utm_content=DAGDh9Y8Ekk&utm_campaign=designshare&utm_medium=link&utm_source=editor) [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/ERo0Fw6WoAJJqMoUDyxb-2EBoXFSTF9mMjlb2E0RsgGiWw?e=bqiADB)          |[YouTube](https://youtu.be/rgQE8FZtqjY) [自製video](https://changgunguniversity-my.sharepoint.com/:v:/g/personal/d000019097_cgu_edu_tw/EdZwFv3D8hJPqhiK26xH6Q8Bqzw9Hxia6SUQsp5ZMwGqCg?e=CXRktl)           |        |
 |5   |AI在西洋棋中的應用         |          |[YouTube](https://youtu.be/TLFNNtwZCNY)             |        |
-|6   |AI在學習上的應用           |          |[YouTube](https://youtu.be/GfeuSZ31Z2Q)             |        |
+|6   |AI在學習上的應用           |[Canva](https://www.canva.com/design/DAGE1aTnCjs/OzFBjo-ybIs9MVMpNczx2Q/edit?utm_content=DAGE1aTnCjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)          |[YouTube](https://youtu.be/GfeuSZ31Z2Q)             |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/ETMuzCvFB6dInQ6u1u3TXc0BNSeSGghQT-gZLcrJyAJv9g?e=GDDVRI)        |
 |7   |AI在合成人聲的應用         |          |[YouTube](https://youtu.be/C1PLRei6eJA)             |        |
 |8   |AI在自動駕駛中的應用       |[Canva](https://www.canva.com/design/DAGEXdsXk04/VqlTclVrHr9RnarPZdnHWQ/view?utm_content=DAGEXdsXk04&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |[YouTube](https://youtu.be/U3OZ6rUU0dA)             |        |
 |9   |AI在影像處理領域的應用     |          |[YouTube](https://youtu.be/2IQyZW3uCuA)             |        |
-|10  |AI在Statcast的應用         |          |             |        |
-|11  |電影裡的AI                |           |            |        |
-|12  |AI與電子病歷的應用         |          |             |        |
-|13  |Al與著作權                |           |            |        |
+|10  |AI在Statcast的應用        |          |[YouTube](https://youtu.be/3VLmdIFcQq0)             |        |
+|11  |電影裡的AI                |           |[YouTube](https://youtu.be/HRrVgJStP5o)            |        |
+|12  |AI與電子病歷的應用         |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EaH4uUNhCbpFgX8P1_B2f8UB_1jDHRjA0mM1cQza81PdUw?e=DE2V32) [google slides](https://docs.google.com/presentation/d/13RPyxZ8Au_xNoo_OCEnjjxkxHLJk1c-qzsgpCYpFWqs/edit?usp=sharing)         | [YouTube](https://youtu.be/qVLVNfaQAuY)            |        |
+|13  |Al與著作權                |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/ESeNbWIonOtKsYEjnzL3U-gBIzaelb3h6s09nLSmu9D2eg?e=utPOE9)           | [YouTube](https://youtu.be/qeo3CTANJyI)           |        |
 
 <br/>
 
