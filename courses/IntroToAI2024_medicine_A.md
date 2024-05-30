@@ -44,7 +44,7 @@ Line id : 0922489898 <br/>
 |5   |AI在西洋棋中的應用         |          |[YouTube](https://youtu.be/TLFNNtwZCNY)             |        |
 |6   |AI在學習上的應用           |[Canva](https://www.canva.com/design/DAGE1aTnCjs/OzFBjo-ybIs9MVMpNczx2Q/edit?utm_content=DAGE1aTnCjs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)          |[YouTube](https://youtu.be/GfeuSZ31Z2Q)             |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/ETMuzCvFB6dInQ6u1u3TXc0BNSeSGghQT-gZLcrJyAJv9g?e=GDDVRI)        |
 |7   |AI在合成人聲的應用         |          |[YouTube](https://youtu.be/C1PLRei6eJA)             |        |
-|8   |AI在自動駕駛中的應用       |[Canva](https://www.canva.com/design/DAGEXdsXk04/VqlTclVrHr9RnarPZdnHWQ/view?utm_content=DAGEXdsXk04&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |[YouTube](https://youtu.be/U3OZ6rUU0dA)             |        |
+|8   |AI在自動駕駛中的應用       |[Canva](https://www.canva.com/design/DAGEXdsXk04/VqlTclVrHr9RnarPZdnHWQ/view?utm_content=DAGEXdsXk04&utm_campaign=designshare&utm_medium=link&utm_source=editor)          |[YouTube](https://youtu.be/U3OZ6rUU0dA)             |[pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/EbIfbzFkM3JFlrfYjEko5KoB788GW93abKoJA9OQkXWHhg?e=2Cm5td)        |
 |9   |AI在影像處理領域的應用     |          |[YouTube](https://youtu.be/2IQyZW3uCuA)             |        |
 |10  |AI在Statcast的應用        |          |[YouTube](https://youtu.be/3VLmdIFcQq0)             |        |
 |11  |電影裡的AI                |           |[YouTube](https://youtu.be/HRrVgJStP5o)            |        |
