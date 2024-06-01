@@ -24,11 +24,11 @@ title: "人工智慧概論 2024 (職治系)"
 
 |週次|日期         |主題                  |投影片 |錄影     | 預定事項                      |
 |--- |---         |---                   |---   |---      |---                           |
-|2   |2/26        | 淺論人工智慧          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EUJcy2me7tdLizFvQWEJXkYBCavJhot-xTr3XP0ruqA5kQ?e=8vWxoX)     | [YouTube](https://youtu.be/rWbkH7hSyiM)        |                              |
-|4   |3/11        | 人工智慧之應用簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ebm_W7OVMsdHhr-zWQZsRPoB1iuyf8gXvjS9okauYQNxcQ?e=CtXk7B)     | [YouTube](https://youtu.be/jSqUZUysp30)        |                              |
-|6   |3/25        | 人工智慧之影響簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EWaijA95WR1JqraYsyWnXZMBnWcxUe7svdzPfMFa5063QQ?e=zlPMgN)     | [YouTube](https://youtu.be/vooNGc1a2fM)        |                              |
+|2   |2/26        | 淺論人工智慧          | [pptx](https://www.dropbox.com/scl/fi/2eo25xqvv5m7bk69ogczb/01.pptx?rlkey=8bwm0gdo9alhl0k3b27w9eqhf&dl=0)     | [YouTube](https://youtu.be/rWbkH7hSyiM)        |                              |
+|4   |3/11        | 人工智慧之應用簡介    | [pptx](https://www.dropbox.com/scl/fi/gj3jf3xa85q16mo2guzo1/02.pptx?rlkey=au486mdumyf63pkpwu8n005y3&dl=0)     | [YouTube](https://youtu.be/jSqUZUysp30)        |                              |
+|6   |3/25        | 人工智慧之影響簡介    | [pptx](https://www.dropbox.com/scl/fi/k0wv1p9q9mfr1ryiyyke9/03.pptx?rlkey=jcz7r4e4h3lyn453yy4l2hubo&dl=0)     | [YouTube](https://youtu.be/vooNGc1a2fM)        |                              |
 |8   |4/8         |                      |      |         |  期中考                      |
-|10  |4/22        | 人工智慧之技術簡介    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfzQs8F0kYVDpou2ybga0icBG0XXIaPm8sZK7qaAcmDEBg?e=hAFEAx)     | [YouTube](https://youtu.be/Zr99F9efyDA)        |                              |
+|10  |4/22        | 人工智慧之技術簡介    | [pptx](https://www.dropbox.com/scl/fi/s2ovl8rfneexk8ruo1ea6/04.pptx?rlkey=y5g01qf1wu7vby1z09vqtv24g&dl=0)     | [YouTube](https://youtu.be/Zr99F9efyDA)        |                              |
 |12  |5/6         | 期末報告1             |      |         |                    |
 |14  |5/20        | 期末報告2             |      |         |                      |
 |16  |6/3         | 期末報告3             |      |         |                     |
