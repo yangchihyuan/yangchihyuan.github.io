@@ -44,16 +44,16 @@ title: "健康應用之程式語言 2024 (物治系)"
 
 #### 期末專題
 
-|組別|題目                               |投影片                  |書面報告 | 程式碼  |
+|組別|題目                               |投影片                  |錄影 | 程式碼  |
 |1   |解剖背不完                         |                       | [YouTube](https://youtu.be/DNtP9B4k1mk)       |        |
-|2   |健康管理大師                       |                       | [YouTube](https://youtu.be/AM-hp5TiP1g)       |        |
+|2   |健康管理大師                       |[pdf](https://www.dropbox.com/scl/fi/8k3luufxxzjbmiysotemk/B1209125_B1209125_.pdf?rlkey=tmm3fsizfrpg0o747jrsg9yia&dl=0)                       | [YouTube](https://youtu.be/AM-hp5TiP1g)       |[py](https://www.dropbox.com/scl/fi/1isjuxevgob0gsuybpg8s/code.py?rlkey=au6drh5xxsklyck56ncb0dw89&dl=0)        |
 |3   |線上骨科諮詢平台                   |[pdf](https://www.dropbox.com/scl/fi/67mvtigj3ytakeoa49b9l/.pdf?rlkey=7f9u7fbgwt93qpb36flskccmw&dl=0)                      | [YouTube](https://youtu.be/HIuPj-w2l8I)       | [py](https://www.dropbox.com/scl/fi/zh8fs7zmz5j9rju2bep0p/project.py?rlkey=6dfuzehdww8yeap3zpy96f7fr&dl=0)       |
-|4   |煎牛排                             |                       | [YouTube](https://youtu.be/f0o6bOq6YEs)        |        |
+|4   |煎牛排                             |[pdf](https://www.dropbox.com/scl/fi/jfjxd7j9y6xeev196wy67/Food-Journal-PPT.pdf?rlkey=w5xl9tgocpfxrhal765v9df04&dl=0) [書面報告](https://www.dropbox.com/scl/fi/gax7owa1df200cb0ex21w/.pdf?rlkey=lnhg1kigimiddh3hwizokvypb&dl=0)                      | [YouTube](https://youtu.be/f0o6bOq6YEs)        |[folder](https://www.dropbox.com/scl/fo/liufhtzycan7rqdfqrx14/ANHzOaAhLIcohsCmeIsisKI?rlkey=vf9i8jto80hxjd20f9e4t3p7y&dl=0)        |
 |5   |數字瞬間記憶力測試                  |[pdf](https://www.dropbox.com/scl/fi/bduauvcmsk7hms1h4f3gi/_.pdf?rlkey=ox4dbr9sg2qj5l2fhwixd3267&dl=0)                       | [YouTube](https://youtu.be/jDm2WsKoFKI)        | [加憶.py](https://www.dropbox.com/scl/fi/318fzyvjtfrvqpweu0mp0/.py?rlkey=1g3k8igicr72xdysx9gk9mkct&dl=0) [憶大力.py](https://www.dropbox.com/scl/fi/eowz3qv99h7i8pacc438u/.py?rlkey=p08kq9iyko5xy2r4eyk4qopk4&dl=0)       |
 |6   |類風溼性關節炎治療效果評估          |                       | [YouTube](https://youtu.be/oYILkIvXwaw)       |        |
 |7   |透過輸入問診內容得到可能之治病位置  |                       | [YouTube](https://youtu.be/B5GtDDhBb_4)       |        |
 |8   |健康狀況即時追蹤器                  |                       | [YouTube](https://youtu.be/IQYZMGW_a9Q)       |        |
-|9   |健康評估表單                        |                       | [YouTube](https://youtu.be/Q9I9YrjkFAU)       |        |
+|9   |健康評估表單                        |[pptx](https://www.dropbox.com/scl/fi/xxc8djsktrjw65iw3wmtq/.pptx?rlkey=8nddqlfvcbgtpe5xxk1rqj1gi&dl=0)                       | [YouTube](https://youtu.be/Q9I9YrjkFAU)       | [py](https://www.dropbox.com/scl/fi/8woitjdo7ebzaxokifz83/.py?rlkey=hwr80m3g4yvxpigwnpaqh9obc&dl=0)       |
 |10  |測量血壓                            |                       | [YouTube](https://youtu.be/BRXIFtnCQhQ)       |        |
 |11  |復健計畫小幫手                      |                       | [youTube](https://youtu.be/I8NVYbzZq4Q)       |        |
 |12  |客製你的運動計畫，追蹤你的長期成果  |                       | [YouTube](https://youtu.be/wAikN8j6dKI)       |        |
