@@ -47,9 +47,9 @@ title: "健康應用之程式語言 2024 (物治系)"
 |組別|題目                               |投影片                  |書面報告 | 程式碼  |
 |1   |解剖背不完                         |                       | [YouTube](https://youtu.be/DNtP9B4k1mk)       |        |
 |2   |健康管理大師                       |                       | [YouTube](https://youtu.be/AM-hp5TiP1g)       |        |
-|3   |線上骨科諮詢平台                   |                       | [YouTube](https://youtu.be/HIuPj-w2l8I)       |        |
+|3   |線上骨科諮詢平台                   |[pdf](https://www.dropbox.com/scl/fi/67mvtigj3ytakeoa49b9l/.pdf?rlkey=7f9u7fbgwt93qpb36flskccmw&dl=0)                      | [YouTube](https://youtu.be/HIuPj-w2l8I)       | [py](https://www.dropbox.com/scl/fi/zh8fs7zmz5j9rju2bep0p/project.py?rlkey=6dfuzehdww8yeap3zpy96f7fr&dl=0)       |
 |4   |煎牛排                             |                       | [YouTube](https://youtu.be/f0o6bOq6YEs)        |        |
-|5   |數字瞬間記憶力測試                  |                       | [YouTube](https://youtu.be/jDm2WsKoFKI)        |        |
+|5   |數字瞬間記憶力測試                  |[pdf](https://www.dropbox.com/scl/fi/bduauvcmsk7hms1h4f3gi/_.pdf?rlkey=ox4dbr9sg2qj5l2fhwixd3267&dl=0)                       | [YouTube](https://youtu.be/jDm2WsKoFKI)        | [加憶.py](https://www.dropbox.com/scl/fi/318fzyvjtfrvqpweu0mp0/.py?rlkey=1g3k8igicr72xdysx9gk9mkct&dl=0) [憶大力.py](https://www.dropbox.com/scl/fi/eowz3qv99h7i8pacc438u/.py?rlkey=p08kq9iyko5xy2r4eyk4qopk4&dl=0)       |
 |6   |類風溼性關節炎治療效果評估          |                       | [YouTube](https://youtu.be/oYILkIvXwaw)       |        |
 |7   |透過輸入問診內容得到可能之治病位置  |                       | [YouTube](https://youtu.be/B5GtDDhBb_4)       |        |
 |8   |健康狀況即時追蹤器                  |                       | [YouTube](https://youtu.be/IQYZMGW_a9Q)       |        |
