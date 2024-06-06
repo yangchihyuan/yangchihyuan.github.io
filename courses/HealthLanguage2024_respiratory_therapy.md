@@ -45,10 +45,10 @@ title: "健康應用之程式語言 2024 (呼治系)"
 #### 期末專題
 
 |組別|題目                               |投影片                  |書面報告 | 程式碼  |
-|1   |睡眠階段分類系統                   |                      |        |        |
-|2   |學習計劃生成                       |                      |        |        |
-|3   |肝安餒                              |                      |        |        |
-|4   |健康提醒器                          |                      |        |        |
-|5   |呼吸一下：緩解焦慮之各種呼吸訓練     |                       |        |        |
+|1   |睡眠階段分類系統                   |[pdf](https://www.dropbox.com/scl/fi/tntlgup4hh4mf3b3voade/B1208037_-_.pdf?rlkey=g830ei1ldzxjhtmkzj2cox7tc&dl=0)                      |        |[py](https://www.dropbox.com/scl/fi/vfl12ohczbw60ypz66964/_.py?rlkey=6usxw9frdqlanz4owkb9viv9w&dl=0)        |
+|2   |學習計劃生成                       |[pdf](https://www.dropbox.com/scl/fi/b2ad163l1vpzmekg6h3ol/B1208031_B1208031.pdf?rlkey=mw04s9d29kkj6ltzemwhxy5ks&dl=0)                      |        |        |
+|3   |肝安餒                             |[pdf](https://www.dropbox.com/scl/fi/93bak2km83kw59hfbx8jq/B1208018_-3.pdf?rlkey=o3espjwbv99p8lvnbab07x5mg&dl=0)                      |        |        |
+|4   |健康提醒器                         |[pdf](https://www.dropbox.com/scl/fi/5qdieuraveqov28eg0n4w/B1208005_-_.pdf?rlkey=brnlm43ri8jnr7qt4v26yd9id&dl=0)                      |        |        |
+|5   |呼吸一下：緩解焦慮之各種呼吸訓     |[pdf](https://www.dropbox.com/scl/fi/lgwzcqbk05b2t9a4i6fa4/B1208026_-_.pdf?rlkey=ahhc65zs4ztuxkl62qv57lr72&dl=0)                       |        |        |
 
 <br/>
