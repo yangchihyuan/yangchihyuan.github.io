@@ -51,12 +51,12 @@ title: "健康應用之程式語言 2024 (物治系)"
 |4   |煎牛排                             |                       | [YouTube](https://youtu.be/f0o6bOq6YEs)        |        |
 |5   |數字瞬間記憶力測試                  |                       | [YouTube](https://youtu.be/jDm2WsKoFKI)        |        |
 |6   |類風溼性關節炎治療效果評估          |                       | [YouTube](https://youtu.be/oYILkIvXwaw)       |        |
-|7   |透過輸入問診內容得到可能之治病位置  |                       |        |        |
-|8   |健康狀況即時追蹤器                  |                       |        |        |
-|9   |健康評估表單                        |                       |        |        |
-|10  |測量血壓                            |                       |        |        |
-|11  |運動評估與康復計畫                   |                       |        |        |
-|12  |客製你的運動計畫，追蹤你的長期成果  |                       |        |        |
-|13  |肌肉痛之搜查相關部muscle map 程式   |                       |        |        |
+|7   |透過輸入問診內容得到可能之治病位置  |                       | [YouTube](https://youtu.be/B5GtDDhBb_4)       |        |
+|8   |健康狀況即時追蹤器                  |                       | [YouTube](https://youtu.be/IQYZMGW_a9Q)       |        |
+|9   |健康評估表單                        |                       | [YouTube](https://youtu.be/Q9I9YrjkFAU)       |        |
+|10  |測量血壓                            |                       | [YouTube](https://youtu.be/BRXIFtnCQhQ)       |        |
+|11  |復健計畫小幫手                      |                       | [youTube](https://youtu.be/I8NVYbzZq4Q)       |        |
+|12  |客製你的運動計畫，追蹤你的長期成果  |                       | [YouTube](https://youtu.be/wAikN8j6dKI)       |        |
+|13  |肌肉痛之搜查相關部muscle map 程式   |                       | [YouTube](https://youtu.be/beD48Vjhsqs)       |        |
 
 <br/>
