@@ -15,6 +15,7 @@ people:
 - {name: 'Matt Wu 吳奕廷', title: 'Undergraduate student' , image: 'assets/img/Matt_Wu.png', description: 'AI department student', url: 'Matt_Wu'}
 
 courses:
+- {name: '機器學習 2024', url: 'MachineLearning2024'}
 - {name: '人工智慧概論 2024(醫學系A)', url: 'IntroToAI2024_medicine_A'}
 - {name: '人工智慧概論 2024(職治系)', url: 'IntroToAI2024_occupational_therapy'}
 - {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
