@@ -3,7 +3,7 @@ layout: page
 title: "Survey of Intelligent Technologies 2024"
 ---
 
-Fall 2024, Friday. 9:10pm to 12:00pm, Location: BTD <br/>
+Fall 2024, Friday. 9:10pm to 12:00pm, Classroom: BTD <br/>
 Instructors: Lun-Wei Ku, Yu-Chung Wang, and Chih-Yuan Yang
 
 #### Course Information
@@ -41,13 +41,12 @@ In this course, we will introduce three fundamental topics in artificial intelli
 <br/>
 
 #### Detailed Content
-(DL Week1) Quick review of required math: Represent data in tensor, matrix multiplication, vector/matrix derivation, Linear Regression, Linear Regression in Gradient Descent, Introduction to CGU GPU platform
-(DL Week2) Quick review of pytorch: Creating Tensor, Tensor multiplication, Dataset(builtin/custom) and Dataloader, Optimization: SGD/Momentum/Adam, Training loop, Evaluation, Loss functions and Regulation
-(DL Week3) Computation graph: How to construct a computational graph, Back propagation, Layer and Model
-(DL Week4) Basic elements in DL: MLP, Activation, Convolution, RNN, Attention
-(DL Week5) Basic networks: LeNet, AlexNet, VGG, NIN, InceptionNet, ResNet, Transformer(optional), Vision transformer(optional)
 
-<br/>
+(DL Week1) Quick review of required math: Represent data in tensor, matrix multiplication, vector/matrix derivation, Linear Regression, Linear Regression in Gradient Descent, Introduction to CGU GPU platform <br/>
+(DL Week2) Quick review of pytorch: Creating Tensor, Tensor multiplication, Dataset(builtin/custom) and Dataloader, Optimization: SGD/Momentum/Adam, Training loop, Evaluation, Loss functions and Regulation <br/>
+(DL Week3) Computation graph: How to construct a computational graph, Back propagation, Layer and Model <br/>
+(DL Week4) Basic elements in DL: MLP, Activation, Convolution, RNN, Attention <br/>
+(DL Week5) Basic networks: LeNet, AlexNet, VGG, NIN, InceptionNet, ResNet, Transformer(optional), Vision transformer(optional) <br/>
 
 #### Textbooks
 
