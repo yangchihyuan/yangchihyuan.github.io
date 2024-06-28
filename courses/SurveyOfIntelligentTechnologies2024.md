@@ -52,8 +52,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 
 - DL: Dive into Deep Learning by Zhang et al. (2023)
 - NLP: Speech and Language Processing by Daniel Jurafsky and James H. Martin (2024)
-- CV: [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) <br/>
-It is available online for free.
+- CV: [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) It is available online for free.
 
 
 #### Reference Books
