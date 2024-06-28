@@ -14,5 +14,3 @@ In this talk, I will summarize my research on stocking investing for the overall
 
 #### Data
 [Slides in pptx](https://www.dropbox.com/scl/fi/x5q114w2qzrbu6cj0kj2o/20230317.pptx?rlkey=azd9lrta1uuyxk9f0zhgpx8u4&dl=0) (Presentation in Chinese), [Video Recording at YouTube](https://youtu.be/jCgbZQX9jmI) (Speak in Mandarin)
-
-[Slides](https://www.dropbox.com/scl/fi/bzy01cuffinpi6kllnkic/My-Healthcare-relatd-Projects.pptx?rlkey=cngt9mi20w854bc0dn45nns7b&dl=0) My healthcare related projects.
