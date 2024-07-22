@@ -1,6 +1,6 @@
 featured:
 - {name: 'SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders (Sheng-Wei Li, Zi-Xiang Wei, Wei-Jie Chen, Yi-Hsin Yu, Chih-Yuan
-Yang, and Jane Yung-jen Hsu), ECCV24', url: '/publications/ECCV_2024_SA_DVAE.pdf', image: '/publications/ECCV_2024_SA_DVAE.jpg'}
+Yang, and Jane Yung-jen Hsu), ECCV24', paper_url: '/publications/ECCV_2024_SA_DVAE.pdf', supp_url: '/publications/ECCV_2024_SA_DVAE_supp.pdf', image: '/publications/ECCV_2024_SA_DVAE.jpg'}
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf', image: '/publications/AAAI21.jpg'}
 - {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', url: '/publications/CVPRW20.pdf'}
 - {name: 'A Mobile Robot Generating Video Summaries of Seniors’ Indoor Activities (Chih-Yuan Yang, Heeseung Yun, Srenavis Varadaraj, and Jane Yung-jen Hsu), MobileHCI19.', url: '/publications/MobileHCI19_Robot.pdf'}
