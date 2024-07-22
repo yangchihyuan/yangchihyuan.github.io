@@ -11,12 +11,12 @@
       {% if item.supp_url == "" %}
       <tr>
         <td style='border:none; text-align:center'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
-        <td style='border:none;'><p>{{ item.name }} &nbsp; <a href="{{ item.paper_url }}">paper</a> &nbsp; <a href="{{ item.supp_url }}">supp</a></p></td>
+        <td style='border:none;'><p>{{ item.name }} <a href="{{ item.paper_url }}">paper</a></p></td>
       </tr>
       {% else %}
       <tr>
         <td style='border:none; text-align:center'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
-        <td style='border:none;'><p>{{ item.name }} &nbsp; <a href="{{ item.paper_url }}">paper</a> </p></td>
+        <td style='border:none;'><p>{{ item.name }} <a href="{{ item.paper_url }}">paper</a> <a href="{{ item.supp_url }}">supp</a></p></td>
       </tr>
       {% endif %}
       {% endfor %}
