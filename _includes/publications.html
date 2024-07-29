@@ -8,18 +8,18 @@
     {% else %}
     <table cellpadding="5" border='0'>
       {% for item in site.data.publications.index %}
-      {% if item.supp_url != nil %}
       <tr>
         <td style='border:none; text-align:center'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
-        <td style='border:none;'><p>{{ item.name }} <a href="{{ item.paper_url }}">paper</a> <a href="{{ item.supp_url }}">supp</a></p></td>
+        <td style='border:none;'><p>{{ item.name }} <a href="{{ item.paper_url }}">paper</a> 
+        {% if item.supp_url != nil %}
+        <a href="{{ item.supp_url }}">supp</a>
+        {% endif %}
+        {% if item.code != nil %}
+        <a href="{{ item.code }}">code</a>
+        {% endif %}
+        </p></td>
       </tr>
-      {% else %}
-      <tr>
-        <td style='border:none; text-align:center'><a href="{{ item.image }}"> <img src="{{ item.image }}" style="max-width:250px; max-height:150px;"></a></td>
-        <td style='border:none;'><p>{{ item.name }} <a href="{{ item.paper_url }}">paper</a></p></td>
-      </tr>
-      {% endif %}
-      {% endfor %}
+    {% endfor %}
     </table>
     {% endif %}
   </div>
