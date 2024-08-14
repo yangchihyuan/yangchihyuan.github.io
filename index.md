@@ -40,6 +40,7 @@ Motivation: Many image generative algorithms and tools rapidly become easy to us
 #### Digestive system diseases prediction from tongue images
 <img src="http://yangchihyuan.github.io/assets/img/Tongue_capture.jpg" height="250" alt="Tongue_capture">
 <img src="http://yangchihyuan.github.io/assets/img/Tongue_mask.jpg" height="250" alt="Tongue_mask">
+Image courtesy: Master's thesis of Mr. Chien-Ho Lin (林建和) of the Traditional Chinese Medicine at Chang Gung University 2022, advised by Prof. Hsien-Hung Yang (楊賢鴻) and Prof. Jiann-Der Lee (李建德).
 
 The primary researcher of this project is a Ph.D. student of the CGU school of Traditional Chinese Medicine and I am a consultant of this project. We want to compile a dataset consisting of tongue images and syndromes of digestive system diseases. Thereafter, we can train a computer vision model to predict digestive system diseases from tongue images. In the theory of traditional Chinese medicine, digestive system diseases and tongue appearance are highly related. But modern western medicine system totally ignores it. The most challenging part of this research lies in the data collection, segmentation and labeling. 
 Because this is an application-oriented research project, they plan to use the well-developed ResNet as their prediction model. Thus, the contribution of this project is to validate the traditional Chinese medicine theory and develop a practical method to apply it rather than exploring computer vision techniques.
