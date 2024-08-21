@@ -8,7 +8,7 @@ Instructors: Lun-Wei Ku, Yu-Chung Wang, and Chih-Yuan Yang
 
 #### Course Information
 
-In this course, we will introduce three fundamental topics in artificial intelligent computer vision: deep learning (DL), natural language processing (NLP), and computer vision (CV). We expect students to get the concepts of the three fields through our lectures if they are experts in other academic fields but have little background training experience in AI. Each of DL, NLP, and CV will be lectured in five weeks, and the overall grade of this course is averaged by a student's performance in the three divisions.
+In this course, we will introduce three fundamental topics in artificial intelligent computer vision: deep learning (DL), natural language processing (NLP), and computer vision (CV). We expect students to get the concepts of the three fields through our lectures if they are experts in other academic fields but have little background training experience in AI. Each of DL, NLP, and CV will be lectured in five to six weeks, and the overall grade of this course is averaged by a student's performance in the three divisions.
 
 #### Prerequisites
 
@@ -52,7 +52,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 
 - DL: Dive into Deep Learning by Zhang et al. (2023)
 - NLP: Speech and Language Processing by Daniel Jurafsky and James H. Martin (2024)
-- CV: [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) It is available online for free.
+- CV: [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022). It is available online for free.
 
 
 #### Reference Books
@@ -90,7 +90,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 - Justin Johnson at UMich [https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
 
 #### Grading
-TBD
+The three sessions will have their individual grades, and the overall grade of this course will be the average of the three session grades. 
 
 #### Contact Info and Office Hour
 
