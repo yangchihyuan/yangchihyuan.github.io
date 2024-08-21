@@ -45,7 +45,10 @@ Motivation: Many image generative algorithms and tools rapidly become easy to us
 The primary researcher of this project is a Ph.D. student of the CGU school of Traditional Chinese Medicine and I am a consultant of this project. We want to compile a dataset consisting of tongue images and syndromes of digestive system diseases. Thereafter, we can train a computer vision model to predict digestive system diseases from tongue images. In the theory of traditional Chinese medicine, digestive system diseases and tongue appearance are highly related. But modern western medicine system totally ignores it. The most challenging part of this research lies in the data collection, segmentation and labeling. 
 Because this is an application-oriented research project, they plan to use the well-developed ResNet as their prediction model. Thus, the contribution of this project is to validate the traditional Chinese medicine theory and develop a practical method to apply it rather than exploring computer vision techniques.
 
-#### Brain tumor segmentation on MRI images
+#### Transferred learning for brain tumor segmentation on MRI images
+<img src="http://yangchihyuan.github.io/assets/img/BrainTumorSegmentation.jpg" width="1200" alt="BrainTumorSegmentation">
+
+Motivation: We want to learn from publicly available large-scale brain tumor segmentation datasets, and apply the learned knowledge on our own small-scale private dataset. However, we do not have the ground-truth segmentation labels for our won private dataset and we do not have experts to label those MRI images. To validate our algorithm, we downloaded another small-scale brain tumor dataset with labeled segmentation data.
 
 #### HarmonEld, an AI wristband for the elderly
 This is my master student Brian Liu's research topic. He wants to develop an AI wristband to address the elderly care problem because there will be more aged people in Taiwan soon and the cost of caring them will be tremendous. He participated in several competitions to promote his idea and prototype. Rich information is available in his YouTube video below (language in Chinese and narration in Mandarin, suggested playing speed: 0.8).
