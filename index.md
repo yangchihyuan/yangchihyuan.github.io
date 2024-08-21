@@ -36,6 +36,9 @@ Approach: There are some knowledge distillation methods and generative models su
 Motivation: Many image generative algorithms and tools rapidly become easy to use such as ControlNet, Krita, and ComfyUI. We wonder how to utilize them to effectively generate indoor scenes for the construction purpose. There are many programming tasks and research issues behind this goal. 
 
 #### Shop drawing retrieval
+<img src="http://yangchihyuan.github.io/assets/img/ShopDrawing.jpg" width="1200" alt="ShopDrawing.jpg">
+
+This is an industry-cooperated project. Given a query shop drawing, we aim to retrieve similar shop drawings in a large dateset component-by-component. The purpose of this project is to encourage employees to use standard drawings and to reduce the cost of creating repeated or highly similar drawings. 
 
 #### Digestive system diseases prediction from tongue images
 <img src="http://yangchihyuan.github.io/assets/img/Tongue_capture.jpg" height="250" alt="Tongue_capture">
