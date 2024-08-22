@@ -26,17 +26,17 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |3   |9/20       | (DL) Computation graph                      |      |          |                              |
 |4   |9/27       | (DL) Basic elements in DL                   |      |          |                              |
 |5   |10/4       | (DL) Basic networks                         |      |          |                              |
-|6   |10/11      |                 |      |          |                              |
-|7   |10/18      |                 |      |          |                              |
-|8   |10/25      |                 |      |          |                              |
-|9   |11/1       |                 |      |          |                              |
-|10  |11/8       |                 |      |          |                              | 
-|11  |11/15      |                 |      |          |                              |
-|12  |11/22      |                 |      |          |                              |
-|13  |11/39      |                 |      |          |                              |
-|14  |12/6       |                 |      |          |                              |
-|15  |12/13      |                 |      |          |                              |
-|16  |12/20      |                 |      |          |                              |
+|6   |10/11      | (NLP)                |      |          |                              |
+|7   |10/18      | (NLP)                |      |          |                              |
+|8   |10/25      | (NLP)                |      |          |                              |
+|9   |11/1       | (NLP)                |      |          |                              |
+|10  |11/8       | (NLP)                |      |          |                              | 
+|11  |11/15      | (NLP)                |      |          |                              |
+|12  |11/22      | (CV) Introduction to computer vision               |      |          |                              |
+|13  |11/39      | (CV) Classification               |      |          |                              |
+|14  |12/6       | (CV) Segmentation               |      |          |                              |
+|15  |12/13      | (CV) Image generation   |      |          |                              |
+|16  |12/20      | (CV) Stereo vision                |      |          |                              |
 
 <br/>
 
@@ -93,12 +93,11 @@ In this course, we will introduce three fundamental topics in artificial intelli
 The three sessions will have their individual grades, and the overall grade of this course will be the average of the three session grades. 
 
 #### Contact Info and Office Hour
-
-Lun-Wei Ku: lwku@iis.sinica.edu.tw
-Office hours: TBD<br/>
-
 Yu-Chung Wang: wycca1@gmail.com <br/>
 Office hours: TBD<br/>
+
+Lun-Wei Ku: lwku@iis.sinica.edu.tw
+Prof. Ku has no office hour and can set time for discussion. Please contact her via emails<br/>
 
 Chih-Yuan Yang: cyyang@cgu.edu.tw <br/>
 Office hours: Tue 10:30~11:30 Management Building Room 1416<br/>
