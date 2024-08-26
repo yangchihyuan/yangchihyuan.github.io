@@ -22,7 +22,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |Week|Date|Topic                   |Slides   |Recording | Action |
 |---|---|---|---|---|---|
 |1   |9/6        | (DL) Quick review of required math          |      |          |                              |
-|2   |9/13       | (DL) Quick review of pytorch                |      |          |                              |
+|2   |9/13       | (DL) Quick review of PyTorch                |      |          |                              |
 |3   |9/20       | (DL) Computation graph                      |      |          |                              |
 |4   |9/27       | (DL) Basic elements in DL                   |      |          |                              |
 |5   |10/4       | (DL) Basic networks                         |      |          |                              |
@@ -33,10 +33,12 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |10  |11/8       | (NLP) Introduction to large language models (LLMs) |      |          |                              | 
 |11  |11/15      | (NLP) NLP applications                      |      |          |                              |
 |12  |11/22      | (CV) Introduction to computer vision        |      |          |                              |
-|13  |11/39      | (CV) Classification                         |      |          |                              |
+|13  |11/29      | (CV) Classification                         |      |          |                              |
 |14  |12/6       | (CV) Segmentation                           |      |          |                              |
-|15  |12/13      | (CV) Image generation                       |      |          |                              |
-|16  |12/20      | (CV) Stereo vision                          |      |          |                              |
+|15  |12/13      | (CV) Detection                              |      |          |                              |
+|16  |12/20      | (CV) Image generation                       |      |          |                              |
+|17  |12/27      | Flexible learning, no lecture               |      |          |                              |
+|18  |1/3        | Flexible learning, no lectureS               |      |          |                              |
 
 <br/>
 
