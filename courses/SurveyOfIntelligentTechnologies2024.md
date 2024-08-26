@@ -3,7 +3,7 @@ layout: page
 title: "Survey of Intelligent Technologies 2024"
 ---
 
-Fall 2024, Friday. 9:10pm to 12:00pm, Classroom: BTD <br/>
+Fall 2024, Friday. 9:10am to 12:00pm, Classroom: BTD <br/>
 Instructors: Lun-Wei Ku, Yu-Chung Wang, and Chih-Yuan Yang
 
 #### Course Information
@@ -26,17 +26,17 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |3   |9/20       | (DL) Computation graph                      |      |          |                              |
 |4   |9/27       | (DL) Basic elements in DL                   |      |          |                              |
 |5   |10/4       | (DL) Basic networks                         |      |          |                              |
-|6   |10/11      | (NLP)                |      |          |                              |
-|7   |10/18      | (NLP)                |      |          |                              |
-|8   |10/25      | (NLP)                |      |          |                              |
-|9   |11/1       | (NLP)                |      |          |                              |
-|10  |11/8       | (NLP)                |      |          |                              | 
-|11  |11/15      | (NLP)                |      |          |                              |
-|12  |11/22      | (CV) Introduction to computer vision               |      |          |                              |
-|13  |11/39      | (CV) Classification               |      |          |                              |
-|14  |12/6       | (CV) Segmentation               |      |          |                              |
-|15  |12/13      | (CV) Image generation   |      |          |                              |
-|16  |12/20      | (CV) Stereo vision                |      |          |                              |
+|6   |10/11      | (NLP) Introduction to NLP                   |      |          |                              |
+|7   |10/18      | (NLP) Classic NLP                           |      |          |                              |
+|8   |10/25      | (NLP) Commonly used NLP DNN models          |      |          |                              |
+|9   |11/1       | (NLP) Introduction to Transformer           |      |          |                              |
+|10  |11/8       | (NLP) Introduction to large language models (LLMs) |      |          |                              | 
+|11  |11/15      | (NLP) NLP applications                      |      |          |                              |
+|12  |11/22      | (CV) Introduction to computer vision        |      |          |                              |
+|13  |11/39      | (CV) Classification                         |      |          |                              |
+|14  |12/6       | (CV) Segmentation                           |      |          |                              |
+|15  |12/13      | (CV) Image generation                       |      |          |                              |
+|16  |12/20      | (CV) Stereo vision                          |      |          |                              |
 
 <br/>
 
