@@ -4,7 +4,7 @@ title: "Survey of Intelligent Technologies 2024"
 ---
 
 Fall 2024, Friday. 9:10am to 12:00pm, Classroom: BTD <br/>
-Instructors: Lun-Wei Ku, Yu-Chung Wang, and Chih-Yuan Yang
+Instructors: Yu-Chung Wang, Lun-Wei Ku, and Chih-Yuan Yang
 
 #### Course Information
 
@@ -38,7 +38,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |15  |12/13      | (CV) Detection                              |      |          |                              |
 |16  |12/20      | (CV) Image generation                       |      |          |                              |
 |17  |12/27      | Flexible learning, no lecture               |      |          |                              |
-|18  |1/3        | Flexible learning, no lectureS               |      |          |                              |
+|18  |1/3        | Flexible learning, no lecture               |      |          |                              |
 
 <br/>
 
