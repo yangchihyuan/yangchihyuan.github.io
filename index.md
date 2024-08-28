@@ -13,9 +13,9 @@ Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/
 
 #### Depth estimation in an eye ball
 
-<img src="http://yangchihyuan.github.io/assets/img/microsurgery.jpg" height="280" alt="microsurgery">
-<img src="http://yangchihyuan.github.io/assets/img/Eyeball.jpg" height="280" alt="Eyeball">
-<img src="http://yangchihyuan.github.io/assets/img/007_MH_RD_3D_merged.jpg" height="280" alt="Stereo images">
+<img src="http://yangchihyuan.github.io/assets/img/microsurgery.jpg" height="250" alt="microsurgery">
+<img src="http://yangchihyuan.github.io/assets/img/Eyeball.jpg" height="250" alt="Eyeball">
+<img src="http://yangchihyuan.github.io/assets/img/007_MH_RD_3D_merged.jpg" height="250" alt="Stereo images">
 
 For intraocular microsurgery, robotic assistance is a cutting-edge research field because it is promising for expanding human capabilities and improving the safety and efficiency of the intricate surgery process. Because depth is critical for intraocular microsurgery, in this project we want to estimate the depth of the medical devices in an eye ball. We want to develop a method which can warm the operator if the device is too close to the retina.
 
