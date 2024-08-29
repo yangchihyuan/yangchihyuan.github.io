@@ -10,8 +10,9 @@ menu:
 #lab:
 
 people:
-- {name: 'Chih-Yuan Yang 楊智淵', title: 'Assistant Professor', description: 'Expertise in computer vision and stock investing', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1416', image: 'assets/img/Chih-Yuan_Yang.png', url: 'Chih-Yuan_Yang'}
+- {name: 'Chih-Yuan Yang 楊智淵', title: 'Assistant Professor', description: 'Expertise in computer vision and stock investing', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1416', image: 'assets/img/cyyang20240829.png', url: 'Chih-Yuan_Yang'}
 - {name: 'Brian Liu 劉冠亨', title: 'Master student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
+- {name: 'William Tsai 蔡承原', title: 'Undergraduate student' , image: 'assets/img/Man_Portrait.jpg', description: 'AI department student', url: 'Willaim_Tsai'}
 - {name: 'Matt Wu 吳奕廷', title: 'Undergraduate student' , image: 'assets/img/Matt_Wu.png', description: 'AI department student', url: 'Matt_Wu'}
 
 courses:
@@ -32,4 +33,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/yangchihyuan'}
 
 contacts:
-- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2548', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1416', image: 'assets/img/Chih-Yuan_Yang.png'}
+- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2548', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1416', image: 'assets/img/cyyang20240829.png'}
