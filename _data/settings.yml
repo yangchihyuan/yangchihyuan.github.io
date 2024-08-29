@@ -11,8 +11,8 @@ menu:
 
 people:
 - {name: 'Chih-Yuan Yang 楊智淵', title: 'Assistant Professor', description: 'Expertise in computer vision and stock investing', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2543', email: 'cyyang@cgu.edu.tw', office: 'Management Building Room 1416', image: 'assets/img/cyyang20240829.png', url: 'Chih-Yuan_Yang'}
-- {name: 'Brian Liu 劉冠亨', title: 'Master's student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
-- {name: 'Wayne Tsai 蔡承原', title: 'Master's student' , image: 'assets/img/Man_Portrait.jpg', description: 'Intereted in medical images', url: 'Wayne_Tsai'}
+- {name: 'Brian Liu 劉冠亨', title: 'Master student' , image: 'assets/img/Brian_Liu.jpg', description: 'Expertise in electronic engineering', url: 'Brian_Liu'}
+- {name: 'Wayne Tsai 蔡承原', title: 'Master student' , image: 'assets/img/Man_Portrait.jpg', description: 'Intereted in medical images', url: 'Wayne_Tsai'}
 - {name: 'Matt Wu 吳奕廷', title: 'Undergraduate student' , image: 'assets/img/Matt_Wu.png', description: 'AI department student', url: 'Matt_Wu'}
 
 courses:
