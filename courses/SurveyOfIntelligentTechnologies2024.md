@@ -3,6 +3,8 @@ layout: page
 title: "Survey of Intelligent Technologies 2024"
 ---
 
+<!--CMD729-64209-->
+
 Fall 2024, Friday. 9:10am to 12:00pm, Classroom: BTD <br/>
 Instructors: Yu-Chung Wang, Lun-Wei Ku, and Chih-Yuan Yang
 
