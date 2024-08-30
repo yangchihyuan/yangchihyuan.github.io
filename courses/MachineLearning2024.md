@@ -16,8 +16,9 @@ title: "機器學習 2024"
 #### 助教與答問時間
 助教姓名與email: 
 劉冠亨 m1261003@cgu.edu.tw<br/>
+答問時間：TBD
 蔡承原 m1361004@cgu.edu.tw<br/>
-答問時間：待公佈  <br/>
+答問時間：週二下午 5pm to 6pm 管理大樓3樓 舊的電腦教室6  <br/>
 
 #### 教師與答問時間
 楊智淵 cyyang@cgu.edu.tw <br/>
