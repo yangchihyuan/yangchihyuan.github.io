@@ -18,11 +18,11 @@ people:
 courses:
 - {name: 'Survey of Intelligent Technologies 2024', url: 'SurveyOfIntelligentTechnologies2024'}
 - {name: 'Computer Vision 2024', url: 'cv2024'}
-- {name: '機器學習 2024', url: 'MachineLearning2024'}
-- {name: '人工智慧概論 2024(醫學系A)', url: 'IntroToAI2024_medicine_A'}
-- {name: '人工智慧概論 2024(職治系)', url: 'IntroToAI2024_occupational_therapy'}
-- {name: '健康應用之程式語言 2024(呼治系)', url: 'HealthLanguage2024_respiratory_therapy'}
-- {name: '健康應用之程式語言 2024(物治系)', url: 'HealthLanguage2024_physical_therapy'}
+- {name: '機器學習 (Machine Learning) 2024', url: 'MachineLearning2024'}
+- {name: '人工智慧概論 (Introduction to AI) 2024 (醫學系A Medicine School A)', url: 'IntroToAI2024_medicine_A'}
+- {name: '人工智慧概論 (Introduction to AI) 2024 (職治系 Occupational Therapy Department)', url: 'IntroToAI2024_occupational_therapy'}
+- {name: '健康應用之程式語言 (Programming Design for Health Applications) 2024 (呼治系 Respiratory Therapy Department)', url: 'HealthLanguage2024_respiratory_therapy'}
+- {name: '健康應用之程式語言 (Programming Design for Health Applications) 2024 (物治系 Physical Therapy Department)', url: 'HealthLanguage2024_physical_therapy'}
 - {name: 'Computer Vision 2023', url: 'cv2023'}
 
 talks:
@@ -33,4 +33,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/yangchihyuan'}
 
 contacts:
-- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No.259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2548', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1416', image: 'assets/img/cyyang20240829.png'}
+- {name: 'Chih-Yuan Yang Ph.D.', title: 'Assistant Professor', department: 'Artificial Intelligence', institution: 'Chang Gung University', institution_address: 'No. 259, Wenhua 1st Rd., Guishan Dist., Taoyuan City 33302, Taiwan (R.O.C.).', phone: '+886-3-2118800 #2548', email: 'cyyang@cgu.edu.tw', office: 'Management Building B1416', image: 'assets/img/cyyang20240829.png'}
