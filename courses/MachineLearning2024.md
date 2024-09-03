@@ -28,7 +28,7 @@ title: "機器學習 2024"
 
 |週次|日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
-|1   |9/3   | 簡介                      |            |            |          |
+|1   |9/3   | 簡介                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdodITeoV4JPtwdgwoIt-8kBC9oh903o_v2v7XwgtHAsPQ?e=h0f1VQ)           |            |          |
 |2   |9/10  | 機率分佈                  |            |            |          |
 |3   |9/17  | 假日，無授課              |            |            |作業1 中秋節放假|
 |4   |9/24  | 線性迴歸                  |            |            |         |
@@ -51,19 +51,13 @@ title: "機器學習 2024"
 
 |組別|題目                               |投影片                  |簡報錄影 | 程式碼  |
 |   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
-|   |                                   |                        |        |         |
 
 <br/>
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
-校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。網路上有人在分享pdf檔，品質參差不齊，但很容易找到。這本書的特性是滿滿的數學，非常的學術，也非常的經典。<br/>
+作者官網提供正版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。<br/>
+校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。
 
 #### 參考書籍
 Fundamentals of machine learning for predictive data analytics 2/e by John D. Kelleher et al. (2020)<br/>
