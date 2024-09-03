@@ -28,7 +28,7 @@ title: "機器學習 2024"
 
 |週次|日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
-|1   |9/3   | 簡介                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdodITeoV4JPtwdgwoIt-8kBC9oh903o_v2v7XwgtHAsPQ?e=h0f1VQ)           |            |          |
+|1   |9/3   | 簡介                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdodITeoV4JPtwdgwoIt-8kBC9oh903o_v2v7XwgtHAsPQ?e=h0f1VQ)           | [YouTube](https://youtu.be/4qVlixSXXBk)           |          |
 |2   |9/10  | 機率分佈                  |            |            |          |
 |3   |9/17  | 假日，無授課              |            |            |作業1 中秋節放假|
 |4   |9/24  | 線性迴歸                  |            |            |         |
