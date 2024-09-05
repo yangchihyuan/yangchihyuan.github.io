@@ -6,7 +6,7 @@ title: "Survey of Intelligent Technologies 2024"
 <!--CMD729-64209-->
 
 Fall 2024, Friday. 9:10am to 12:00pm, Classroom: B1008 (Management building 10th floor) <br/>
-Instructors: Yu-Chung Wang, Lun-Wei Ku, Kwi-Jei Lin, and Chih-Yuan Yang
+Instructors: Yu-Chung Wang, Lun-Wei Ku, and Chih-Yuan Yang
 
 #### Course Information
 
