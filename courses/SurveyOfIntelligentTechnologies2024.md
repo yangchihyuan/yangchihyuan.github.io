@@ -56,6 +56,10 @@ In this course, we will introduce three fundamental topics in artificial intelli
 - NLP: Speech and Language Processing by Daniel Jurafsky and James H. Martin (2024)
 - CV: [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022). It is available online for free.
 
+#### References
+Professor Yu-Chung Wang's lecture recordings for the course [Deep Learning 2023](https://www.youtube.com/playlist?list=PLuPI6qfPbpmijnPKBHH0B34bKqxi3Fxn1)
+Professor Chih-Yuan Yang's lecture recordings for the course [Computer Vision 2023](https://www.youtube.com/watch?v=PAsd1LVJXdw&list=PLusuiqr0ty-xdmMOEBaQ22WEaUTmpQUMI)
+
 #### Grading
 The three sessions will have their individual grades, and the overall grade of this course will be the average of the three session grades. 
 
