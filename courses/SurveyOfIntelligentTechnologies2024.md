@@ -58,6 +58,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 
 #### References
 Professor Yu-Chung Wang's lecture recordings for the course [Deep Learning 2023](https://www.youtube.com/playlist?list=PLuPI6qfPbpmijnPKBHH0B34bKqxi3Fxn1)
+
 Professor Chih-Yuan Yang's lecture recordings for the course [Computer Vision 2023](https://www.youtube.com/watch?v=PAsd1LVJXdw&list=PLusuiqr0ty-xdmMOEBaQ22WEaUTmpQUMI)
 
 #### Grading
