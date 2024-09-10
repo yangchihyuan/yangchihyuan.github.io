@@ -30,7 +30,7 @@ title: "機器學習 2024"
 |週次|日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
 |1   |9/3   | 簡介                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdodITeoV4JPtwdgwoIt-8kBC9oh903o_v2v7XwgtHAsPQ?e=h0f1VQ)           | [YouTube](https://youtu.be/4qVlixSXXBk)           |          |
-|2   |9/10  | 機率分佈                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfCvuSj84pdGrPG6J7S-oQkBbTabrpV0BWOZKk-2vH17ww?e=jI7aZj)           |            |          |
+|2   |9/10  | 機率分佈                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfCvuSj84pdGrPG6J7S-oQkBbTabrpV0BWOZKk-2vH17ww?e=jI7aZj)           | [YouTube](https://youtu.be/yUKJRTU0Te0)           |          |
 |3   |9/17  | 假日，無授課              |            |            |作業1 中秋節放假|
 |4   |9/24  | 線性迴歸                  |            |            |         |
 |5   |10/1  | 線性分類                  |            |            |馬誠佑老師代課 |
