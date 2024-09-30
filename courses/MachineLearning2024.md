@@ -34,8 +34,8 @@ title: "機器學習 2024"
 |3   |9/17  | 假日，無授課              |            |            |作業1 中秋節放假|
 |4   |9/24  | 線性的迴歸模型            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZR5nhcpUP5FuVthRRWRNnoB0czb_tJGMM2pjkIGKeVY4w?e=eGchQT) [範例檔](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EqieH0EFJk5NstSdcOH4iYIBWiAZf11sVb30bNnPUahOMg?e=nhRIgv)          | [YouTube](https://youtu.be/qhueEuHDxW8)           |         |
 |5   |10/1  | 線性的分類模型             |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EYL0c-_2UeRBmgDTQRt-TaQBGGkWjpvz7zS49-GiLm9F3w?e=qS7Rmm) [範例檔](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/d000019097_cgu_edu_tw/EY1Zj62IbkJOuiH33RnnMWMBkweQ3R8w4XGYNJQ4z68Zdw?e=eZPw2P)           |            |馬誠佑老師代課 |
-|6   |10/8  | 神經網路                  |            |            |作業2     |
-|7   |10/15 | 核方法                    |            |            |          |
+|6   |10/8  | 神經網路                  |            |            |     |
+|7   |10/15 | 核方法                    |            |            |作業2      |
 |8   |10/22 | 稀疏核機器                |            |            |          |
 |9   |10/29 | 期中考，無授課            |            |            |期中考    |
 |10  |11/5  | 圖模型                    |            |            |作業3     |
