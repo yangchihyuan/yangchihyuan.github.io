@@ -35,8 +35,8 @@ title: "機器學習 2024"
 |4   |9/24  | 線性的迴歸模型            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZR5nhcpUP5FuVthRRWRNnoB0czb_tJGMM2pjkIGKeVY4w?e=eGchQT) [範例檔](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EqieH0EFJk5NstSdcOH4iYIBWiAZf11sVb30bNnPUahOMg?e=nhRIgv)          | [YouTube](https://youtu.be/qhueEuHDxW8)           |         |
 |5   |10/1  | 線性的分類模型             |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EYL0c-_2UeRBmgDTQRt-TaQBGGkWjpvz7zS49-GiLm9F3w?e=qS7Rmm) [範例檔](https://changgunguniversity-my.sharepoint.com/:u:/g/personal/d000019097_cgu_edu_tw/EY1Zj62IbkJOuiH33RnnMWMBkweQ3R8w4XGYNJQ4z68Zdw?e=eZPw2P)          |                                                   |馬誠佑老師代課 |
 |6   |10/8  | 神經網路                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeNPQAL1eftDvY7ME21un4oB9QcEUZ8E91NbjUXR6uUlxw?e=tEbv1q) [ipynb](https://pytorch.org/tutorials/_downloads/4e865243430a47a00d551ca0579a6f6c/cifar10_tutorial.ipynb)                                                     | [YouTube](https://youtu.be/cGGlSlaq4kQ)          |     |
-|7   |10/15 | 核方法                    |            |            |作業2      |
-|8   |10/22 | 稀疏核機器                |            |            |          |
+|7   |10/15 | 核方法、稀疏核機器1       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbPybS3n_pVHid6lul4RPxsBgwW8KN5v3SUYbkOFU0J0mQ?e=nsciik)           |            |作業2      |
+|8   |10/22 | 稀疏核機器2               |            |            |          |
 |9   |10/29 | 期中考，無授課            |            |            |期中考    |
 |10  |11/5  | 圖模型                    |            |            |作業3     |
 |11  |11/12 | 混合模型                  |            |            |          |
