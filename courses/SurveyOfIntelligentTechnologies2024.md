@@ -37,7 +37,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |12  |11/22      | (CV) Classification                         |      |          |                              |
 |13  |11/29      | (CV) Segmentation                           |      |          |                              |
 |14  |12/6       | (NLP) NLP applications                      |      |          |                              |
-|15  |12/13      | (CV) Detection                              |      |          |                              |
+|15  |12/13      | (CV) Detection                              |      |          |                              | Presentation slides due
 |16  |12/20      | (CV) Session presentation, image generation |      |          |                              |
 
 <br/>
