@@ -31,14 +31,14 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |6   |10/11      | (NLP) Introduction to NLP                   |      |          |                              |
 |7   |10/18      | (NLP) Classic NLP                           |      |          |                              |
 |8   |10/25      | (NLP) Commonly used NLP DNN models          |      |          |                              |
-|9   |11/1       | (NLP) Introduction to Transformer           |      |          |                              |
-|10  |11/8       | (NLP) Introduction to large language models (LLMs) |      |          |                              | 
-|11  |11/15      | (NLP) NLP applications                      |      |          |                              |
-|12  |11/22      | (CV) Introduction to computer vision        |      |          |                              |
-|13  |11/29      | (CV) Classification                         |      |          |                              |
-|14  |12/6       | (CV) Segmentation                           |      |          |                              |
+|9   |11/1       | (CV) Introduction to computer vision        |      |          |                              |
+|10  |11/8       | (NLP) Introduction to Transformer           |      |          |                              | 
+|11  |11/15      | (NLP) Introduction to large language models (LLMs) |      |          |                              |
+|12  |11/22      | (CV) Classification                         |      |          |                              |
+|13  |11/29      | (CV) Segmentation                           |      |          |                              |
+|14  |12/6       | (NLP) NLP applications                      |      |          |                              |
 |15  |12/13      | (CV) Detection                              |      |          |                              |
-|16  |12/20      | (CV) Image generation                       |      |          |                              |
+|16  |12/20      | (CV) Session presentation, image generation |      |          |                              |
 
 <br/>
 
@@ -59,8 +59,8 @@ In this course, we will introduce three fundamental topics in artificial intelli
 #### References
 Professor Yu-Chung Wang's lecture recordings for the course [Deep Learning 2023](https://www.youtube.com/playlist?list=PLuPI6qfPbpmijnPKBHH0B34bKqxi3Fxn1)
 
-Professor Chih-Yuan Yang's lecture recordings for the course [Computer Vision 2023](https://www.youtube.com/watch?v=PAsd1LVJXdw&list=PLusuiqr0ty-xdmMOEBaQ22WEaUTmpQUMI)
-
+Professor Chih-Yuan Yang's lecture slides and video recordings for [Computer Vision 2023](https://yangchihyuan.github.io/courses/cv2023)
+[Computer Vision 2024](https://yangchihyuan.github.io/courses/cv2024)
 #### Grading
 The three sessions will have their individual grades, and the overall grade of this course will be the average of the three session grades. 
 
