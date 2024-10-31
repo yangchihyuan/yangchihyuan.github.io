@@ -31,7 +31,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |6   |10/11      | (NLP) Introduction to NLP                   |      |          |                              |
 |7   |10/18      | (NLP) Classic NLP                           |      |          |                              |
 |8   |10/25      | (NLP) Commonly used NLP DNN models          |      |          |                              |
-|9   |11/1       | (CV) Introduction to computer vision        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeAFLmtjF5tNvGpdVjxI58EBs6gHYJLqUuleFnDcL0wTLw?e=ARUfd1)     |          |                              |
+|9   |11/1       | (CV) Introduction to computer vision        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeDnkey8m6JOlSIxD9B1vZsBJLWGfMqOvZgguW17Jlxvvw?e=iOGLmw)     |          |                              |
 |10  |11/8       | (NLP) Introduction to Transformer           |      |          |                              | 
 |11  |11/15      | (NLP) Introduction to large language models (LLMs) |      |          |                              |
 |12  |11/22      | (CV) Classification                         |      |          |                              |
