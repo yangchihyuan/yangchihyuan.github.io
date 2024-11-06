@@ -38,7 +38,7 @@ title: "機器學習 2024"
 |7   |10/15 | 核方法、支持向量機1       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbPybS3n_pVHid6lul4RPxsBgwW8KN5v3SUYbkOFU0J0mQ?e=nsciik)           | [YouTube](https://youtu.be/YVgX8fMr7FI)           |作業2      |
 |8   |10/22 | 支持向量機2               | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfhtyFyaG2VIh9LBjzalfw4B1plTH88uzG7nUUMbQmzaaQ?e=PvXYw3) [程式檔](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EtfXeE6T4YdEl6oJhUknKVEBJW66T2YQ5snJUH2CY9aVsQ?e=hsh8sU)          | [YouTube](https://youtu.be/2tT8xO9x2yQ)           |          |
 |9   |10/29 | 期中考，無授課            |            |            |期中考    |
-|10  |11/5  | 集成方法                  |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbAxe8h0YZNFsp8-Ymgr6doBg_4da9cH1BKZ7BYo8GYzHw?e=tkU9br)            | [YouTube](https://youtu.be/IiMsNQU0QzA)           |作業3     |
+|10  |11/5  | 集成方法1                 |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbAxe8h0YZNFsp8-Ymgr6doBg_4da9cH1BKZ7BYo8GYzHw?e=tkU9br)            | [YouTube](https://youtu.be/IiMsNQU0QzA)           |作業3     |
 |11  |11/12 | 圖模型            　　    |            |            |          |
 |12  |11/19 | 混合模型                  |            |            |          |
 |13  |11/26 | 近似推論                  |            |            |作業4     |
@@ -53,8 +53,15 @@ title: "機器學習 2024"
 
 #### 期末專題
 
-|組別|題目                               |投影片                  |簡報錄影 | 程式碼  |
-|   |                                   |                        |        |         |
+|組別|題目                          |投影片                  |簡報錄影 | 程式碼  |
+|1   |心律偵測                      |                        |        |         |
+|2   |厄瓜多爾 Favorita 商店銷售預測 |                        |        |         |
+|3   |大聯盟冠軍預測                 |                        |        |         |
+|4   |鐵達尼號⽣存預測               |                        |        |         |
+|5   |商品評價分析（情感分析）        |                        |        |         |
+|6   |DeepRacer                     |                        |        |         |
+|7   |MNIST                         |                        |        |         |
+|8   |AI影像學習                    |                        |        |         |
 
 <br/>
 
