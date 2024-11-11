@@ -39,8 +39,8 @@ title: "機器學習 2024"
 |8   |10/22 | 支持向量機2               | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EfhtyFyaG2VIh9LBjzalfw4B1plTH88uzG7nUUMbQmzaaQ?e=PvXYw3) [程式檔](https://changgunguniversity-my.sharepoint.com/:f:/g/personal/d000019097_cgu_edu_tw/EtfXeE6T4YdEl6oJhUknKVEBJW66T2YQ5snJUH2CY9aVsQ?e=hsh8sU)          | [YouTube](https://youtu.be/2tT8xO9x2yQ)           |          |
 |9   |10/29 | 期中考，無授課            |            |            |期中考    |
 |10  |11/5  | 集成方法1                 |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbAxe8h0YZNFsp8-Ymgr6doBg_4da9cH1BKZ7BYo8GYzHw?e=tkU9br)            | [YouTube](https://youtu.be/IiMsNQU0QzA)           |作業3     |
-|11  |11/12 | 圖模型            　　    |            |            |          |
-|12  |11/19 | 混合模型                  |            |            |          |
+|11  |11/12 | 集成方法2, 混合模型        | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQtaC4XhEa9IsAb5xQm2jfMB3kY2FhrjKh9-NuqIn7e2_Q?e=bwHqD5)           |            |          |
+|12  |11/19 | 圖模型                    |            |            |          |
 |13  |11/26 | 近似推論                  |            |            |作業4     |
 |14  |12/3  | 採樣方法    　　　         |            |            |          |
 |15  |12/10 | 時間序列資料              |            |            |          |
