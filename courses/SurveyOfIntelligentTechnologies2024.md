@@ -35,7 +35,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |10  |11/8       | (NLP) Introduction to Transformer           |      |          |                              | 
 |11  |11/15      | (NLP) Introduction to large language models (LLMs) |      |          |                              |
 |12  |11/22      | (CV) Classification                         | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdINt6PpKYJHnaY30XI1Qj4BFnuR2kRxD-ztG9F-oq0VOw?e=EfREEr)     | [YouTube](https://youtu.be/ZveY7IK-4P0)         |                              |
-|13  |11/29      | (CV) Image Generation                       |      |          |                              |
+|13  |11/29      | (CV) Image Generation                       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EcRdl7vHzaFDqkpjYooEP3QBuYeycW5BJN9gLKsLiRrj7Q?e=kIzGIl)     |          |                              |
 |14  |12/6       | (NLP) NLP applications                      |      |          |                              |
 |15  |12/13      | (CV) Detection, Segmentation                |      |          | Presentation slides due      | 
 |16  |12/20      | (CV) Session presentation                   |      |          |                              |
