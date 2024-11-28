@@ -71,7 +71,10 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。
 
 #### 參考書籍
-Fundamentals of machine learning for predictive data analytics 2/e by John D. Kelleher et al. (2020)<br/>
+- Python機器學習 Sebastian Raschka著 劉立民、吳建華譯 (繁中出版年：2016) <br/>
+這本書和我們課本的內容重疊，涵蓋了許多個機器學習的大主題，但數學講得比較少，而比較偏向如何以Python程式碼和scikit-learn用出各種機器學習的演算法。另外，由於課本很數學，沒什麼數學理論的東西就講很少，以致於分群演算法時只談了k-means。相較之下，因為這本書比較偏向實作與應用，所以另外講了聚合式階層分群法、DBSCAN、和光譜群集法，是課本的好補充。這本書的最後一章講Theano，已經過時，但可以參考讀一讀，看2015年時Theano為什麼被大家需要。
+
+- Fundamentals of machine learning for predictive data analytics 2/e by John D. Kelleher et al. (2020)<br/>
 校圖有電子版，可線上看(一次限一人)，可下載(一次限100頁)。這本書從應用面出發，相當白話，數學不多。</br>
 
 #### 其他參考書籍
