@@ -42,7 +42,7 @@ title: "機器學習 2024"
 |11  |11/12 | 集成方法2, 分群演算法      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQtaC4XhEa9IsAb5xQm2jfMB3kY2FhrjKh9-NuqIn7e2_Q?e=bwHqD5)           | [YouTube](https://youtu.be/c8AS5Gc6Y38)           |          |
 |12  |11/19 | 連續潛變數                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ERowLX52ZPhKpyoSNiiJZR0BGhWXexoTg5IbufcC63xMmQ?e=0yQGMg)           | [YouTube](https://youtu.be/oxenyT_F7EU)           |          |
 |13  |11/26 | 圖模型                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec8Lo0a-A6xFu91XiTNtyFIBKcvQR2ATP7DnHz7ODlGLXg?e=LHROQl)           | [YouTube](https://youtu.be/BFQJdZuDyNo)           |作業4     |
-|14  |12/3  | 近似方法                  |            |            |          |
+|14  |12/3  | 近似推論                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeSAbtl4y8hIj_ONwZDegv4B2Dvu9Luw7xa3901xmmKyFA?e=FBSTKG)           |            |          |
 |15  |12/10 | 時間序列資料              |            |            |          |
 |16  |12/17 | 期末報告，無授課          |            |            |期末報告  |
 
@@ -80,6 +80,8 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 校圖有電子版，可線上看(一次限一人)，可下載(一次限100頁)。這本書從應用面出發，相當白話，數學不多。</br>
 
 #### 其他參考書籍
+- 機器學習 使用Python 徐偉智 編著 2023年 全華出版，校圖有。<br/>
+這本書中提到的機器學習的演算法，課本幾乎全都涵蓋了。只有ROC曲線、殘差分析是課本沒有提到的。因為課本著重於數學模型，ROC曲線、殘差分析沒有什麼數學模型，課本就不提了。但ROC曲線是實務上很常見的視覺化分類器效能的方法，大家可以參考。另外，這本書偏向實作，所以講很多如何安裝、使用Python，以及展示Python程式碼，讓讀者明白要呼叫什麼模組來完成對應的演算法。對於想用Python來寫作業、作專題，還是有參考價值。
 - 機器學習與資料科學的數學基礎 使用Python 松田雄馬 等著 (繁中版出版年：2022)，校圖有。<br/>
 這本書也是很雜，從安裝Python到介紹題目、講解演算法，都挑了幾個案例介紹。的確是機器學習的範圍，但缺乏系統性的知識。特性是給了很多Python程式碼，可以增加讀者處理案例的經驗。
 - 機器學習概論 機器學習發展+演算法原理實務 鄭捷著 (繁中版出版年：2020)，校圖有。<br/>
@@ -92,6 +94,7 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 這本書分兩個部份，第一部份講一些淺淺的演算法、如何收集資料、一點統計。第二部份講三個案例，一個電影推薦系統，一個Kickstarter分析，一個行銷資源分配，很混亂，對本堂課沒什麼幫助。
 - Python機器學習與深度學習特訓班 第二版 文淵閣工作室編著 2021年 碁峯出版<br/>
 這本書是平台、原理和案例的混合，工具和平台包括Tensorflow, Keras, Google Colab, Microsoft Azure, 原理包含MLP, CNN, RNN，案例包含臉部辦識、文字雲、YouTube影片加字幕、twstock套件的使用、車牌辨識。很混雜的一本書、沒有什麼數學，沒有什麼系統。
+
   
 #### 成績評定標準
 - 40% 作業
