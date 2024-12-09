@@ -43,7 +43,7 @@ title: "機器學習 2024"
 |12  |11/19 | 連續潛變數                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ERowLX52ZPhKpyoSNiiJZR0BGhWXexoTg5IbufcC63xMmQ?e=0yQGMg)           | [YouTube](https://youtu.be/oxenyT_F7EU)           |          |
 |13  |11/26 | 圖模型                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec8Lo0a-A6xFu91XiTNtyFIBKcvQR2ATP7DnHz7ODlGLXg?e=LHROQl)           | [YouTube](https://youtu.be/BFQJdZuDyNo)           |作業4     |
 |14  |12/3  | 近似推論                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeSAbtl4y8hIj_ONwZDegv4B2Dvu9Luw7xa3901xmmKyFA?e=FBSTKG)           | [YouTube](https://youtu.be/FqPMVuX-lAw)           |          |
-|15  |12/10 | 時間序列資料              |            |            |          |
+|15  |12/10 | 時間序列資料              | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQSZ07N0-T5Lgxi9SbpuvnYBJNNT4a1SjT0XIS0ECIoSSg?e=CTZp1V)           |            |          |
 |16  |12/17 | 期末報告，無授課          |            |            |期末報告  |
 
 <br/>
