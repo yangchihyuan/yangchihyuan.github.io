@@ -58,12 +58,14 @@ title: "機器學習 2024"
 |2   |厄瓜多爾 Favorita 商店銷售預測 |                        |        |         |
 |3   |大聯盟冠軍預測                 |                        |        |         |
 |4   |鐵達尼號⽣存預測               |                        |        |         |
-|5   |商品評價分析（情感分析）        |                        |        |         |
+|5   |文字評價分類                   |                        |        |         |
 |6   |DeepRacer                     |                        |        |         |
 |7   |MNIST                         |                        |        |         |
 |8   |AI影像學習                    |                        |        |         |
 
 <br/>
+
+[Microsoft Form 同學互評評分表](https://forms.office.com/r/MwkXcLfSET)，需登入長庚大學帳號。
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
