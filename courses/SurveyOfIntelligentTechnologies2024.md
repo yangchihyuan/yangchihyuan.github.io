@@ -37,7 +37,7 @@ In this course, we will introduce three fundamental topics in artificial intelli
 |12  |11/22      | (CV) Classification                         | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdINt6PpKYJHnaY30XI1Qj4BFnuR2kRxD-ztG9F-oq0VOw?e=EfREEr)     | [YouTube](https://youtu.be/ZveY7IK-4P0)         |                              |
 |13  |11/29      | (CV) Image Generation                       | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EcRdl7vHzaFDqkpjYooEP3QBuYeycW5BJN9gLKsLiRrj7Q?e=kIzGIl)     | [YouTube](https://youtu.be/VgYUqA1VPz0)         |                              |
 |14  |12/6       | (NLP) NLP applications                      |      |          |                              |
-|15  |12/13      | (CV) Detection, Segmentation                |      |          | Presentation slides due      | 
+|15  |12/13      | (CV) Detection                              | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Eer5pGeADzdGs_jJGCPabf8Bz_z_N2AI4bWLrPRYYMnSFQ?e=dyIzJX)     |          | Presentation slides due      | 
 |16  |12/20      | (CV) Session presentation                   |      |          |                              |
 
 <br/>
