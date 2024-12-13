@@ -58,7 +58,7 @@ title: "機器學習 2024"
 |2   |厄瓜多爾 Favorita 商店銷售預測 |                        |        |         |
 |3   |大聯盟冠軍預測                 |                        |        |         |
 |4   |鐵達尼號⽣存預測               |                        |        |         |
-|5   |文字評價分類                   |                        |        |         |
+|5   |影評情緒智析平台               |                        |        |         |
 |6   |DeepRacer                     |                        |        |         |
 |7   |MNIST                         |                        |        |         |
 |8   |AI影像學習                    |                        |        |         |
@@ -69,7 +69,7 @@ title: "機器學習 2024"
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
-作者官網提供正版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。<br/>
+作者官網提供正版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。但2006版的錯別字和錯寫的方程式非常多，請參考作者提供的勘誤表校正[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf)<br/>
 校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。
 
 #### 參考書籍
