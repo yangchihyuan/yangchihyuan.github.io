@@ -53,19 +53,17 @@ title: "機器學習 2024"
 
 #### 期末專題
 
-|組別|題目                          |投影片                  |簡報錄影 | 程式碼  |
-|1   |心律偵測                      |                        |        |         |
-|2   |厄瓜多爾 Favorita 商店銷售預測 |                        |        |         |
-|3   |大聯盟冠軍預測                 |                        |        |         |
-|4   |鐵達尼號⽣存預測               |                        |        |         |
-|5   |影評情緒智析平台               |                        |        |         |
-|6   |DeepRacer                     |                        |        |         |
-|7   |MNIST                         |                        |        |         |
-|8   |房價預測                      |                        |        |         |
+|組別|題目                          |投影片                  |簡報錄影 |
+|1   |極限配速預測與訓練計劃生成      |[Canva](https://www.canva.com/design/DAGZQCiKPpM/WtBsZjtq25Q0XsubRYQ-jw/view?utm_content=DAGZQCiKPpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1dd72498f)                        |        |
+|2   |厄瓜多爾 Favorita 商店銷售預測 |[pdf](https://www.dropbox.com/scl/fi/f2gi8vxpm6y6aid6xac4n/B1228032_-_.pdf?rlkey=9s2ttcnpc612s2f89j0999xg1&dl=0)                        |        |
+|3   |MLB大聯盟冠軍預測              |[pptx](https://www.dropbox.com/scl/fi/1os95lx5ln1kkgq9z646k/B1228026_.pptx?rlkey=ffj16qmoxvz7364s442w01jsk&dl=0)                        |        |
+|4   |鐵達尼號⽣存預測               |[pdf](https://www.dropbox.com/scl/fi/8qbab3k7a2urid86hpnx9/B1228034_.pdf?rlkey=ln76mz9pfemd404nd65nrj8i3&dl=0)                        |        |
+|5   |影評情緒智析平台               |[pdf](https://www.dropbox.com/scl/fi/9qi65l8mdd9pekj7vhn8q/B1228011_-_.pdf?rlkey=h9v9lnn2dewgzvln8rtad07ik&dl=0)                        |        |
+|6   |DeepRacer                     |[pptx](https://www.dropbox.com/scl/fi/tg3yymiqy0lykddyl4gf4/B1228037_DeepRace.pptx?rlkey=eyqeuhri1w24m0btyqp3hooqd&dl=0) [pdf](https://www.dropbox.com/scl/fi/qqa8gkdjlwnlb7r36qjgz/B1228037_DeepRace.pdf?rlkey=r3ajwqm01fqijgao9g7qep8vo&dl=0)                        |        |
+|7   |MNIST                         |[Canva](https://www.canva.com/design/DAGYtUCl-IQ/en00s6_wfpD7axRmgOGoCQ/edit?utm_content=DAGYtUCl-IQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                        |        |
+|8   |Kaggle房價預測比賽             |[Canva](https://www.canva.com/design/DAGZSLR7HuQ/vs7pv6ggF_DR2KIvbyFAgA/edit)                        |        |
 
 <br/>
-
-[Microsoft Form 同學互評評分表](https://forms.office.com/r/MwkXcLfSET)，需登入長庚大學帳號。
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
@@ -85,7 +83,7 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 - 機器學習 使用Python 徐偉智 編著 2023年 全華出版，校圖有。<br/>
 這本書中提到的機器學習的演算法，課本幾乎全都涵蓋了。只有ROC曲線、殘差分析是課本沒有提到的。因為課本著重於數學模型，ROC曲線、殘差分析沒有什麼數學模型，課本就不提了。但ROC曲線是實務上很常見的視覺化分類器效能的方法，大家可以參考。另外，這本書偏向實作，所以講很多如何安裝、使用Python，以及展示Python程式碼，讓讀者明白要呼叫什麼模組來完成對應的演算法。對於想用Python來寫作業、作專題，還是有參考價值。
 - 機器學習與資料科學的數學基礎 使用Python 松田雄馬 等著 (繁中版出版年：2022)，校圖有。<br/>
-這本書也是很雜，從安裝Python到介紹題目、講解演算法，都挑了幾個案例介紹。的確是機器學習的範圍，但缺乏系統性的知識。特性是給了很多Python程式碼，可以增加讀者處理案例的經驗。
+這本書很雜，從安裝Python到介紹題目、講解演算法，都挑了幾個案例介紹。的確是機器學習的範圍，但缺乏系統性的知識。特性是給了很多Python程式碼，可以增加讀者處理案例的經驗。
 - 機器學習概論 機器學習發展+演算法原理實務 鄭捷著 (繁中版出版年：2020)，校圖有。<br/>
 這本書很雜，它講講演算法像決策樹、SVM，也講幾個機器學習的著名任務像是圖形辨識裏的人臉辨識、自然語言處理裏的詞性標記，又講實作時的工具像是framework裏的Theano、Python的函式庫Scikit-Learn。因為工具的演進變動很快，到現在2024年，Theano已經被取代，鮮少人在用了。
 - 機器學習 探索人工智慧關鍵 Ethem Alpaydin 著 (繁中版出版年：2018)，校圖有。<br/>
