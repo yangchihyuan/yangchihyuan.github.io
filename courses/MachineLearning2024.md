@@ -38,12 +38,12 @@ title: "機器學習 2024"
 |7   |10/15 | 核方法、支持向量機1       | [pptx](https://www.dropbox.com/scl/fi/ctrbzjknfzoyn43hj1z7i/06.pptx?rlkey=7ntxjqhwdjg5xiurdvnyy0stt&dl=0)           | [YouTube](https://youtu.be/YVgX8fMr7FI)           |作業2      |
 |8   |10/22 | 支持向量機2               | [pptx](https://www.dropbox.com/scl/fi/soo5bj6z9zqa5qvcw0fvz/07.pptx?rlkey=yeeqzosx1p7x1xbhr06q452h9&dl=0)          | [YouTube](https://youtu.be/2tT8xO9x2yQ)           |          |
 |9   |10/29 | 期中考，無授課            |            |            |期中考    |
-|10  |11/5  | 集成方法1                 |[pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbAxe8h0YZNFsp8-Ymgr6doBg_4da9cH1BKZ7BYo8GYzHw?e=tkU9br)            | [YouTube](https://youtu.be/IiMsNQU0QzA)           |作業3     |
-|11  |11/12 | 集成方法2, 分群演算法      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQtaC4XhEa9IsAb5xQm2jfMB3kY2FhrjKh9-NuqIn7e2_Q?e=bwHqD5)           | [YouTube](https://youtu.be/c8AS5Gc6Y38)           |          |
-|12  |11/19 | 連續潛變數                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ERowLX52ZPhKpyoSNiiJZR0BGhWXexoTg5IbufcC63xMmQ?e=0yQGMg)           | [YouTube](https://youtu.be/oxenyT_F7EU)           |          |
-|13  |11/26 | 圖模型                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Ec8Lo0a-A6xFu91XiTNtyFIBKcvQR2ATP7DnHz7ODlGLXg?e=LHROQl)           | [YouTube](https://youtu.be/BFQJdZuDyNo)           |作業4     |
-|14  |12/3  | 近似推論                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EeSAbtl4y8hIj_ONwZDegv4B2Dvu9Luw7xa3901xmmKyFA?e=FBSTKG)           | [YouTube](https://youtu.be/FqPMVuX-lAw)           |          |
-|15  |12/10 | 序列資料                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQSZ07N0-T5Lgxi9SbpuvnYBJNNT4a1SjT0XIS0ECIoSSg?e=CTZp1V)           | [YouTube](https://youtu.be/4ydpjVlYu3k)           |          |
+|10  |11/5  | 集成方法1                 |[pptx](https://www.dropbox.com/scl/fi/02fd5o6xkl94d8mmabnvt/08.pptx?rlkey=k4u3mjasgmajdvt2r8fnmvp0y&dl=0)            | [YouTube](https://youtu.be/IiMsNQU0QzA)           |作業3     |
+|11  |11/12 | 集成方法2, 分群演算法      | [pptx](https://www.dropbox.com/scl/fi/4h0mplnzptrgtygedql0p/09-2.pptx?rlkey=wuhwzupfvrvo2npumqzdo6cdz&dl=0)           | [YouTube](https://youtu.be/c8AS5Gc6Y38)           |          |
+|12  |11/19 | 連續潛變數                | [pptx](https://www.dropbox.com/scl/fi/p214di4vkb9nspklw008l/10.pptx?rlkey=a6sqexskgz1bg3yg4if1evu52&dl=0)           | [YouTube](https://youtu.be/oxenyT_F7EU)           |          |
+|13  |11/26 | 圖模型                    | [pptx](https://www.dropbox.com/scl/fi/7w8ws2shxjrtiyialvly1/11.pptx?rlkey=yb49po39s9oeiuvhe0mwbe10q&dl=0)           | [YouTube](https://youtu.be/BFQJdZuDyNo)           |作業4     |
+|14  |12/3  | 近似推論                  | [pptx](https://www.dropbox.com/scl/fi/dehcscp7eurjrilp3h2oa/12.pptx?rlkey=h20jhy4g7wk9jxft5okpdkvxh&dl=0)           | [YouTube](https://youtu.be/FqPMVuX-lAw)           |          |
+|15  |12/10 | 序列資料                  | [pptx](https://www.dropbox.com/scl/fi/f5q526wq8gmobd739s8y0/13.pptx?rlkey=l8rs63nx3uqqb6hjngf32xjwe&dl=0)           | [YouTube](https://youtu.be/4ydpjVlYu3k)           |          |
 |16  |12/17 | 期末報告，無授課          |            |            |期末報告  |
 
 <br/>
