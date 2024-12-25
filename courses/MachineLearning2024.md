@@ -55,7 +55,7 @@ title: "機器學習 2024"
 
 |組別|題目                          |投影片                  |書面報告 | 程式碼 |
 |---|---|---|---|---|
-|1   |極限配速預測與訓練計劃生成      |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)        | |
+|1   |極限配速預測與訓練計劃生成      |[Canva](https://www.canva.com/design/DAGZQCiKPpM/WtBsZjtq25Q0XsubRYQ-jw/view?utm_content=DAGZQCiKPpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1dd72498f)                        |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)        | |
 |2   |厄瓜多爾 Favorita 商店銷售預測 |[pdf](https://www.dropbox.com/scl/fi/f2gi8vxpm6y6aid6xac4n/B1228032_-_.pdf?rlkey=9s2ttcnpc612s2f89j0999xg1&dl=0)                        |[pdf](https://www.dropbox.com/s/zuh8kga8ok74cff/B1228032_%E8%A3%9C%E7%B9%B3_%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.docx.pdf?dl=0)        | |
 |3   |MLB大聯盟冠軍預測              |[pptx](https://www.dropbox.com/scl/fi/1os95lx5ln1kkgq9z646k/B1228026_.pptx?rlkey=ffj16qmoxvz7364s442w01jsk&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/46u5ofcda5drgrtrlauo6/B1228026_-2.pdf?rlkey=pbepquignm13irnhloxyjh5q3&dl=0)        | |
 |4   |鐵達尼號⽣存預測               |[pdf](https://www.dropbox.com/scl/fi/8qbab3k7a2urid86hpnx9/B1228034_.pdf?rlkey=ln76mz9pfemd404nd65nrj8i3&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/e1frbn8oh8a8ug4n5gjcp/B1228019_.pdf?rlkey=g0xikvo5w9levcc44205au3v4&dl=0)        | |
