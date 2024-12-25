@@ -53,15 +53,16 @@ title: "機器學習 2024"
 
 #### 期末專題
 
-|組別|題目                          |投影片                  |簡報錄影 |
-|1   |極限配速預測與訓練計劃生成      |[Canva](https://www.canva.com/design/DAGZQCiKPpM/WtBsZjtq25Q0XsubRYQ-jw/view?utm_content=DAGZQCiKPpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1dd72498f)                        |        |
-|2   |厄瓜多爾 Favorita 商店銷售預測 |[pdf](https://www.dropbox.com/scl/fi/f2gi8vxpm6y6aid6xac4n/B1228032_-_.pdf?rlkey=9s2ttcnpc612s2f89j0999xg1&dl=0)                        |        |
-|3   |MLB大聯盟冠軍預測              |[pptx](https://www.dropbox.com/scl/fi/1os95lx5ln1kkgq9z646k/B1228026_.pptx?rlkey=ffj16qmoxvz7364s442w01jsk&dl=0)                        |        |
-|4   |鐵達尼號⽣存預測               |[pdf](https://www.dropbox.com/scl/fi/8qbab3k7a2urid86hpnx9/B1228034_.pdf?rlkey=ln76mz9pfemd404nd65nrj8i3&dl=0)                        |        |
-|5   |影評情緒智析平台               |[pdf](https://www.dropbox.com/scl/fi/9qi65l8mdd9pekj7vhn8q/B1228011_-_.pdf?rlkey=h9v9lnn2dewgzvln8rtad07ik&dl=0)                        |        |
-|6   |DeepRacer                     |[pptx](https://www.dropbox.com/scl/fi/tg3yymiqy0lykddyl4gf4/B1228037_DeepRace.pptx?rlkey=eyqeuhri1w24m0btyqp3hooqd&dl=0) [pdf](https://www.dropbox.com/scl/fi/qqa8gkdjlwnlb7r36qjgz/B1228037_DeepRace.pdf?rlkey=r3ajwqm01fqijgao9g7qep8vo&dl=0)                        |        |
-|7   |MNIST                         |[Canva](https://www.canva.com/design/DAGYtUCl-IQ/en00s6_wfpD7axRmgOGoCQ/edit?utm_content=DAGYtUCl-IQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                        |        |
-|8   |Kaggle房價預測比賽             |[Canva](https://www.canva.com/design/DAGZSLR7HuQ/vs7pv6ggF_DR2KIvbyFAgA/edit)                        |        |
+|組別|題目                          |投影片                  |書面報告 | 程式碼 |
+|---|---|---|---|---|
+|1   |極限配速預測與訓練計劃生成      |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)        | |
+|2   |厄瓜多爾 Favorita 商店銷售預測 |[pdf](https://www.dropbox.com/scl/fi/f2gi8vxpm6y6aid6xac4n/B1228032_-_.pdf?rlkey=9s2ttcnpc612s2f89j0999xg1&dl=0)                        |[pdf](https://www.dropbox.com/s/zuh8kga8ok74cff/B1228032_%E8%A3%9C%E7%B9%B3_%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.docx.pdf?dl=0)        | |
+|3   |MLB大聯盟冠軍預測              |[pptx](https://www.dropbox.com/scl/fi/1os95lx5ln1kkgq9z646k/B1228026_.pptx?rlkey=ffj16qmoxvz7364s442w01jsk&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/46u5ofcda5drgrtrlauo6/B1228026_-2.pdf?rlkey=pbepquignm13irnhloxyjh5q3&dl=0)        | |
+|4   |鐵達尼號⽣存預測               |[pdf](https://www.dropbox.com/scl/fi/8qbab3k7a2urid86hpnx9/B1228034_.pdf?rlkey=ln76mz9pfemd404nd65nrj8i3&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/e1frbn8oh8a8ug4n5gjcp/B1228019_.pdf?rlkey=g0xikvo5w9levcc44205au3v4&dl=0)        | |
+|5   |影評情緒智析平台               |[pdf](https://www.dropbox.com/scl/fi/9qi65l8mdd9pekj7vhn8q/B1228011_-_.pdf?rlkey=h9v9lnn2dewgzvln8rtad07ik&dl=0)                        |[pdf](https://www.dropbox.com/s/5htwuu0wzdj861j/B1228011_%E7%AC%AC%E4%BA%94%E7%B5%84%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf?dl=0)        |[folder](https://www.dropbox.com/scl/fo/a6ecgknguojhorivnwwel/ABQeLWXKwbdE-ganHY_ohMo?rlkey=786dajwixfcu297kbsvtl0p2h&dl=0) |
+|6   |DeepRacer                     |[pptx](https://www.dropbox.com/scl/fi/tg3yymiqy0lykddyl4gf4/B1228037_DeepRace.pptx?rlkey=eyqeuhri1w24m0btyqp3hooqd&dl=0) [pdf](https://www.dropbox.com/scl/fi/qqa8gkdjlwnlb7r36qjgz/B1228037_DeepRace.pdf?rlkey=r3ajwqm01fqijgao9g7qep8vo&dl=0)                        |[pdf](https://www.dropbox.com/s/1um6nqqyo9d2z2m/B1228005_Deep%20racer%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%9C%9F%E6%9C%AB%E5%8F%A3%E9%A0%AD%E5%A0%B1%E5%91%8A.pdf?dl=0)        ||
+|7   |MNIST                         |[Canva](https://www.canva.com/design/DAGYtUCl-IQ/en00s6_wfpD7axRmgOGoCQ/edit?utm_content=DAGYtUCl-IQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                        |[docx](https://www.dropbox.com/scl/fi/fkdg2ew091w0azvykw58t/.docx?rlkey=5eqpu6acl6ualgthdugzwebb1&dl=0)        |[folder](https://www.dropbox.com/scl/fo/4d5zxr6ndr1olfplewij9/AFj2wgLCdgl-g-JwBU4mvRE?rlkey=9antw59zueb6b5vf96icbx2zg&dl=0)|
+|8   |Kaggle房價預測比賽             |[Canva](https://www.canva.com/design/DAGZSLR7HuQ/vs7pv6ggF_DR2KIvbyFAgA/edit)                        |[docx](https://www.dropbox.com/scl/fi/i4tpl1p24qevcdr0its4a/B1228002_.docx?rlkey=ycbcw2gmc7x8kdebx63ulz1nt&dl=0)        | |
 
 <br/>
 
