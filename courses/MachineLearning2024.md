@@ -8,7 +8,7 @@ title: "機器學習 2024"
 本門課程的內容是教授機器學習的概念給AI系的學生。本門課之教學目標為培養學生機器學習的基礎知識，使學生具備處理實際問題。課程進行為方式為上課講授與專題實作，期中會有一次期中考試以督促學生內化學習到的知識，期末以專題的方式，給予學生實際動手作，解決具體問題的機會，並將成果報告出來，供其他同學學習參考。由於坊間及網路上教導機器學習的書籍與影片很多，修課同學可以自由參考彈性學習，有疑惑由老師和助教幫忙解答。
 
 #### 修課需求
-需要有撰寫程式的能力與經驗：Python為必需，C++為選用，因為主流使用於機器學習語言為Python，但工業界在追求最快執行速度時會選用C++。修課者需要有必要的數學基礎，包括線性代數、數理統計、機率。
+需要有撰寫程式的能力與經驗：Python為必需，C++為選用，因為主流使用於機器學習語言為Python，但工業界在追求最快執行速度時會選用C++。修課者需要有必要的數學基礎，包括線性代數、微積分、數理統計、機率。
 
 #### 時間與地點
 每週二下午1:10至4:00 地點：B0201R 管理大樓201教室<br/>
@@ -55,21 +55,23 @@ title: "機器學習 2024"
 
 |組別|題目                          |投影片                  |書面報告 | 程式碼 |
 |---|---|---|---|---|
-|1   |極限配速預測與訓練計劃生成      |[Canva](https://www.canva.com/design/DAGZQCiKPpM/WtBsZjtq25Q0XsubRYQ-jw/view?utm_content=DAGZQCiKPpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1dd72498f)                        |[pdf](https://www.dropbox.com/scl/fi/4zyr54xtnl6kmkbd7nxi2/B1228016_.pdf?rlkey=wg5h9swy7y26wkn6y0xp7b1uk&dl=0)        | |
+|1   |極限配速預測與訓練計劃生成      |[Canva](https://www.canva.com/design/DAGZQCiKPpM/WtBsZjtq25Q0XsubRYQ-jw/view?utm_content=DAGZQCiKPpM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1dd72498f)                        |[pdf](https://www.dropbox.com/scl/fi/mz17rqb5c4xnyv5z9uwct/B1228016_.pdf?rlkey=qzhzoyyqzjlpt72hwsg97l6u4&dl=0)        | |
 |2   |厄瓜多爾 Favorita 商店銷售預測 |[pdf](https://www.dropbox.com/scl/fi/f2gi8vxpm6y6aid6xac4n/B1228032_-_.pdf?rlkey=9s2ttcnpc612s2f89j0999xg1&dl=0)                        |[pdf](https://www.dropbox.com/s/zuh8kga8ok74cff/B1228032_%E8%A3%9C%E7%B9%B3_%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.docx.pdf?dl=0)        | |
 |3   |MLB大聯盟冠軍預測              |[pptx](https://www.dropbox.com/scl/fi/1os95lx5ln1kkgq9z646k/B1228026_.pptx?rlkey=ffj16qmoxvz7364s442w01jsk&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/46u5ofcda5drgrtrlauo6/B1228026_-2.pdf?rlkey=pbepquignm13irnhloxyjh5q3&dl=0)        | |
 |4   |鐵達尼號⽣存預測               |[pdf](https://www.dropbox.com/scl/fi/8qbab3k7a2urid86hpnx9/B1228034_.pdf?rlkey=ln76mz9pfemd404nd65nrj8i3&dl=0)                        |[pdf](https://www.dropbox.com/scl/fi/e1frbn8oh8a8ug4n5gjcp/B1228019_.pdf?rlkey=g0xikvo5w9levcc44205au3v4&dl=0)        | |
 |5   |影評情緒智析平台               |[pdf](https://www.dropbox.com/scl/fi/9qi65l8mdd9pekj7vhn8q/B1228011_-_.pdf?rlkey=h9v9lnn2dewgzvln8rtad07ik&dl=0)                        |[pdf](https://www.dropbox.com/s/5htwuu0wzdj861j/B1228011_%E7%AC%AC%E4%BA%94%E7%B5%84%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf?dl=0)        |[folder](https://www.dropbox.com/scl/fo/a6ecgknguojhorivnwwel/ABQeLWXKwbdE-ganHY_ohMo?rlkey=786dajwixfcu297kbsvtl0p2h&dl=0) |
 |6   |DeepRacer                     |[pptx](https://www.dropbox.com/scl/fi/tg3yymiqy0lykddyl4gf4/B1228037_DeepRace.pptx?rlkey=eyqeuhri1w24m0btyqp3hooqd&dl=0) [pdf](https://www.dropbox.com/scl/fi/qqa8gkdjlwnlb7r36qjgz/B1228037_DeepRace.pdf?rlkey=r3ajwqm01fqijgao9g7qep8vo&dl=0)                        |[pdf](https://www.dropbox.com/s/1um6nqqyo9d2z2m/B1228005_Deep%20racer%20%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E6%9C%9F%E6%9C%AB%E5%8F%A3%E9%A0%AD%E5%A0%B1%E5%91%8A.pdf?dl=0)        ||
 |7   |MNIST                         |[Canva](https://www.canva.com/design/DAGYtUCl-IQ/en00s6_wfpD7axRmgOGoCQ/edit?utm_content=DAGYtUCl-IQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                        |[docx](https://www.dropbox.com/scl/fi/fkdg2ew091w0azvykw58t/.docx?rlkey=5eqpu6acl6ualgthdugzwebb1&dl=0)        |[folder](https://www.dropbox.com/scl/fo/4d5zxr6ndr1olfplewij9/AFj2wgLCdgl-g-JwBU4mvRE?rlkey=9antw59zueb6b5vf96icbx2zg&dl=0)|
-|8   |Kaggle房價預測比賽             |[Canva](https://www.canva.com/design/DAGZSLR7HuQ/vs7pv6ggF_DR2KIvbyFAgA/edit)                        |[docx](https://www.dropbox.com/scl/fi/i4tpl1p24qevcdr0its4a/B1228002_.docx?rlkey=ycbcw2gmc7x8kdebx63ulz1nt&dl=0)        | |
+|8   |Kaggle房價預測競賽             |[Canva](https://www.canva.com/design/DAGZSLR7HuQ/vs7pv6ggF_DR2KIvbyFAgA/edit)                        |[docx](https://www.dropbox.com/scl/fi/i4tpl1p24qevcdr0its4a/B1228002_.docx?rlkey=ycbcw2gmc7x8kdebx63ulz1nt&dl=0)        | |
 
 <br/>
+期末專題書面報告評分解釋 [docx](https://www.dropbox.com/scl/fi/ar12bvpru3cxw1qx57a4w/.docx?rlkey=idvoptkxglza0s7j5zp6tobqt&dl=0)
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
-作者官網提供正版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。但2006版的錯別字和錯寫的方程式非常多，請參考作者提供的勘誤表校正[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf)<br/>
-校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。
+作者官網提供正版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。但2006版的錯別字和錯寫的方程式非常多，請參考作者提供的勘誤表校正[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf)。<br/>
+校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。<br/>
+另外，這本書有簡體中文版，2013年由UC Berkeley的教授譯成，在中國大陸發行，並且將2006年初版的錯誤都校正掉了，對於讀得懂中文的我們，是一個很便利的吸收來源。
 
 #### 參考書籍
 - Python機器學習 Sebastian Raschka著 劉立民、吳建華譯 (繁中出版年：2016) <br/>
