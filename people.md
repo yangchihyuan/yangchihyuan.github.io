@@ -11,6 +11,7 @@ title: "People"
 |Chih-Yuan Yang|
 |楊智淵|
 
+<p>
 #### <center>Master's Students</center>
 
 | ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|
@@ -19,10 +20,11 @@ title: "People"
 |劉冠亨|蔡承原|盧睿霆|
 |[Personal Page](http://yangchihyuan.github.io/assets/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/assets/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/assets/people/Eric_Lu)|
 
+<p>
 #### <center>Capstone Students</center>
 
-| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|
+| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Eric Chen]()|
 |:---:|:---:|
 |Brian Liu|Eric Chen|
 |吳奕廷|陳毅|
-|[Personal Page](http://yangchihyuan.github.io/assets/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/assets/people/Wayne_Tsai)|
+|[Personal Page](http://yangchihyuan.github.io/assets/people/Matt_Wu)|[Personal Page]()|
