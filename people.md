@@ -19,7 +19,7 @@ title: "People"
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
-|[Personal Page](http://yangchihyuan.github.io/assets/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/assets/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/assets/people/Eric_Lu)|
+|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Lu)|
 
 <p></p>
 
@@ -29,4 +29,4 @@ title: "People"
 |:---:|:---:|
 |Brian Liu|Eric Chen|
 |吳奕廷|陳毅|
-|[Personal Page](http://yangchihyuan.github.io/assets/people/Matt_Wu)|[Personal Page]()|
+|[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page]()|
