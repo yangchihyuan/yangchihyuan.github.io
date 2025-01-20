@@ -11,7 +11,7 @@ title: "People"
 |Chih-Yuan Yang|
 |楊智淵|
 
-<p>
+<p></p>
 
 #### <center>Master's Students</center>
 
@@ -21,7 +21,7 @@ title: "People"
 |劉冠亨|蔡承原|盧睿霆|
 |[Personal Page](http://yangchihyuan.github.io/assets/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/assets/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/assets/people/Eric_Lu)|
 
-<p>
+<p></p>
 
 #### <center>Capstone Students</center>
 
