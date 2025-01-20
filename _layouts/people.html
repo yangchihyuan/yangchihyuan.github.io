@@ -2,8 +2,10 @@
 layout: default
 ---
 <style>
-  table td th{
-    text-align: center;
+  table td{
+    border: none !important;
+  }
+  table th{
     border: none !important;
   }
   img{
@@ -11,21 +13,8 @@ layout: default
   }
 </style>
 
-{{ content }}
-
 <h3 class="fw-bold border-bottom pb-3 mb-5">People</h3>
-<h4> Professor </h4>
-<table border= "0">
-  <tr>
-    <td align="center"><img src="{{ site.github.url }}/assets/img/cyyang20241018.jpg" alt="Chih-Yuan Yang" height="100"></td>
-  </tr>
-  <tr>
-    <td align="center">Chih-Yuan Yang</td>
-  </tr>
-  <tr>
-    <td align="center">楊智淵</td>
-  </tr>
-</table>
+{{ content }}
 
 <h4> Master's students </h4>
 <table border= "0">
