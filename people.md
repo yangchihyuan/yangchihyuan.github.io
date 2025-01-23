@@ -25,7 +25,7 @@ title: "People"
 
 #### <center>Capstone Students</center>
 
-| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Eric Chen]()|
+| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Eric Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|
 |:---:|:---:|
 |Brian Liu|Eric Chen|
 |吳奕廷|陳毅|
