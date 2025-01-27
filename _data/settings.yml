@@ -20,6 +20,7 @@ people:
 - {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: '', description: 'AI program student', url: 'Eric_Chen'}
 
 courses:
+- {name: '生成式AI：文字與圖像生成的原理與實務 (Generative AI: Text and Image Synthesis Principles and Practice) 2025', url: 'GenerativeAI2025'}
 - {name: 'Survey of Intelligent Technologies 2024', url: 'SurveyOfIntelligentTechnologies2024'}
 - {name: 'Computer Vision 2024', url: 'cv2024'}
 - {name: '機器學習 (Machine Learning) 2024', url: 'MachineLearning2024'}
