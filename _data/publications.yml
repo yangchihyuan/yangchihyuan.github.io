@@ -1,4 +1,5 @@
 featured:
+- {name: 'Development and Validation of a Novel AI-Derived Index for Predicting COPD Medical Costs in Clinical Practice (Guan-Heng Liu, Chin-Ling Li, Chih-Yuan Yang, Shih-Feng Liu), Computational and Structural Biotechnology Journal 20250201 Vol.27.', paper_url: '/publications/Development-and-validation-of-a-novel-AI-derived-i.pdf', image: '/publications/CSBJ20250201.jpg'}
 - {name: 'SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders (Sheng-Wei Li, Zi-Xiang Wei, Wei-Jie Chen, Yi-Hsin Yu, Chih-Yuan
 Yang, and Jane Yung-jen Hsu), ECCV24', paper_url: '/publications/ECCV_2024_SA_DVAE.pdf', supp_url: '/publications/ECCV_2024_SA_DVAE_supp.pdf', image: '/publications/ECCV_2024_SA_DVAE.jpg'}
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21', url: '/publications/AAAI21.pdf', image: '/publications/AAAI21.jpg'}
@@ -14,6 +15,7 @@ Yang, and Jane Yung-jen Hsu), ECCV24', paper_url: '/publications/ECCV_2024_SA_DV
 - {name: 'Exploiting Self-Similarities for Single Frame Super-Resolution (Chih-Yuan Yang, Jia-Bing Huang, and Ming-Hsuan Yang), ACCV10.', url: '/publications/10ACCV.pdf'}
 
 index:
+- {name: 'Development and Validation of a Novel AI-Derived Index for Predicting COPD Medical Costs in Clinical Practice (Guan-Heng Liu, Chin-Ling Li, Chih-Yuan Yang, Shih-Feng Liu), Computational and Structural Biotechnology Journal 20250201 Vol.27.', paper_url: '/publications/Development-and-validation-of-a-novel-AI-derived-i.pdf', image: '/publications/CSBJ20250201.jpg'}
 - {name: 'SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders (Sheng-Wei Li, Zi-Xiang Wei, Wei-Jie Chen, Yi-Hsin Yu, Chih-Yuan Yang, and Jane Yung-jen Hsu), ECCV24.', paper_url: '/publications/ECCV_2024_SA_DVAE.pdf', supp_url: '/publications/ECCV_2024_SA_DVAE_supp.pdf', code: 'https://github.com/pha123661/SA-DVAE', image: '/publications/ECCV_2024_SA_DVAE.jpg'}
 - {name: 'Object Relation Attention for Image Paragraph Captioning (Li-Chuan Yang, Chih-Yuan Yang, and Jane Yung-jen Hsu), AAAI21.', paper_url: '/publications/AAAI21.pdf', image: '/publications/AAAI21.jpg'}
 - {name: 'CalliGAN: Style and Structure-aware Chinese Calligraphy Character Generator (Shan-Jean Wu, Chih-Yuan Yang, and Jane Yung-jen Hsu), CVPRW20.', paper_url: '/publications/CVPRW20.pdf', image: '/publications/CVPRW20.jpg'}
