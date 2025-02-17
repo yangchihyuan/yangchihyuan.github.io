@@ -20,7 +20,9 @@ title: "生成式AI：文字與圖像生成的原理與實務 2025"
 4. 完成期末專題，整合所學內容，設計並展示一個實用的生成式 AI 系統。
 
 #### 時間與地點
-每週二下午 16:00-19:00 地點：電腦教室3(管理大樓303室)<br/>
+每週二下午 16:10-19:00 地點：電腦教室3(管理大樓303室)<br/>
+網路直播URL [Facebook: 政大應數系直播中心](https://www.facebook.com/groups/nccumathonline)
+YouTube 課程存放點: [Iveai - I've AI 炎龍老師的 YouTube 直播頻道](https://www.youtube.com/@ive-iveai)
 
 #### 助教與答問時間
 待公佈<br/>
@@ -30,6 +32,8 @@ title: "生成式AI：文字與圖像生成的原理與實務 2025"
 週二上午 10:30~11:30 管理大樓14樓 1416室<br/>
 
 #### 課程大綱
+
+[2024年的投影片PDF檔，第1,2,3,4,5,6,8,10,11,13週的內容，共10份](https://drive.google.com/drive/folders/1A3A-x5sqNbDW0HCAfcO_q-XhyDLGmtK4)
 
 |週次|日期  |課程內容                       |備註     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
