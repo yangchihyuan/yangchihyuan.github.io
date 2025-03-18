@@ -16,8 +16,8 @@ people:
 - {name: 'Wayne Tsai 蔡承原', title: "Master's student" , image: 'assets/img/Wayne_Tsai.jpg', description: 'Intereted in medical images', url: 'Wayne_Tsai'}
 - {name: 'Eric Lu 盧睿霆', title: "Master's student" , image: 'assets/img/Eric_Lu.png', description: 'Intereted in facial expression recognition', url: 'Eric_Lu'}
 #capstone_student:
-- {name: 'Matt Wu 吳奕廷', title: 'Capstone student' , image: 'assets/img/Matt_Wu.png', description: 'AI program student', url: 'Matt_Wu'}
-- {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: '', description: 'AI program student', url: 'Eric_Chen'}
+- {name: 'Matt Wu 吳奕廷', title: 'Capstone student' , image: 'assets/img/Matt_Wu.png', description: 'Project of Zenbo Nurse Helper', url: 'Matt_Wu'}
+- {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: 'assets/img/Eric_Chen.jpg', description: 'Project of Zenbo Nurse Helper', url: 'Eric_Chen'}
 
 courses:
 - {name: '生成式AI：文字與圖像生成的原理與實務 (Generative AI: Text and Image Synthesis Principles and Practice) 2025', url: 'GenerativeAI2025'}
