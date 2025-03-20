@@ -3,12 +3,15 @@ layout: home
 title: "Home"
 ---
 
-
-![Summer Intern Opportunities](https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg)
-We have 3 intern slots for international studnets. The wage is 20K NTD per month for 2 months, and their tasks are to develop the features of my Zenbo Nurse Helper project, including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
-Goal: 
-
-
+<img src="https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg" height="250" alt="Summer Internship">
+We have 3 intern slots for international studnets in the 2025 summer. The wage is 20K NTD per month for 2 months, and their tasks are to , including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
+- Goal: Develop the features of our Robot Nurse Helper project.
+- Skill: C++ on Ubuntu ,Java on Android, Python to train models.
+- Knowledge: You will learn experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
+- Mentoring: I will mentor you.
+- Practice: For most time, you will stay in our lab on the CGU campus. If necessary, we will test our robots at Chang-Gung Memorial Hospital Lingko branch.
+- Opportunity: You can visit Taiwan in holidays, be familar with CGU if you want to apply for an AI Master's program.
+- Training: You will learn from developing features and solving problems.
 
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
