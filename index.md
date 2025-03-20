@@ -5,6 +5,11 @@ title: "Home"
 
 #### Companion-robot helper for nurses in a pediatric ICU
 
+![Summer Intern Opportunities]
+We have 3 intern slots for international studnets. The wage is 20K NTD per month for 2 months, and their tasks are to develop the features of my Zenbo Nurse Helper project, including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
+
+
+
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
 
 This is a project for developing a companion robot to help nurses in a pediatric intensive care unit (PICU). There is a shortage of nurses in Taiwan, due to several factors such as low salaries, unsatisfying working environment, and the reduction of young working labors in the population structure caused by sub-replacement fertility. In a PICU, children have to be separated from their parents for most time due to the sanity issue. In contrast, a companion robot can be totally sanitized and stay in the PICU. In practice, a PICU nurse usually needs to take care of multiple wards to make the operation economic. When a nurse is busy for one ward, she/he needs a helper to look after other wards. Currently such a duty is delegated to a nurse colleague, so there are multiple nurses on duty in a PICU.
