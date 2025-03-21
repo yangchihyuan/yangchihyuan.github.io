@@ -4,14 +4,16 @@ title: "Home"
 ---
 
 <img src="https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg" height="250" alt="Summer Internship">
-We have 3 intern slots for international studnets in the 2025 summer. The wage is 20K NTD per month for 2 months, and their tasks are to , including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
-- Goal: Develop the features of our Robot Nurse Helper project.
-- Skill: C++ on Ubuntu ,Java on Android, Python to train models.
-- Knowledge: You will learn experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
+
+We have 3 summer intern slots for international studnets in the year 2025. The wage is 20K NTD per month for 2 months to participate in the Companion-robot Nurse Helper project. We aim to develop features including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
+- Goal: Develop the features of our Companion-robot Nurse Helper project.
+- Required skill: C++ on Ubuntu, Java on Android, or Python to train models.
+- Required Knowledge: Programming on the Ubuntu or Android system, Azure Open AI APIs, Computer Vision, Voice Recogintion, or LLM.
 - Mentoring: I will mentor you.
-- Practice: For most time, you will stay in our lab on the CGU campus. If necessary, we will test our robots at Chang-Gung Memorial Hospital Lingko branch.
-- Opportunity: You can visit Taiwan in holidays, be familar with CGU if you want to apply for an AI Master's program.
-- Training: You will learn from developing features and solving problems.
+- Practice: For most time, you will stay in our lab on the CGU campus. In some cases, we will go to the Chang-Gung Memorial Hospital Lingko branch to test our robots in practice.
+- Opportunity: You can tour Taiwan in holidays, be familar with CGU if you are interested in taking an AI Master's program at CGU.
+- Training: You will learn experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
+- Accomendation: 
 
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
