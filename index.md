@@ -15,6 +15,8 @@ We have 3 summer intern slots for international students in the year 2025. The w
 - Training: You will learn experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
 - Accommodation: There are plenty of dorms available during summer vacation. The price is 520 NTD per week, very affordable.
 
+<h3 class="fw-bold">Current Projects</h3>
+
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
 
