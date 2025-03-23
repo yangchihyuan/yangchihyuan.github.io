@@ -5,20 +5,20 @@ title: "Home"
 
 <img src="https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg" height="250" alt="Summer Internship">
 
-We have 3 summer intern slots for international studnets in the year 2025. The wage is 20K NTD per month for 2 months to participate in the Companion-robot Nurse Helper project. We aim to develop features including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
+We have 3 summer intern slots for international students in the year 2025. The wage is 20K NTD per month for 2 months to participate in the Companion-robot Nurse Helper project. We aim to develop features including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
 - Goal: Develop the features of our Companion-robot Nurse Helper project.
 - Required skill: C++ on Ubuntu, Java on Android, or Python to train models.
-- Required Knowledge: Programming on the Ubuntu or Android system, Azure Open AI APIs, Computer Vision, Voice Recogintion, or LLM.
+- Required Knowledge: Programming on the Ubuntu or Android system, Azure Open AI APIs, Computer Vision, Voice Recognition, or LLM.
 - Mentoring: I will mentor you.
 - Practice: For most time, you will stay in our lab on the CGU campus. In some cases, we will go to the Chang-Gung Memorial Hospital Lingko branch to test our robots in practice.
-- Opportunity: You can tour Taiwan in holidays, be familar with CGU if you are interested in taking an AI Master's program at CGU.
+- Opportunity: You can tour Taiwan in holidays, be familiar with CGU if you are interested in taking an AI Master's program at CGU.
 - Training: You will learn experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
-- Accomendation: 
+- Accommodation: There are plenty of dorms available during summer vacation. The price is 520 NTD per week, very affordable.
 
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
 
-This is a project for developing a companion robot to help nurses in a pediatric intensive care unit (PICU). There is a shortage of nurses in Taiwan, due to several factors such as low salaries, unsatisfying working environment, and the reduction of young working labors in the population structure caused by sub-replacement fertility. In a PICU, children have to be separated from their parents for most time due to the sanity issue. In contrast, a companion robot can be totally sanitized and stay in the PICU. In practice, a PICU nurse usually needs to take care of multiple wards to make the operation economic. When a nurse is busy for one ward, she/he needs a helper to look after other wards. Currently such a duty is delegated to a nurse colleague, so there are multiple nurses on duty in a PICU.
+This is a project for developing a companion robot to help nurses in a pediatric ward. There is a shortage of nurses in Taiwan, due to the change of population structure caused by sub-replacement fertility. Our goal is to enable a social to take some nurse tasks to reduce the working load of human nurses. Our first task is to monitor pediatric patients' emotion and their levels of painfulness.
 Introduction slides [(Link)](https://www.dropbox.com/scl/fi/zmytc7e8zdvyo8svnumpc/Zenbo-Nurse-Helper.pptx?rlkey=yfq7dhkctzgfsa6h7bca49oe5&dl=0)
 Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/ZenboNurseHelper).
 
