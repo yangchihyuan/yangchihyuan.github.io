@@ -5,7 +5,7 @@ title: "Home"
 
 <img src="https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg" height="250" alt="Summer Internship">
 
-We have 3 summer intern slots for international students in the year 2025. The wage is 20K NTD per month for 2 months to participate in the Companion-robot Nurse Helper project. We aim to develop features including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
+We have 3 summer intern slots for international students in the year 2025. The wage is 15K NTD per month for 2 months to participate in the Companion-robot Nurse Helper project. We aim to develop features including occlusion-aware facial feature recognition, voice recognition, LLM-based dialog sentence generation. Please contact me if you are interested.
 - Goal: Develop the features of our Companion-robot Nurse Helper project.
 - Required skill: C++ on Ubuntu, Java on Android, or Python to train models.
 - Required Knowledge: Programming on the Ubuntu or Android system, Azure Open AI APIs, Computer Vision, Voice Recognition, or LLM.
