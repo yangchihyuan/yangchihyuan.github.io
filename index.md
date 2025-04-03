@@ -7,7 +7,7 @@ title: "Home"
 
 We have 3 summer intern slots for international students in the year 2025. The wage is 15K NTD monthly for 2 months to participate in the Companion-robot Nurse Helper project. The grant comes from Taiwan Ministry of Education's TEEP program (Taiwan Explore Education Program) and only supports international students who have not studied in Taiwan.
 We are unable to hire those applicants:
--The applicant is studying in Taiwan now.
+- The applicant is studying in Taiwan now.
 - The applicant is not a student.
 - The applicant is a Taiwanese.
 
