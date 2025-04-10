@@ -3,24 +3,6 @@ layout: home
 title: "Home"
 ---
 
-<img src="https://www.makeintern.com/admin/uploaded_images/blog/images/summer-internship.jpg" height="250" alt="Summer Internship">
-
-We have 3 summer intern slots for international students in the year 2025. The wage is 15K NTD monthly for 2 months to participate in the Companion-robot Nurse Helper project. The grant comes from Taiwan Ministry of Education's TEEP program (Taiwan Explore Education Program) and only supports international students who have not studied in Taiwan.
-We are unable to hire those applicants:
-- The applicant is studying in Taiwan now.
-- The applicant is not a student.
-- The applicant is a Taiwanese.
-
-We aim to develop features including occlusion-aware facial feature recognition, voice recognition, and LLM-based dialog sentence generation. Please contact me if you are interested.
-- Goal: Develop the features of our Companion-robot Nurse Helper project.
-- Required skill: C++ on Ubuntu, Java on Android, or Python to train models.
-- Required Knowledge: Programming on the Ubuntu or Android system, Azure Open AI APIs, Computer Vision, Voice Recognition, or LLM.
-- Mentoring: I will mentor you.
-- Practice: Most of the time, you will stay in our lab on the CGU campus. Sometimes, we will go to the Chang-Gung Memorial Hospital Lingko branch to test our robots in practice.
-- Opportunity: You can tour Taiwan on weekends, and be familiar with CGU if you want to take an AI Master's program at CGU.
-- Training: You will learn the experience of using robots such as Zenbo, Zenbo Junior II, Kebbi Air-S, and Alice.
-- Accommodation: There are plenty of dorms available during summer vacation. The price is 520 NTD per week, very affordable.
-
 <h3 class="fw-bold">Current Projects</h3>
 
 #### Companion-robot helper for nurses in a pediatric ward
