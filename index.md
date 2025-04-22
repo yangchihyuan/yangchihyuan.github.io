@@ -7,7 +7,7 @@ title: "Home"
 
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
-![Components](http://yangchihyuan.github.io/assets/RobotNurseHelperComponents.jpg)
+![Components](http://yangchihyuan.github.io/assets/img/RobotNurseHelperComponents.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLJKk88el-U?si=Fk2D7acL8COeuUGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
