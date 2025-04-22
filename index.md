@@ -8,6 +8,8 @@ title: "Home"
 #### Companion-robot helper for nurses in a pediatric ward
 ![PICU Scenario](http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gLJKk88el-U?si=Fk2D7acL8COeuUGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is a project for developing a companion robot to help nurses in a pediatric ward. There is a shortage of nurses in Taiwan, due to the change of population structure caused by sub-replacement fertility. Our goal is to enable a social to take some nurse tasks to reduce the working load of human nurses. Our first task is to monitor pediatric patients' emotion and their levels of painfulness.
 Introduction slides [(Link)](https://www.dropbox.com/scl/fi/zmytc7e8zdvyo8svnumpc/Zenbo-Nurse-Helper.pptx?rlkey=yfq7dhkctzgfsa6h7bca49oe5&dl=0)
 Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/ZenboNurseHelper).
