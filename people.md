@@ -36,6 +36,6 @@ If you apply for the 2nd round admission (Late-February to Late-April), the only
 
 |![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Li-An Luo|Peter Chen|Hao-Cheng Yang|
+|Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Ian Luo|Peter Chen|Hao-Cheng Yang|
 |張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
 [Personal Page](http://yangchihyuan.github.io/people/Justin_Chang)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Peng)|[Personal Page](http://yangchihyuan.github.io/people/Yi-Cheng_Fang)|[Personal Page](http://yangchihyuan.github.io/people/Le-Chi_Hu)|[Personal Page](http://yangchihyuan.github.io/people/Eathen_Weng)|[Personal Page](http://yangchihyuan.github.io/people/Ian_Luo)|[Personal Page](http://yangchihyuan.github.io/people/Peter_Chen)|[Personal Page](http://yangchihyuan.github.io/people/Hao-Cheng_Yang)|
