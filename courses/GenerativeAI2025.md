@@ -25,7 +25,8 @@ title: "生成式AI：文字與圖像生成的原理與實務 2025"
 YouTube 課程存放點: [Iveai - I've AI 炎龍老師的 YouTube 直播頻道](https://www.youtube.com/@ive-iveai)
 
 #### 助教與答問時間
-待公佈<br/>
+劉冠亨 m1261003@cgu.edu.tw <br/>
+盧睿霆 m1361008@cgu.edu.tw <br/>
 
 #### 協同教師與答問時間
 楊智淵 cyyang@cgu.edu.tw <br/>
@@ -33,38 +34,30 @@ YouTube 課程存放點: [Iveai - I've AI 炎龍老師的 YouTube 直播頻道](
 
 #### 課程大綱
 
-[2024年的投影片PDF檔，第1,2,3,4,5,6,8,10,11,13週的內容，共10份](https://drive.google.com/drive/folders/1A3A-x5sqNbDW0HCAfcO_q-XhyDLGmtK4)
-
-|週次|日期  |課程內容                       |備註     |錄影         | 預定事項 |
-|--- |---   |---                        |---         |---         |---       |
-|1	 |2/18	|課程介紹與生成式 AI 概述	  |課程目標與內容簡介，為什麼要研究生成式 AI，介紹 Colab 平台的基礎操作 |||
-|2	 |2/25	|神經網路的概念	             |簡介神經網路的核心概念（感知器、多層感知器）、激發函數與反向傳播，實作一個簡單的 MNIST 手寫數字分類|||
-|3	 |3/4	|生成對抗網路 (GAN)	         |介紹曾經被當作生成式 AI 希望的生成對抗網路（GAN），包括 GAN 的生成原理、著名的應用範例，及為什麼暫時不再是主流的原因|||
-|4	 |3/11	|文字生成 AI 與大型語言模型	  |文字生成 AI 的基本概念，包括 RNN 及 transformers 有「記憶」的神經網路簡介，及 seq2seq 模型、詞嵌入等等原理|||
-|5	 |3/18	|RNN 及 transformers 的數學原理	|RNN 及 transformers 的數學基礎與架構，複習基本矩陣運算、瞭解注意力模式的原理|||
-|6	 |3/25	|大型語言模型（LLM）的應用及倫理議題的挑戰	|著名的大型語言模型 (LLM)，常見應用，及倫理議題的討論|||
-|7	 |4/1	|打造自己的對話機器人	|使用 OpenAI API，用程式的方式打造自己的對話機器人|||
-|8	 |4/8	|檢索增強生成（RAG）的原理及實作	|RAG 的概念、資料檢索與生成的結合方法，實作基於 LangChain 的 RAG 系統|||
-|9	 |4/15	|專家講座	|業界專家分享 RAG 在金融上的應用與挑戰|||
-|10	 |4/22	|Agentic AI 與 AI Agents	|什麼是 AI Agents？設計目標導向的 Agent，介紹 AutoGen 框架並展示應用案例|||
-|11	 |4/29	|變分自編碼器（VAE）開始的冒險旅程	|解釋 VAE 的原理，及為什麼這相對簡單的模型，會成為圖像生成 AI 的重要想法|||
-|12	 |5/6	|Diffusion Models 與圖像生成	|介紹 Diffusion Models 的原理，包括加噪過程、U-Net 架構的減噪等概念|||
-|13	 |5/13	|文字生圖 AI 的原理及實作	|介紹「理解」使用者輸入文字的 CLIP 模型，著名的圖像生成 AI 模型及運用方式|||
-|14	 |5/20	|Diffusion Models 進階主題	|Latten Diffusion Models, LoRA, ControlNet 等概念|||
-|15	 |5/27	|Fooocus 實作圖像生成	|介紹開源 WebUI 框架 Fooocus，使用 Stable Diffusion 等開源模型做圖形創作|||
-|16	 |6/3	|研討會型式的期末專題成果分享||||
+|週次|日期  |課程內容                        |錄影         | 預定事項 |
+|--- |---   |---                            |---         |---       |
+|1	 |2/18	|課程介紹與生成式 AI 概述	 | [YouTube](https://www.youtube.com/watch?v=4BRBxy0EMT8&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=2&ab_channel=Iveai-I%27veAI) ||
+|2	 |2/25	|神經網路的概念	             |[YouTube](https://www.youtube.com/watch?v=s1QqujRMEUk&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=3&ab_channel=Iveai-I%27veAI)||
+|3	 |3/4	|紅極一時的生成對抗網路 GAN	 |[YouTube](https://www.youtube.com/watch?v=akt4A3OJ9h4&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=4)||
+|4	 |3/11	|大型語言模型原來這麼簡單	 |[YouTube](https://www.youtube.com/watch?v=LcSTLXCJrzA&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=5&ab_channel=Iveai-I%27veAI)||
+|5	 |3/18	|Transformers 全攻略	   |[YouTube](https://www.youtube.com/watch?v=mhjegVhqb_M&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=6&ab_channel=Iveai-I%27veAI)  ||
+|6	 |3/25	|大型語言模型（LLM）的應用及倫理議題的挑戰	|[YouTube](https://www.youtube.com/watch?v=m6DFB60Tk68&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=7&ab_channel=Iveai-I%27veAI)||
+|7	 |4/1	|打造自己的對話機器人	|[YouTube](https://www.youtube.com/watch?v=LOo0VKhjoRc&ab_channel=Iveai-I%27veAI)||
+|8	 |4/8	|檢索增強生成（RAG）的原理及實作	|[YouTube](https://www.youtube.com/watch?v=JClJEmZub-A&ab_channel=Iveai-I%27veAI)||
+|9	 |4/15	|為什麼大家說2025年是AI Agents元年	|[YouTube](https://www.youtube.com/watch?v=49fwh6oc5Nc&ab_channel=Iveai-I%27veAI)||
+|10	 |4/22	|變分自編碼器（VAE）開始的冒險旅程|[YouTube](https://www.youtube.com/watch?v=j4-k7Ug4bYk&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=9&ab_channel=Iveai-I%27veAI)||
+|11	 |4/29	|文字生圖 AI 的原理及實作	|[YouTube](https://www.youtube.com/watch?v=8VS6Dcxmp34&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=10&ab_channel=Iveai-I%27veAI)||
+|12	 |5/6	|Diffusion Models 與圖像生成	|||
+|13	 |5/13	|	||
+|14	 |5/20	|Diffusion Models 進階主題	|||
+|15	 |5/27	|Fooocus 實作圖像生成	|||
+|16	 |6/3	|研討會型式的期末專題成果分享|||
 
 
 #### 期末專題
 
-|組別|題目                          |投影片                  |書面報告 | 程式碼 |
-|---|---|---|---|---|
-||||||
-
-<br/>
-
 #### 教科書
-使用上課講義<br/>
+沒有教科書，只有蔡炎龍老師的錄影<br/>
 
 #### 參考書籍
 在投影片裏會提及 <br/>
