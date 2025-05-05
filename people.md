@@ -2,8 +2,8 @@
 layout: people
 title: "People"
 ---
-For international students who want to apply for our AI Master's program and co-work with me, please take a look of this [CGU scholarship brochure](http://yangchihyuan.github.io/assets/CGU_Scholarships_info.pdf). If you want to get the fully-sponsored-by-CGU scholarship, you have to apply for the 1st round admission (Mid-December to Early-February) because there are only 3 slots for the fully-sponsored-by-CGU scholarship and all of them will be taken by the 1st round applicants.
-If you apply for the 2nd round admission (Late-February to Late-April), the only type of scholarship you may get is the fully-sponsored-by-supervisor-and-CGU. However, the chance is low. Unless I just get a new multi-year research grant recently and your CV is convincingly good for doing research, I won't be able to afford your scholarship.
+For international students who want to apply for our AI Master's program and co-work with me, please take a look of this [CGU scholarship brochure](http://yangchihyuan.github.io/assets/CGU_Scholarships_info.pdf). If you want to get the fully-sponsored-by-CGU scholarship, you have to submit in the 1st application session (Mid-December to Early-February) because there are only 3 slots for the fully-sponsored-by-CGU scholarship and all of them will be taken by the 1st-session applicants.
+If you apply in the 2nd session (Late-February to Late-April), the only type of scholarship you may get is the fully-sponsored-by-supervisor-and-CGU. However, the chance is low. Unless I happen to get a new multi-year research grant recently and your CV is convincingly good for doing research, I won't be able to afford your scholarship.
 
 
 
