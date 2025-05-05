@@ -34,7 +34,7 @@ If you apply for the 2nd round admission (Late-February to Late-April), the only
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
-|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Li-An Luo](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|
+|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Li-An Luo](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Li-An Luo|Peter Chen|Hao-Cheng Yang|
 |張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
