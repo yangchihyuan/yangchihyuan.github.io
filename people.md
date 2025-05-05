@@ -30,7 +30,7 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 
 | ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Eric Chen](http://yangchihyuan.github.io/assets/img/Eric_Chen.jpg)|
 |:---:|:---:|
-|Brian Liu|Eric Chen|
+|Matt Wu|Eric Chen|
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
