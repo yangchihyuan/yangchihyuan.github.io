@@ -34,7 +34,7 @@ If you apply for the 2nd round admission (Late-February to Late-April), the only
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
-![張喬翔](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![彭冠維](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![方翊丞](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![胡樂麒](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![翁宇陽](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![羅立安](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![陳威誠](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![楊皓丞](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|
+|![張喬翔](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![彭冠維](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![方翊丞](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![胡樂麒](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![翁宇陽](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![羅立安](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![陳威誠](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![楊皓丞](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |||||||||
 |張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
