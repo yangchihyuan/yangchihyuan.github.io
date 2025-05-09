@@ -2,7 +2,7 @@
 layout: people
 title: "People"
 ---
-For international students who want to apply for our AI Master's program and co-work with me, please take a look of this [CGU scholarship brochure](http://yangchihyuan.github.io/assets/CGU_Scholarships_Info.pdf). If you want to get the fully-sponsored-by-CGU scholarship, you had better apply in the 1st application session (Mid-December to Early-February) because there are only 3 slots for the fully-sponsored-by-CGU scholarship and all of them will be taken by the 1st-session applicants.
+For international students who want to apply for our AI Master's program and co-work with me, please take a look of this [CGU Scholarship Info](http://yangchihyuan.github.io/assets/CGU_Scholarships_Info.pdf). If you want to get the fully-sponsored-by-CGU scholarship, you had better apply in the 1st application session (Mid-December to Early-February) because there are only 3 slots for the fully-sponsored-by-CGU scholarship and all of them will be taken by the 1st-session applicants.
 If you apply in the 2nd session (Late-February to Late-April), the only type of scholarship you may get is the fully-sponsored-by-supervisor-and-CGU. However, the chance is low. Unless I happen to get a new multi-year research grant recently and your CV is convincingly good for doing research, I won't be able to afford your scholarship.
 
 
@@ -34,7 +34,7 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
-|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
+|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Eric_Peng.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Ian Luo|Peter Chen|Hao-Cheng Yang|
 |張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
