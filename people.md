@@ -39,3 +39,11 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Ian Luo|Peter Chen|Hao-Cheng Yang|
 |張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
 [Personal Page](http://yangchihyuan.github.io/people/Justin_Chang)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Peng)|[Personal Page](http://yangchihyuan.github.io/people/Yi-Cheng_Fang)|[Personal Page](http://yangchihyuan.github.io/people/Le-Chi_Hu)|[Personal Page](http://yangchihyuan.github.io/people/Eathen_Weng)|[Personal Page](http://yangchihyuan.github.io/people/Ian_Luo)|[Personal Page](http://yangchihyuan.github.io/people/Peter_Chen)|[Personal Page](http://yangchihyuan.github.io/people/Hao-Cheng_Yang)|
+
+<p></p>
+
+#### <center>Visiting Students</center>
+| ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/woman-taking-notes-think-hand-600nw-2240037251.webp)|
+|:---:|:---:|
+|Mohamed Elsayed|Rachael Zehrung|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
