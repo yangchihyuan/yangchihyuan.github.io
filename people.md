@@ -34,11 +34,11 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
-|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Eric_Peng.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
+|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Eric_Peng.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Justin Chang|Eric Peng|Yi-Cheng Fang|Le-Chi Hu|Eathen Weng|Ian Luo|Peter Chen|Hao-Cheng Yang|
-|張喬翔|彭冠維|方翊丞|胡樂麒|翁宇陽|羅立安|陳威誠|楊皓丞|
-[Personal Page](http://yangchihyuan.github.io/people/Justin_Chang)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Peng)|[Personal Page](http://yangchihyuan.github.io/people/Yi-Cheng_Fang)|[Personal Page](http://yangchihyuan.github.io/people/Le-Chi_Hu)|[Personal Page](http://yangchihyuan.github.io/people/Eathen_Weng)|[Personal Page](http://yangchihyuan.github.io/people/Ian_Luo)|[Personal Page](http://yangchihyuan.github.io/people/Peter_Chen)|[Personal Page](http://yangchihyuan.github.io/people/Hao-Cheng_Yang)|
+|Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Yang|
+|張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|
+[Personal Page](http://yangchihyuan.github.io/people/Justin_Chang)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Peng)|[Personal Page](http://yangchihyuan.github.io/people/Eathen_Weng)|[Personal Page](http://yangchihyuan.github.io/people/Peter_Chen)|[Personal Page](http://yangchihyuan.github.io/people/Yi-Cheng_Fang)|[Personal Page](http://yangchihyuan.github.io/people/Le-Chi_Hu)|[Personal Page](http://yangchihyuan.github.io/people/Ian_Luo)|[Personal Page](http://yangchihyuan.github.io/people/Hao-Cheng_Yang)|
 
 <p></p>
 
