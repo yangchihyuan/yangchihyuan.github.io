@@ -46,5 +46,5 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 
 | ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/woman-taking-notes-think-hand-600nw-2240037251.webp)|
 |:---:|:---:|
-|Mohamed Elsayed|Rachael Zehrung|
+|محمد السيد||
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
