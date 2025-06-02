@@ -20,7 +20,8 @@ title: "生成式AI：文字與圖像生成的原理與實務 2025"
 4. 完成期末專題，整合所學內容，設計並展示一個實用的生成式 AI 系統。
 
 #### 時間與地點
-每週二下午 16:10-19:00 地點：電腦教室3(管理大樓303室)<br/>
+直播時間：每週二下午 16:10-19:00
+長庚衛星課程不需實體出席，選課同學自行決定是否要在直播時間上線或是看課程錄影。<br/>
 網路直播URL [Facebook: 政大應數系直播中心](https://www.facebook.com/groups/nccumathonline)
 YouTube 課程存放點: [Iveai - I've AI 炎龍老師的 YouTube 直播頻道](https://www.youtube.com/@ive-iveai)
 
