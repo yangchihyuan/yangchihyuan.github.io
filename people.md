@@ -44,7 +44,7 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 
 #### <center>Visiting Students</center>
 
-| ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/woman-taking-notes-think-hand-600nw-2240037251.webp)|
+| ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|
 |:---:|:---:|
 |Mohamed Elsayed|Rachael Zehrung|
 |محمد السيد||
