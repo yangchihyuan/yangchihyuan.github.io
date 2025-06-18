@@ -34,7 +34,7 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |吳奕廷|陳毅|
 |[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
-|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Eric_Peng.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
+|![Justin Chang](http://yangchihyuan.github.io/assets/img/Man_Portrait.jpg)|![Eric Peng](http://yangchihyuan.github.io/assets/img/Eric_Peng.jpg)|![Eathen Weng](http://yangchihyuan.github.io/assets/img/Eathen_Weng.png)|![Peter Chen](http://yangchihyuan.github.io/assets/img/Peter_Chen.png)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|
