@@ -67,8 +67,8 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 另外，這本書有簡體中文版，2013年由UC Berkeley的教授譯成，在中國大陸發行，並且將2006年初版的錯誤都校正掉了，對於讀得懂中文的我們，是一個很便利的吸收來源。
 
 #### 網路資源
-- 台大資工系 林軒田教授 2016年 Coursera 機器學習基石 65集，每集10到20分鐘 [YouTube錄影](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=1&ab_channel=Hsuan-TienLin) 機器學習技法 65集，每集10到20分鐘 [YouTube錄影](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&ab_channel=Hsuan-TienLin)
-看完這130集的影片，就等於是聽了一學期量的機器學習課程，而且林教授是用中文講的，雖然投影片是英文，但已經很方便吸收了。
+- 台大資工系 林軒田教授 2013年 Coursera 機器學習基石 65集，每集10到20分鐘 [YouTube錄影](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&index=1&ab_channel=Hsuan-TienLin) 機器學習技法 65集，每集10到20分鐘 [YouTube錄影](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&ab_channel=Hsuan-TienLin)
+看完這130集的影片，就等於是聽了一學期量的機器學習課程，而且林教授是用中文講的，雖然投影片是英文，但已經很方便吸收了。雖然錄製的年份有點久了，但基礎、入門等級機器學習演算法和基本概念，在這十二年間沒有什麼變化，就像微積分一樣，從17世紀牛頓、萊布尼茨發展之初，到經過150年的完善之後，整體架構已經相當成熟穩定了，基礎、入門等級的內容也不會有什麼新發明。
 
 #### 參考書籍
 - Python機器學習 Sebastian Raschka著 劉立民、吳建華譯 (繁中出版年：2016) <br/>
