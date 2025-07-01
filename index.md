@@ -5,7 +5,7 @@ title: "Home"
 
 <h3 class="fw-bold">Current Projects</h3>
 
-#### Companion-robot helper for nurses in a pediatric ward
+#### robot nurse helper
 <img src="http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg" height="250" alt="PICU Scenario">
 <img src="http://yangchihyuan.github.io/assets/img/RobotNurseHelperComponents.jpg" height="250" alt="Components">
 
@@ -28,12 +28,3 @@ For intraocular microsurgery, robotic assistance is a cutting-edge research fiel
 
 Current research results have been published in ECCV'24 and the paper is available in my publication webpage [(Link)](https://yangchihyuan.github.io/publications). However, there are some puzzles unsolved yet. For example, why does this method work poorly on some action datasets? How will the quality of text affect the method's performance? If we refine the text description of the NTU RGB+D dataset, what will happen? Is the skeleton data of the NTU RGB+D dataset so noisy that the proposed method works? Given a high-quality skeleton action dataset, will the proposed method still work?
 To answer those questions, further research is required to be carried out.
-
-#### Digestive system diseases prediction from tongue images
-<img src="http://yangchihyuan.github.io/assets/img/Tongue_capture.jpg" height="250" alt="Tongue_capture">
-<img src="http://yangchihyuan.github.io/assets/img/Tongue_mask.jpg" height="250" alt="Tongue_mask">
-<br/>Image courtesy: Tongue Image Segmentation and Constitution Identification with Deep Learning, Master's thesis of Mr. Chien-Ho Lin (林建和) of the Traditional Chinese Medicine Institute at Chang Gung University 2022, advised by Prof. Hsien-Hung Yang (楊賢鴻) and Prof. Jiann-Der Lee (李建德).
-
-The primary researcher of this project is a Ph.D. student of the CGU school of Traditional Chinese Medicine and I am a consultant of this project. We want to compile a dataset consisting of tongue images and syndromes of digestive system diseases. Thereafter, we can train a computer vision model to predict digestive system diseases from tongue images. In the theory of traditional Chinese medicine, digestive system diseases and tongue appearance are highly related. But modern western medicine system totally ignores it. The most challenging part of this research lies in the data collection, segmentation and labeling. 
-Because this is an application-oriented research project, they plan to use the well-developed ResNet as their prediction model. Thus, the contribution of this project is to validate the traditional Chinese medicine theory and develop a practical method to apply it rather than exploring computer vision techniques.
-
