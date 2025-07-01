@@ -54,14 +54,11 @@ YouTube 課程存放點: [Iveai - I've AI 炎龍老師的 YouTube 直播頻道](
 |15	 |5/27	|生成式 AI 新趨勢	|[YouTube](https://www.youtube.com/watch?v=AOLoR3p2Z0Q&list=PL-eaXJVCzwbukEFU2k5vu_BlUqgVLsEnv&index=13&ab_channel=Iveai-I%27veAI)|無作業|
 |16	 |6/3	|研討會型式的期末專題成果分享|||
 
-
-#### 期末專題
-
 #### 教科書
-沒有教科書，只有蔡炎龍老師的錄影<br/>
+沒有教科書，只有蔡炎龍老師的錄影。<br/>
 
 #### 參考書籍
-在投影片裏會提及 <br/>
+蔡老師在課程大綱裏說在投影片裏會提及，但我沒有看到。 <br/>
 
 #### 成績評量方式
 - 作業: 100%
