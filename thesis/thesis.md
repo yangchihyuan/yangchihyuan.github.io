@@ -54,20 +54,20 @@ Advice: Paragraphs at the same level should have the same indentation.
 The (Luo et al., 2020) is smaller than other words.
 
 ## 5.3 Inconsistent fullwidth and halfwidth characters
-<img src="halfwidth_fullwidth1.png" height="120">
+<img src="halfwidth_fullwidth1.png" height="60">
 
 This is a Chinese sentence and every character is fullwidth, but the ending period becomes halfwidth.
 
-<img src="halfwidth_fullwidth2.png" height="120">
+<img src="halfwidth_fullwidth2.png" height="60">
 
 The first pair of parentheses is fullwidth, but the second is halfwidth.
 
 ## 5.4 Inconsistent language
-<img src="language.png" height="120">
+<img src="language.png" height="60">
 
 The table of content is in Chinese, but the term References is in English.
 
-Advice: Change Reference to 文獻摘要.
+Advice: Change Reference to 參考資料.
 
 ## 5.5 Inconsistent reading direction
 <img src="ReadingDirection1.png" height="360">
@@ -78,12 +78,17 @@ Revised:
 
 <img src="ReadingDirection2.png" height="360">
 
+## 5.6 Inconsistent blank
+<img src="blank.png" height="90">
+There is a missing blank between 3.8 and 倫理.
+
+
 # 6 References
 
 ## 6.1 Wrong expression of the author names
 <img src="AuthorName1.png" height="60"> <br/>
 <img src="AuthorName2.png" height="60"> <br/>
-<img src="AuthorName3.png" height=="60">
+<img src="AuthorName3.png" height="60">
 
 All author names are wrong. 
 
@@ -92,8 +97,14 @@ All author names are wrong.
 
 It is impossible to have double periods at the end.
 
-Advice: This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
+## 6.3 Good references example
+This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
 <img src="GoodReferences1.png" width="1000"> <br/>
 <img src="GoodReferences2.png" width="1000">
 
+# 7 Format
 
+## 7.1 Improper indentation
+<img src="InsufficientIndentation.png" height="90">
+
+The indentation here is too small. A proper indentation is 2 characters for Chinese sentences.
