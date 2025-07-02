@@ -158,6 +158,12 @@ I have no idea why some characters are suddenly in the bold type.
 
 Advice: Remove their bold setting.
 
+## 7.4 Unreasonable large number of decimal places
+<img src="Table1.png" height="200">
+
+Advice: Make them shorter and consistent.
+
+
 # 8 Figure
 ## 8.1 Resolution too low
 <img src="Resolution.png" height="480">
@@ -181,3 +187,10 @@ The author uses the which to infer to the main clause, but the which occurs afte
 <img src="Colon.png" height="90">
 
 The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
+
+# 10 Table
+## Paste an image
+<img src="Table1.png" height="200">
+
+This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
+A real table can be rendered elegantly, but an image will look burry when a large zooming factor is used.
