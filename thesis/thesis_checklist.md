@@ -3,6 +3,9 @@ layout: thesis_checklist
 title: "Thesis writing checklist"
 ---
 
+# Overall advice
+If you want to use Microsoft Word to write your thesis, you had better know how to operate Word's styles settings, which can help save you adjusting sentences one by one.
+
 # 1 Poor translation
 "Global healthcare systems are increasingly challenged by workforce shortages, burnout, and excessive workloads. Socially Assistive Robots (SARs) have emerged as a potential solution. Although SARs have demonstrated potential in pediatric care, existing research has largely concentrated on technological development or patient-centered perspectives, with insufficient focus on the experiences and professional insights of frontline healthcare providers."
 
@@ -63,11 +66,18 @@ This is a Chinese sentence and every character is fullwidth, but the ending peri
 The first pair of parentheses is fullwidth, but the second is halfwidth.
 
 ## 5.4 Inconsistent language
-<img src="language.png" height="60">
+<img src="Language1.png" height="60">
 
 The table of content is in Chinese, but the term References is in English.
 
 Advice: Change Reference to 參考資料.
+
+<img src="Language2.png" height="240">
+
+The thesis is written in Chinese, but the flow chart is written in English.
+
+Advice: Redraw the flow chart.
+
 
 ## 5.5 Inconsistent reading direction
 <img src="ReadingDirection1.png" height="360">
@@ -86,7 +96,7 @@ There is a missing blank between 3.8 and 倫理.
 ## 5.7 Inconsistent fonts
 <img src="Font.png" height="210">
 
-The font of 2.5 and 1. 2. are different. 
+The fonts of 2.5 and 1. 2. are different. 
 
 Advice: Unless you want to emphasize something different, use the same font.
 
@@ -97,7 +107,6 @@ Advice: Unless you want to emphasize something different, use the same font.
 The two paragraphs are consecutive, but their numbering formats are different.
 
 Advice: Make them consistent.
-
 
 # 6 References
 
