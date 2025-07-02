@@ -107,8 +107,15 @@ The two paragraphs are consecutive, but their numbering formats are different.
 
 Advice: Make them consistent.
 
-<img src="Numbering3.png" height="210">
-<img src="Numbering4.png" height="210">
+<img src="Numbering3.png" height="120">
+<img src="Numbering4.png" height="30">
+
+It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
+
+## 5.9 Inconsistent case
+<img src="Case.png" height="240">
+
+"Feature Importance" is each word capitalized, but "loss reduction" is in lowercase.
 
 
 # 6 References
