@@ -189,7 +189,7 @@ The author uses the which to infer to the main clause, but the which occurs afte
 The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
 
 # 10 Table
-## Paste an image
+## 10.1 Use an image
 <img src="Table1.png" height="200">
 
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
