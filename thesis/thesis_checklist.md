@@ -162,5 +162,7 @@ Advice: Redraw this figure.
 The correct format should be 圖一：AI模型建構邏輯與流程圖。It is incorrect to use a subsection number to index the caption.
 
 # 9 Grammar
-# 9.1 
-<p class="paragraph-four"> Otsu’s method [24] is a widely used automatic threshold selection method for image binarization in computer vision applications, which determines the optimal threshold by maximizing the inter-class variance of pixel intensities. </p>
+# 9.1 Ambiguous relative pronoun which
+<p> Otsu’s method [24] is a widely used automatic threshold selection method for image binarization in computer vision applications, <span class="highlight">which</span> determines the optimal threshold by maximizing the inter-class variance of pixel intensities. </p>
+
+The author uses the which to infer to the main clause, but the which occurs after the noun "computer vision applications and confuses readers.
