@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Thesis Mistakes"
+title: "Thesis writing checklist"
 ---
 
 # 1 Poor translation
@@ -15,7 +15,7 @@ However, the translated English sentences become very difficult to read.
 Advice: Find a native speaker to rewrite those sentences.
 
 # 2 Irrelevant content
-<img src="IrrelevantContent1.png" height="400" alt="IrrelevantContent"> </br>
+<img src="IrrelevantContent1.png" height="400" alt="IrrelevantContent">
 
 The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40" alt="IrrelevantContent">is irrelevant.
 
@@ -81,19 +81,19 @@ Revised:
 # 6 References
 
 ## 6.1 Wrong expression of the author names
-<img src="AuthorName1.png" height="120"> </br>
-<img src="AuthorName2.png" height="120"> </br>
-<img src="AuthorName3.png" height="120">
+<img src="AuthorName1.png" height="60"> <br/>
+<img src="AuthorName2.png" height="60"> <br/>
+<img src="AuthorName3.png" height=="60">
 
 All author names are wrong. 
 
 ## 6.2 Double periods
-<img src="AuthorName1.png" height="120">
+<img src="AuthorName1.png" height="60">
 
 It is impossible to have double periods at the end.
 
 Advice: This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
-<img src="GoodReferences1.png" width="1000"> </br>
+<img src="GoodReferences1.png" width="1000"> <br/>
 <img src="GoodReferences2.png" width="1000">
 
 
