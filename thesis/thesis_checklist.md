@@ -80,8 +80,8 @@ Revised:
 
 ## 5.6 Inconsistent blank
 <img src="blank.png" height="90">
-There is a missing blank between 3.8 and 倫理.
 
+There is a missing blank between 3.8 and 倫理.
 
 # 6 References
 
@@ -115,3 +115,10 @@ The indentation here is too small. A proper indentation is 2 characters for Chin
 Here DALYs and DALY are used, but its full name is missing.
 
 Advice: Change to (DALY: Disability-Adjusted Life Year)
+
+## 7.3 Unreasonable bold type
+<img src="Bold.png" height="240">
+
+I have no idea why some characters are suddenly in the bold type.
+
+Advice: Remove their bold setting.
