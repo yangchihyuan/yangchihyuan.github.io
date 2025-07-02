@@ -1,1 +1,28 @@
-body{background:#f1ffb1;color:#000;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}body a{color:#212529 !important}table{border:1;width:100%}th{border:solid 1px #000000;padding:16px}td{border:solid 1px #000000;text-align:left}
+body {
+    background: #f1ffb1;
+    color: #000;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+}
+
+body a {
+    color: #212529 !important
+}
+
+table {
+    border: 1;
+    width: 100%
+}
+
+th {
+    border: solid 1px #000000;
+    padding: 16px
+}
+
+td {
+    border: solid 1px #000000;
+    text-align: left
+}
+
+.paragraph-four {
+  background-color: greenyellow;
+}
