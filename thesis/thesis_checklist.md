@@ -83,6 +83,13 @@ Revised:
 
 There is a missing blank between 3.8 and 倫理.
 
+## 5.7 Inconsistent fonts
+<img src="Font.png" height="210">
+
+The font of 2.5 and 1. 2. are different. 
+
+Advice: Unless you want to emphasize something different, use the same font.
+
 # 6 References
 
 ## 6.1 Wrong expression of the author names
@@ -117,7 +124,7 @@ Here DALYs and DALY are used, but its full name is missing.
 Advice: Change to (DALY: Disability-Adjusted Life Year)
 
 ## 7.3 Unreasonable bold type
-<img src="Bold.png" height="240">
+<img src="Bold.png" height="360">
 
 I have no idea why some characters are suddenly in the bold type.
 
