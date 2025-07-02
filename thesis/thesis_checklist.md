@@ -147,3 +147,17 @@ Advice: Change to (DALY: Disability-Adjusted Life Year)
 I have no idea why some characters are suddenly in the bold type.
 
 Advice: Remove their bold setting.
+
+# 8 Figure
+## 8.1 Resolution too low
+<img src="Resolution.png" height="480">
+
+The resolution is too low to clearly show characters.
+
+Advice: Redraw this figure.
+
+## 8.2 Inadequate caption
+<img src="Caption.png" height="90">
+
+The correct format should be 圖一：AI模型建構邏輯與流程圖。It is incorrect to use a subsection number to index the caption.
+
