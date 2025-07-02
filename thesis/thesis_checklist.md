@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: thesis_checklist
 title: "Thesis writing checklist"
 ---
 
@@ -109,7 +109,7 @@ This is an example of a well formatted references. Extracted from Luo L, Li J, L
 
 The indentation here is too small. A proper indentation is 2 characters for Chinese sentences.
 
-## 7.2 Forget to add the full name of an acronym
+## 7.2 Forget to explain an acronym
 <img src="Acronym.png" height="90">
 
 Here DALYs and DALY are used, but its full name is missing.
