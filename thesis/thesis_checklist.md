@@ -78,7 +78,6 @@ The thesis is written in Chinese, but the flow chart is written in English.
 
 Advice: Redraw the flow chart.
 
-
 ## 5.5 Inconsistent reading direction
 <img src="ReadingDirection1.png" height="360">
 
@@ -107,6 +106,10 @@ Advice: Unless you want to emphasize something different, use the same font.
 The two paragraphs are consecutive, but their numbering formats are different.
 
 Advice: Make them consistent.
+
+<img src="Numbering3.png" height="210">
+<img src="Numbering4.png" height="210">
+
 
 # 6 References
 
@@ -162,7 +165,12 @@ Advice: Redraw this figure.
 The correct format should be 圖一：AI模型建構邏輯與流程圖。It is incorrect to use a subsection number to index the caption.
 
 # 9 Grammar
-# 9.1 Ambiguous relative pronoun which
+## 9.1 Ambiguous relative pronoun which
 <p> Otsu’s method [24] is a widely used automatic threshold selection method for image binarization in computer vision applications, <span class="highlight">which</span> determines the optimal threshold by maximizing the inter-class variance of pixel intensities. </p>
 
-The author uses the which to infer to the main clause, but the which occurs after the noun "computer vision applications and confuses readers.
+The author uses the which to infer to the main clause, but the which occurs after the noun "computer vision applications" and confuses readers.
+
+## 9.2 Incorrect colon
+<img src="Colon.png" height="90">
+
+The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
