@@ -90,6 +90,15 @@ The font of 2.5 and 1. 2. are different.
 
 Advice: Unless you want to emphasize something different, use the same font.
 
+## 5.8 Inconsistent numbering formats
+<img src="Numbering1.png" height="210">
+<img src="Numbering2.png" height="210">
+
+The two paragraphs are consecutive, but their numbering formats are different.
+
+Advice: Make them consistent.
+
+
 # 6 References
 
 ## 6.1 Wrong expression of the author names
