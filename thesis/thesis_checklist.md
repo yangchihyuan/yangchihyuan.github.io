@@ -158,6 +158,14 @@ Advice: Redraw this figure.
 
 The correct format should be 圖一：AI模型建構邏輯與流程圖。It is incorrect to use a subsection number to index the caption.
 
+## 5.3 Irrelevant content
+<img src="IrrelevantContent1.png" height="400" alt="IrrelevantContent">
+
+The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40" alt="IrrelevantContent">is irrelevant.
+
+Advice: Remove it.
+
+
 # 6 Grammar
 ## 6.1 Ambiguous relative pronoun which
 <p> Otsu’s method [24] is a widely used automatic threshold selection method for image binarization in computer vision applications, <span class="highlight">which</span> determines the optimal threshold by maximizing the inter-class variance of pixel intensities. </p>
@@ -196,7 +204,7 @@ The subordinate clause's subject is hidden. According to grammar, its subject is
 
 
 # 7 Table
-## 7.1 Use an image
+## 7.1 Don't use an image
 <img src="Table1.png" height="200">
 
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
@@ -213,11 +221,4 @@ This English abstract is translated from its Chinese version using a translation
 However, the translated English sentences are very difficult to read.
 
 Advice: Find a native speaker to rewrite those sentences.
-
-# 9 Irrelevant content
-<img src="IrrelevantContent1.png" height="400" alt="IrrelevantContent">
-
-The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40" alt="IrrelevantContent">is irrelevant.
-
-Advice: Remove it.
  
