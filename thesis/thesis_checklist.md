@@ -44,8 +44,12 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#65-wrong-skipped-subject">6.5 Wrong skipped subject</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
+<div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
 <div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
 <div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
+<div class="section"><a href="#9-equation">9 Equation</a></div>
+<div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
+<div class="subsection"><a href="#92-exceed-right-margin">9.2 Exceed right margin</a></div>
 
 # 1 Inconsistency
 
@@ -134,6 +138,11 @@ One DOI is underlined, but another is not.
 <img src="Alignment3.png" height="400">
 
 Advice: Use justified rather than align left.
+
+<img src="Alignment5.png" height="150">
+
+Advice: Use justified rather than align center.
+
 ## 2.2 Improper indentation
 <img src="InsufficientIndentation.png" height="90">
 
@@ -253,6 +262,14 @@ The subordinate clause's subject is hidden. According to grammar, its subject is
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
 A real table can be rendered elegantly, but an image will look burry when a large zooming factor is used.
 
+## 7.2 Font size too large
+<img src="Table2.png" height="300">
+
+The font size in the table is obviously larger than the one of the regular manuscript. If you don't have a special purpose, don't do it. It will confuse your readers.
+
+Advice: Keep the font size in a table as large as the one of the regular manuscript.
+
+
 # 8 Improper translation
 ## 8.1 Limitation of translation software
 "Global healthcare systems are increasingly challenged by workforce shortages, burnout, and excessive workloads. Socially Assistive Robots (SARs) have emerged as a potential solution. Although SARs have demonstrated potential in pediatric care, existing research has largely concentrated on technological development or patient-centered perspectives, with insufficient focus on the experiences and professional insights of frontline healthcare providers."
@@ -265,3 +282,19 @@ However, the translated English sentences are very difficult to read.
 
 Advice: Find a native speaker to rewrite those sentences.
  
+# 9 Equation
+A equation is part of a sentence so you should treat it as a phrase.
+
+## 9.1 Fail to treat equations as phrases
+This is an example. Because it is a sentence with the subordinate clauses where, you need to have commas at the end of the two equations and no indentation before the where.
+<img src="Equation1.png" height="300">
+
+This is the revised expression. I highlight the difference in red.
+<img src="Equation2.png" height="300">
+
+## 9.2 Exceed right margin
+<img src="Equation3.png" height="200">
+
+Advice: Separate the equation into two lines. Here is the [Overleaf example](https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath).
+
+
