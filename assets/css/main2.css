@@ -28,7 +28,7 @@ td {
 }
 
 .section {
-  text-indent: 0pm;
+  text-indent: 0em;
   line-height: 1.5; /* Match the body's line-height */
   height: 1.5em; /* Explicitly set height based on line-height */
 }

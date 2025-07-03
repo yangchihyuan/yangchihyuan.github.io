@@ -12,19 +12,19 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#1-inconsistency">1 Inconsistency</a></div>
 <div class="subsection"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </div>
 <div class="subsection"><a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a></div>
-<a href="#13-inconsistent-fullwidth-and-halfwidth-characters">1.3 Inconsistent fullwidth and halfwidth characters</a><br />
-<a href="#14-inconsistent-language">1.4 Inconsistent language</a><br />
-<a href="#15-inconsistent-reading-direction">1.5 Inconsistent reading direction</a><br />
-<a href="#16-inconsistent-blank">1.6 Inconsistent blank</a><br />
-<a href="#17-inconsistent-font">1.7 Inconsistent font</a><br />
-<a href="#18-inconsistent-numbering-format">1.8 Inconsistent numbering format</a><br />
-<a href="#19-inconsistent-case">1.9 Inconsistent case</a><br />
-<a href="#2-format">2 Format</a><br />
-<a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a><br />
-<a href="#22-improper-indentation">2.2 Improper indentation</a><br />
-<a href="#23-forget-to-explain-an-acronym">2.3 Forget to explain an acronym</a><br />
-<a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a><br />
-<a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a><br />
+<div class="subsection"><a href="#13-inconsistent-fullwidth-and-halfwidth-characters">1.3 Inconsistent fullwidth and halfwidth characters</a></div>
+<div class="subsection"><a href="#14-inconsistent-language">1.4 Inconsistent language</a></div>
+<div class="subsection"><a href="#15-inconsistent-reading-direction">1.5 Inconsistent reading direction</a></div>
+<div class="subsection"><a href="#16-inconsistent-blank">1.6 Inconsistent blank</a></div>
+<div class="subsection"><a href="#17-inconsistent-font">1.7 Inconsistent font</a></div>
+<div class="subsection"><a href="#18-inconsistent-numbering-format">1.8 Inconsistent numbering format</a></div>
+<div class="subsection"><a href="#19-inconsistent-case">1.9 Inconsistent case</a></div>
+<div class="section"><a href="#2-format">2 Format</a></div>
+<div class="subsection"><a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a></div>
+<div class="subsection"><a href="#22-improper-indentation">2.2 Improper indentation</a></div>
+<div class="subsection"><a href="#23-forget-to-explain-an-acronym">2.3 Forget to explain an acronym</a></div>
+<div class="subsection"><a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a></div>
+<div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
 <a href="#3-references">3 References</a><br />
 <a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a><br />
 <a href="#32-double-periods">3.2 Double periods</a><br />
