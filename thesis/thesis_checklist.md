@@ -190,7 +190,8 @@ The continuous tense is meaningless.
 Advice: Use simple present tense.
 
 ## 6.5 Wrong skipped subject
-<p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...<p>
+<p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...</p>
+
 The subordinate clause's subject is hidden. According to grammar, its subject is the same one of the main clause. As a result, the complete sentence is "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
 
 
