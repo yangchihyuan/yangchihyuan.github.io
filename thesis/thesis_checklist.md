@@ -38,10 +38,9 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#53-irrelevant-content">5.3 Irrelevant content</a></div>
 <div class="section"><a href="#6-grammar">6 Grammar</a></div>
 <div class="subsection"><a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a></div>
-<div class="subsection"><a href="#62-incorrect-colon">6.2 Incorrect colon</a></div>
-<div class="subsection"><a href="#63-work-uncountable">6.3 Work uncountable</a></div>
-<div class="subsection"><a href="#64-tense">6.4 Tense</a></div>
-<div class="subsection"><a href="#65-wrong-skipped-subject">6.5 Wrong skipped subject</a></div>
+<div class="subsection"><a href="#62-work-uncountable">6.2 Work uncountable</a></div>
+<div class="subsection"><a href="#63-tense">6.3 Tense</a></div>
+<div class="subsection"><a href="#64-wrong-skipped-subject">6.4 Wrong skipped subject</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
@@ -50,6 +49,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#9-equation">9 Equation</a></div>
 <div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
 <div class="subsection"><a href="#92-exceed-right-margin">9.2 Exceed right margin</a></div>
+<div class="subsection"><a href="#932-incorrect-colon">9.3 Incorrect colon</a></div>
 
 # 1 Inconsistency
 
@@ -224,12 +224,7 @@ Advice: Remove it.
 
 The author uses the which to infer to the main clause, but the which occurs after the noun "computer vision applications" and confuses readers.
 
-## 6.2 Incorrect colon
-<img src="Colon.png" height="90">
-
-The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
-
-## 6.3 Work uncountable
+## 6.2 Work uncountable
 <p>Chapter 2 provides a review of related research <span class="highlight">works</span>.</p>
 <p>Recent <span class="highlight">works</span> have explored the use of LoRA [15] for this purpose by training two distinct low-rank adaptation modules: a style LoRA and a content LoRA.</p>
 <p>Prior <span class="highlight">works</span> [36, 39] have shown that attention maps naturally capture object layouts in an image.</p>
@@ -238,7 +233,7 @@ All the three sentences are wrong. Work is countable only for "something such as
 
 Advice: If you want to use a countable noun, use study.
 
-## 6.4 Tense
+## 6.3 Tense
 <p>Given that there are multiple cross-attention layers in Latent Diffusion Models with different resolutions (i.e. 64, 32, 16, 8), we <span class="highlight">will</span> focus on the resolution 16 layer which has been proven to contains the most semantic information. [1, 4, 13] </p>
 
 The future tense in unnecessary and confusing. It is neither a promise nor a plan. It is what you do in your study, so you should use simple present tense.
@@ -249,7 +244,7 @@ The continuous tense is meaningless.
 
 Advice: Use simple present tense.
 
-## 6.5 Wrong skipped subject
+## 6.4 Wrong skipped subject
 <p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...</p>
 
 The subordinate clause's subject is hidden. According to grammar, its subject is the same one of the main clause. As a result, the complete sentence is "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
@@ -263,7 +258,7 @@ This is wrong. The newline symbols should not appear. You should create a real t
 A real table can be rendered elegantly, but an image will look burry when a large zooming factor is used.
 
 ## 7.2 Font size too large
-<img src="Table2.png" height="300">
+<img src="Table2.png" height="450">
 
 The font size in the table is obviously larger than the one of the regular manuscript. If you don't have a special purpose, don't do it. It will confuse your readers.
 
@@ -287,9 +282,11 @@ A equation is part of a sentence so you should treat it as a phrase.
 
 ## 9.1 Fail to treat equations as phrases
 This is an example. Because it is a sentence with the subordinate clauses where, you need to have commas at the end of the two equations and no indentation before the where.
+
 <img src="Equation1.png" height="300">
 
 This is the revised expression. I highlight the difference in red.
+
 <img src="Equation2.png" height="300">
 
 ## 9.2 Exceed right margin
@@ -297,4 +294,7 @@ This is the revised expression. I highlight the difference in red.
 
 Advice: Separate the equation into two lines. Here is the [Overleaf example](https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath).
 
+## 9.3 Incorrect colon
+<img src="Colon.png" height="90">
 
+The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
