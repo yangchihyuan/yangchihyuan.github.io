@@ -10,8 +10,8 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 
 # Checklist
 <p class="section"><a href="#1-inconsistency">1 Inconsistency</a></p>
-<p class="subsection"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </p>
-<p class="subsection"><a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a></p>
+<div class="subsection"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </div>
+<div class="subsection"><a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a></div>
 <a href="#13-inconsistent-fullwidth-and-halfwidth-characters">1.3 Inconsistent fullwidth and halfwidth characters</a><br />
 <a href="#14-inconsistent-language">1.4 Inconsistent language</a><br />
 <a href="#15-inconsistent-reading-direction">1.5 Inconsistent reading direction</a><br />
