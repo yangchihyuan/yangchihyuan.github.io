@@ -8,6 +8,44 @@ If you want to use Microsoft Word to write your thesis, you had better know how 
 
 If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes.
 
+# Checklist
+[1 Inconsistency](#1-inconsistency) <br/>
+[1.1 Inconsistent indentation](#11-inconsistent-indentation) <br/>
+[1.2 Inconsistent font size](#12-inconsistent-font-size)<br/>
+[1.3 Inconsistent fullwidth and halfwidth characters](#13-inconsistent-fullwidth-and-halfwidth-characters)<br/>
+[1.4 Inconsistent language](#14-inconsistent-language)<br/>
+[1.5 Inconsistent reading direction](#15-inconsistent-reading-direction)<br/>
+[1.6 Inconsistent blank](#16-inconsistent-blank)<br/>
+[1.7 Inconsistent font](#17-inconsistent-font)<br/>
+[1.8 Inconsistent numbering format](#18-inconsistent-numbering-format)<br/>
+[1.9 Inconsistent case](#19-inconsistent-case)<br/>
+[2 Format](#2-format)<br/>
+[2.1 Wrong alignment setting](#21-wrong-alignment-setting)<br/>
+[2.2 Improper indentation](#22-improper-indentation)<br/>
+[2.3 Forget to explain an acronym](#23-forget-to-explain-an-acronym)<br/>
+[2.4 Unreasonable bold type](#24-unreasonable-bold-type)<br/>
+[2.5 Unreasonable large number of decimal places](#25-unreasonable-large-number-of-decimal-places)<br/>
+[3 References](#3-references)<br/>
+[3.1 Wrong expression of the author names](#31-wrong-expression-of-the-author-names)<br/>
+[3.2 Double periods](#32-double-periods)<br/>
+[4 Acronym](#4-acronym)<br/>
+[4.1 Incorrect case](#41-incorrect-case)<br/>
+[4.2 Incorrect full name location](#42-incorrect-full-name-location)<br/>
+[5 Figure](#5-figure)<br/>
+[5.1 Resolution too low](#51-resolution-too-low)<br/>
+[5.2 Inadequate caption](#52-inadequate-caption)<br/>
+[5.3 Irrelevant content](#53-irrelevant-content)<br/>
+[6 Grammar](#6-grammar)<br/>
+[6.1 Ambiguous relative pronoun which](#61-ambiguous-relative-pronoun-which)<br/>
+[6.2 Incorrect colon](#62-incorrect-colon)<br/>
+[6.3 Work uncountable](#63-work-uncountable)<br/>
+[6.4 Tense](#64-tense)<br/>
+[6.5 Wrong skipped subject](#65-wrong-skipped-subject)<br/>
+[7 Table](#7-table)<br/>
+[7.1 Don't use an image](#71-dont-use-an-image)<br/>
+[8 Improper translation](#8-improper-translation)<br/>
+[8.1 Limitation of translation software](#81-limitation-of-translation-software)<br/>
+
 # 1 Inconsistency
 
 ## 1.1 Inconsistent indentation
@@ -56,14 +94,14 @@ Revised:
 
 There is a missing blank between 3.8 and 倫理.
 
-## 1.7 Inconsistent fonts
+## 1.7 Inconsistent font
 <img src="Font.png" height="210">
 
 The fonts of 2.5 and 1. 2. are different. 
 
 Advice: Unless you want to emphasize something different, use the same font.
 
-## 1.8 Inconsistent numbering formats
+## 1.8 Inconsistent numbering format
 <img src="Numbering1.png" height="210">
 <img src="Numbering2.png" height="210">
 
@@ -83,7 +121,7 @@ It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
 
 # 2 Format
 
-## 2.1 Wrong alignment settings
+## 2.1 Wrong alignment setting
 <img src="Alignment1.png" height="400">
 <img src="Alignment2.png" height="400">
 <img src="Alignment4.png" height="400">
@@ -116,6 +154,10 @@ Advice: Make them shorter and consistent.
 
 # 3 References
 
+This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
+<img src="GoodReferences1.png" width="1000"> <br/>
+<img src="GoodReferences2.png" width="1000">
+
 ## 3.1 Wrong expression of the author names
 <img src="AuthorName1.png" height="60"> <br/>
 <img src="AuthorName2.png" height="60"> <br/>
@@ -128,12 +170,7 @@ All author names are wrong.
 
 It is impossible to have double periods at the end.
 
-## 3.3 Good references example
-This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
-<img src="GoodReferences1.png" width="1000"> <br/>
-<img src="GoodReferences2.png" width="1000">
-
-# 4 acronym 
+# 4 Acronym 
 
 ## 4.1 Incorrect case 
 <img src="Acronym1.png" height="30">
