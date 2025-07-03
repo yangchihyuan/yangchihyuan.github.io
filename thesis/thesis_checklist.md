@@ -9,9 +9,9 @@ If you want to use Microsoft Word to write your thesis, you had better know how 
 If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes.
 
 # Checklist
-<p><a href="#1-inconsistency">1 Inconsistency</a></p>
-<p class="block-indent"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </p>
-<a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a><br />
+<p class="section"><a href="#1-inconsistency">1 Inconsistency</a></p>
+<p class="subsection"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </p>
+<p class="subsection"><a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a></p>
 <a href="#13-inconsistent-fullwidth-and-halfwidth-characters">1.3 Inconsistent fullwidth and halfwidth characters</a><br />
 <a href="#14-inconsistent-language">1.4 Inconsistent language</a><br />
 <a href="#15-inconsistent-reading-direction">1.5 Inconsistent reading direction</a><br />
