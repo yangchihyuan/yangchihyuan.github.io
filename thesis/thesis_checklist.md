@@ -25,26 +25,26 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#23-forget-to-explain-an-acronym">2.3 Forget to explain an acronym</a></div>
 <div class="subsection"><a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a></div>
 <div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
-<a href="#3-references">3 References</a><br />
-<a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a><br />
-<a href="#32-double-periods">3.2 Double periods</a><br />
-<a href="#4-acronym">4 Acronym</a><br />
-<a href="#41-incorrect-case">4.1 Incorrect case</a><br />
-<a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a><br />
-<a href="#5-figure">5 Figure</a><br />
-<a href="#51-resolution-too-low">5.1 Resolution too low</a><br />
-<a href="#52-inadequate-caption">5.2 Inadequate caption</a><br />
-<a href="#53-irrelevant-content">5.3 Irrelevant content</a><br />
-<a href="#6-grammar">6 Grammar</a><br />
-<a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a><br />
-<a href="#62-incorrect-colon">6.2 Incorrect colon</a><br />
-<a href="#63-work-uncountable">6.3 Work uncountable</a><br />
-<a href="#64-tense">6.4 Tense</a><br />
-<a href="#65-wrong-skipped-subject">6.5 Wrong skipped subject</a><br />
-<a href="#7-table">7 Table</a><br />
-<a href="#71-dont-use-an-image">7.1 Don’t use an image</a><br />
-<a href="#8-improper-translation">8 Improper translation</a><br />
-<a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a><br /></p>
+<div class="section"><a href="#3-references">3 References</a></div>
+<div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
+<div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
+<div class="section"><a href="#4-acronym">4 Acronym</a></div>
+<div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
+<div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
+<div class="section"><a href="#5-figure">5 Figure</a></div>
+<div class="subsection"><a href="#51-resolution-too-low">5.1 Resolution too low</a></div>
+<div class="subsection"><a href="#52-inadequate-caption">5.2 Inadequate caption</a></div>
+<div class="subsection"><a href="#53-irrelevant-content">5.3 Irrelevant content</a></div>
+<div class="section"><a href="#6-grammar">6 Grammar</a></div>
+<div class="subsection"><a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a></div>
+<div class="subsection"><a href="#62-incorrect-colon">6.2 Incorrect colon</a></div>
+<div class="subsection"><a href="#63-work-uncountable">6.3 Work uncountable</a></div>
+<div class="subsection"><a href="#64-tense">6.4 Tense</a></div>
+<div class="subsection"><a href="#65-wrong-skipped-subject">6.5 Wrong skipped subject</a></div>
+<div class="section"><a href="#7-table">7 Table</a></div>
+<div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
+<div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
+<div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div></p>
 
 # 1 Inconsistency
 
