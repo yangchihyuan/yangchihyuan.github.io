@@ -19,6 +19,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#17-inconsistent-font">1.7 Inconsistent font</a></div>
 <div class="subsection"><a href="#18-inconsistent-numbering-format">1.8 Inconsistent numbering format</a></div>
 <div class="subsection"><a href="#19-inconsistent-case">1.9 Inconsistent case</a></div>
+<div class="subsection"><a href="#110-inconsistent-underline">1.10 Inconsistent underline</a></div>
 <div class="section"><a href="#2-format">2 Format</a></div>
 <div class="subsection"><a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a></div>
 <div class="subsection"><a href="#22-improper-indentation">2.2 Improper indentation</a></div>
@@ -44,7 +45,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
 <div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
-<div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div></p>
+<div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
 
 # 1 Inconsistency
 
@@ -118,6 +119,11 @@ It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
 <img src="Case.png" height="240">
 
 "Feature Importance" is each word capitalized, but "loss reduction" is in lowercase.
+
+## 1.10 Inconsistent underline
+<img src="Underline.png" height="120">
+
+One DOI is underlined, but another is not.
 
 # 2 Format
 
