@@ -6,7 +6,7 @@ title: "Thesis writing checklist"
 # Overall advice
 If you want to use Microsoft Word to write your thesis, you had better know how to operate Word's styles settings, which can help save you adjusting sentences one by one.
 
-If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages.
+If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes.
 
 # 1 Inconsistency
 
@@ -169,6 +169,31 @@ The author uses the which to infer to the main clause, but the which occurs afte
 
 The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
 
+## 6.3 Work uncountable
+<p>Chapter 2 provides a review of related research <span class="highlight">works</span>.</p>
+<p>Recent <span class="highlight">works</span> have explored the use of LoRA [15] for this purpose by training two distinct low-rank adaptation modules: a style LoRA and a content LoRA.</p>
+<p>Prior <span class="highlight">works</span> [36, 39] have shown that attention maps naturally capture object layouts in an image.</p>
+
+All the three sentences are wrong. Work is countable only for "something such as a painting, play, piece of music etc that is produced by a painter, writer, or musician".
+
+Advice: If you want to use a countable noun, use study.
+
+## 6.4 Tense
+<p>Given that there are multiple cross-attention layers in Latent Diffusion Models with different resolutions (i.e. 64, 32, 16, 8), we <span class="highlight">will</span> focus on the resolution 16 layer which has been proven to contains the most semantic information. [1, 4, 13] </p>
+
+The future tense in unnecessary and confusing. It is neither a promise nor a plan. It is what you do in your study, so you should use simple present tense.
+
+<p>For our work, similar to InspirationTree, we <span class="highlight">are optimizing</span> {vl, vr} but with a slightly different loss ...</p>
+
+The continuous tense is meaningless.
+
+Advice: Use simple present tense.
+
+## 6.5 Wrong skipped subject
+<p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...<p>
+The subordinate clause's subject is hidden. According to grammar, its subject is the same one of the main clause. As a result, the complete sentence is "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
+
+
 # 7 Table
 ## 7.1 Use an image
 <img src="Table1.png" height="200">
@@ -176,14 +201,15 @@ The equation is part of the sentence. We need to treat as a sentence so there sh
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
 A real table can be rendered elegantly, but an image will look burry when a large zooming factor is used.
 
-# 8 Poor translation
+# 8 Improper translation
+## 8.1 Limitation of translation software
 "Global healthcare systems are increasingly challenged by workforce shortages, burnout, and excessive workloads. Socially Assistive Robots (SARs) have emerged as a potential solution. Although SARs have demonstrated potential in pediatric care, existing research has largely concentrated on technological development or patient-centered perspectives, with insufficient focus on the experiences and professional insights of frontline healthcare providers."
 
 This English abstract is translated from its Chinese version using a translation tool.
 
 "隨著全球醫療體系面臨人力短缺、職業倦怠與工作負荷過重等挑戰，社交輔助機器人（Socially Assistive Robots, SARs）在臨床照護中的應用逐漸受到關注。雖然 SARs 在兒科醫療中展現潛力，但現有研究多聚焦於機器人發展的技術面或病患觀點，缺乏對第一線醫護人員經驗與專業角色看法的深入探討，並且多數研究缺乏理論依據以及實際使用的經驗。"
 
-However, the translated English sentences become very difficult to read.
+However, the translated English sentences are very difficult to read.
 
 Advice: Find a native speaker to rewrite those sentences.
 
@@ -193,5 +219,4 @@ Advice: Find a native speaker to rewrite those sentences.
 The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40" alt="IrrelevantContent">is irrelevant.
 
 Advice: Remove it.
-
-
+ 
