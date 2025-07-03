@@ -9,42 +9,42 @@ If you want to use Microsoft Word to write your thesis, you had better know how 
 If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes.
 
 # Checklist
-[1 Inconsistency](#1-inconsistency) <br/>
-[1.1 Inconsistent indentation](#11-inconsistent-indentation) <br/>
-[1.2 Inconsistent font size](#12-inconsistent-font-size)<br/>
-[1.3 Inconsistent fullwidth and halfwidth characters](#13-inconsistent-fullwidth-and-halfwidth-characters)<br/>
-[1.4 Inconsistent language](#14-inconsistent-language)<br/>
-[1.5 Inconsistent reading direction](#15-inconsistent-reading-direction)<br/>
-[1.6 Inconsistent blank](#16-inconsistent-blank)<br/>
-[1.7 Inconsistent font](#17-inconsistent-font)<br/>
-[1.8 Inconsistent numbering format](#18-inconsistent-numbering-format)<br/>
-[1.9 Inconsistent case](#19-inconsistent-case)<br/>
-[2 Format](#2-format)<br/>
-[2.1 Wrong alignment setting](#21-wrong-alignment-setting)<br/>
-[2.2 Improper indentation](#22-improper-indentation)<br/>
-[2.3 Forget to explain an acronym](#23-forget-to-explain-an-acronym)<br/>
-[2.4 Unreasonable bold type](#24-unreasonable-bold-type)<br/>
-[2.5 Unreasonable large number of decimal places](#25-unreasonable-large-number-of-decimal-places)<br/>
-[3 References](#3-references)<br/>
-[3.1 Wrong expression of the author names](#31-wrong-expression-of-the-author-names)<br/>
-[3.2 Double periods](#32-double-periods)<br/>
-[4 Acronym](#4-acronym)<br/>
-[4.1 Incorrect case](#41-incorrect-case)<br/>
-[4.2 Incorrect full name location](#42-incorrect-full-name-location)<br/>
-[5 Figure](#5-figure)<br/>
-[5.1 Resolution too low](#51-resolution-too-low)<br/>
-[5.2 Inadequate caption](#52-inadequate-caption)<br/>
-[5.3 Irrelevant content](#53-irrelevant-content)<br/>
-[6 Grammar](#6-grammar)<br/>
-[6.1 Ambiguous relative pronoun which](#61-ambiguous-relative-pronoun-which)<br/>
-[6.2 Incorrect colon](#62-incorrect-colon)<br/>
-[6.3 Work uncountable](#63-work-uncountable)<br/>
-[6.4 Tense](#64-tense)<br/>
-[6.5 Wrong skipped subject](#65-wrong-skipped-subject)<br/>
-[7 Table](#7-table)<br/>
-[7.1 Don't use an image](#71-dont-use-an-image)<br/>
-[8 Improper translation](#8-improper-translation)<br/>
-[8.1 Limitation of translation software](#81-limitation-of-translation-software)<br/>
+<p><a href="#1-inconsistency">1 Inconsistency</a></p>
+<p class="block-indent"><a href="#11-inconsistent-indentation">1.1 Inconsistent indentation</a> </p>
+<a href="#12-inconsistent-font-size">1.2 Inconsistent font size</a><br />
+<a href="#13-inconsistent-fullwidth-and-halfwidth-characters">1.3 Inconsistent fullwidth and halfwidth characters</a><br />
+<a href="#14-inconsistent-language">1.4 Inconsistent language</a><br />
+<a href="#15-inconsistent-reading-direction">1.5 Inconsistent reading direction</a><br />
+<a href="#16-inconsistent-blank">1.6 Inconsistent blank</a><br />
+<a href="#17-inconsistent-font">1.7 Inconsistent font</a><br />
+<a href="#18-inconsistent-numbering-format">1.8 Inconsistent numbering format</a><br />
+<a href="#19-inconsistent-case">1.9 Inconsistent case</a><br />
+<a href="#2-format">2 Format</a><br />
+<a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a><br />
+<a href="#22-improper-indentation">2.2 Improper indentation</a><br />
+<a href="#23-forget-to-explain-an-acronym">2.3 Forget to explain an acronym</a><br />
+<a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a><br />
+<a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a><br />
+<a href="#3-references">3 References</a><br />
+<a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a><br />
+<a href="#32-double-periods">3.2 Double periods</a><br />
+<a href="#4-acronym">4 Acronym</a><br />
+<a href="#41-incorrect-case">4.1 Incorrect case</a><br />
+<a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a><br />
+<a href="#5-figure">5 Figure</a><br />
+<a href="#51-resolution-too-low">5.1 Resolution too low</a><br />
+<a href="#52-inadequate-caption">5.2 Inadequate caption</a><br />
+<a href="#53-irrelevant-content">5.3 Irrelevant content</a><br />
+<a href="#6-grammar">6 Grammar</a><br />
+<a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a><br />
+<a href="#62-incorrect-colon">6.2 Incorrect colon</a><br />
+<a href="#63-work-uncountable">6.3 Work uncountable</a><br />
+<a href="#64-tense">6.4 Tense</a><br />
+<a href="#65-wrong-skipped-subject">6.5 Wrong skipped subject</a><br />
+<a href="#7-table">7 Table</a><br />
+<a href="#71-dont-use-an-image">7.1 Don’t use an image</a><br />
+<a href="#8-improper-translation">8 Improper translation</a><br />
+<a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a><br /></p>
 
 # 1 Inconsistency
 

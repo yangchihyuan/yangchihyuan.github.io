@@ -26,3 +26,14 @@ td {
 .highlight {
   background-color: greenyellow;
 }
+
+.block-indent {
+  margin-left: 40px; /* Indents the entire block */
+  padding: 10px;
+  border-left: 3px solid #ccc;
+  margin: 0; /* Remove default margins */
+  padding: 0; /* Remove default padding */
+  line-height: 1.5; /* Match the body's line-height */
+  height: 1.5em; /* Explicitly set height based on line-height */
+  overflow: hidden; /* Ensure no content spills */
+}
