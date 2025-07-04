@@ -6,7 +6,7 @@ title: "Thesis writing checklist"
 # Overall advice
 If you want to use Microsoft Word to write your thesis, you had better know how to operate Word's styles settings, which can help save you adjusting sentences one by one.
 
-If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes.
+If you use LaTeX to render your thesis, the benefit is that most formats are well defined and you can focus on the content. However, you need to spend effort on learning LaTeX syntax and being familiar with used packages. Unlike MS Word, which has a built-in grammar and spell checker, most LaTeX editors don't have those. Thus, you should install a writing assistant tool such as Grammarly, which supports LaTeX files even for the free edition. Grammarly will give you many hints of possible typos and grammatically mistakes. If you use Overleaf to edit your LaTeX file, Overleaf has a built-in writing assistant tool Writefull, which is similar to Grammarly. If you prefer Grammarly, here is the [instruction](https://www.overleaf.com/learn/how-to/Use_Grammarly_with_Overleaf) to use Grammarly on Overleaf.
 
 # Checklist
 <div class="section"><a href="#1-inconsistency">1 Inconsistency</a></div>
@@ -42,6 +42,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#63-tense">6.3 Tense</a></div>
 <div class="subsection"><a href="#64-wrong-skipped-subject">6.4 Wrong skipped subject</a></div>
 <div class="subsection"><a href="#65-typo-and-missing-verb">6.5 Typo and missing verb</a></div>
+<div class="subsection"><a href="#66-missing-article">6.6 Missing article</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
@@ -257,9 +258,15 @@ The verb is missing. will associated --> is associated.
 
 Typo: informatopn --> information ; logitude --> longitude.
 
-Advice: Install Grammarly to scan the source LaTeX file.
+Advice: Use a writing assistant tool such as Grammarly or Writefull to scan the source LaTeX file.
 
+## 6.6 Missing article
 
+<p>... represents the binarized smoothed attention map which will be used as <span class="highlight">mask</span> in our purposed method.</p>
+
+Mask is countable so it should be "a mask".
+
+Advice: Use a writing assistant tool such as Grammarly or Writefull to scan the source LaTeX file.
 
 # 7 Table
 ## 7.1 Use image
