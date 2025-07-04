@@ -41,6 +41,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#62-work-uncountable">6.2 Work uncountable</a></div>
 <div class="subsection"><a href="#63-tense">6.3 Tense</a></div>
 <div class="subsection"><a href="#64-wrong-skipped-subject">6.4 Wrong skipped subject</a></div>
+<div class="subsection"><a href="#65-typo-and-missing-verb">6.5 Typo and missing verb</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
@@ -247,11 +248,21 @@ Advice: Use simple present tense.
 ## 6.4 Wrong skipped subject
 <p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...</p>
 
-The subordinate clause's subject is hidden. According to grammar, its subject is the same one of the main clause. As a result, the complete sentence is "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
+The subordinate clause's subject is skipped. According to grammar, its subject is the same as the one of the main clause. As a result, the full sentence becomes "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
+
+## 6.5 Typo and missing verb
+<img src="Typo.png" height="60">
+
+The verb is missing. will associated --> is associated.
+
+Typo: informatopn --> information ; logitude --> longitude.
+
+Advice: Install Grammarly to scan the source LaTeX file.
+
 
 
 # 7 Table
-## 7.1 Don't use an image
+## 7.1 Use image
 <img src="Table1.png" height="200">
 
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
@@ -276,7 +287,7 @@ This English abstract is translated from its Chinese version using a translation
 However, the translated English sentences are very difficult to read.
 
 Advice: Find a native speaker to rewrite those sentences.
- 
+
 # 9 Equation
 A equation is part of a sentence so you should treat it as a phrase.
 
