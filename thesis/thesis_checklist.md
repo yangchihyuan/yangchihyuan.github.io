@@ -45,14 +45,14 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#65-typo-and-missing-verb">6.5 Typo and missing verb</a></div>
 <div class="subsection"><a href="#66-missing-article">6.6 Missing article</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
-<div class="subsection"><a href="#71-dont-use-an-image">7.1 Don’t use an image</a></div>
+<div class="subsection"><a href="#71-use-image">7.1 Use image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
 <div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
 <div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
 <div class="section"><a href="#9-equation">9 Equation</a></div>
 <div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
 <div class="subsection"><a href="#92-exceed-right-margin">9.2 Exceed right margin</a></div>
-<div class="subsection"><a href="#932-incorrect-colon">9.3 Incorrect colon</a></div>
+<div class="subsection"><a href="#93-incorrect-colon">9.3 Incorrect colon</a></div>
 
 # 1 Inconsistency
 
@@ -124,6 +124,11 @@ Advice: Make them consistent.
 <img src="Numbering4.png" height="30">
 
 It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
+
+<img src="InconsistentNumber.png" height="60">
+
+It is better to use the Chinese number 六 rather than the Arabic number 6.
+
 
 ## 1.9 Inconsistent case
 <img src="Case.png" height="240">
