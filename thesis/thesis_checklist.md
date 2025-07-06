@@ -65,6 +65,9 @@ Advice: Paragraphs at the same level should have the same indentation.
 
 The (Luo et al., 2020) is smaller than other words.
 
+<img src="fontsize2.png" height="240">
+
+
 ## 1.3 Inconsistent fullwidth and halfwidth characters
 <img src="halfwidth_fullwidth1.png" height="60">
 
@@ -131,6 +134,9 @@ It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
 
 One DOI is underlined, but another is not.
 
+## 1.11 Inconsistent bold type
+
+
 # 2 Format
 
 ## 2.1 Wrong alignment setting
@@ -160,7 +166,9 @@ Advice: Change to (DALY: Disability-Adjusted Life Year)
 ## 2.4 Unreasonable bold type
 <img src="Bold.png" height="360">
 
-I have no idea why some characters are suddenly in the bold type.
+<img src="Bold2.png" height="180">
+
+I have no idea why some characters are suddenly in bold type.
 
 Advice: Remove their bold setting.
 
@@ -207,6 +215,11 @@ The resolution is too low to clearly show characters.
 
 Advice: Redraw this figure.
 
+<img src="Resolution2.png" height="480">
+The resolution is so low that there are zigzag patterns on those characters' edges.
+
+Advice: There are a few solutions. (1) Use LaTeX's TikZ package to draw a flow chart. (2) Export a PowerPoint slide into a very high-resolution raster image. Here is the [instruction](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/powerpoint/change-export-slide-resolution). (3) Export a PowerPoint slide into a PDF file, and include the PDF file in your LaTeX file.
+
 ## 5.2 Inadequate caption
 <img src="Caption.png" height="90">
 
@@ -251,6 +264,10 @@ Advice: Use simple present tense.
 
 The subordinate clause's subject is skipped. According to grammar, its subject is the same as the one of the main clause. As a result, the full sentence becomes "When the optimization objective trains a latent diffusion model, the optimization objective is ...", which is wrong because an optimization objective won't train a model. It is we, humans, who can train a model.
 
+<p>When <span class="highlight">combined</span> with transfer learning, performance improves dramatically from 25.21 dB with random initialization to 28.69 dB.</p>
+
+Performance won't be combined with transfer learning. This sentence is wrong.
+
 ## 6.5 Typo and missing verb
 <img src="Typo.png" height="60">
 
@@ -267,6 +284,10 @@ Advice: Use a writing assistant tool such as Grammarly or Writefull to scan the 
 Mask is countable so it should be "a mask".
 
 Advice: Use a writing assistant tool such as Grammarly or Writefull to scan the source LaTeX file.
+
+<p>Experimental results <span class="highlight">on jaCappella dataset</span> show that MP-HTDemucs achieves an average SI-SDRi of 28.69 dB on the test set. </p>
+
+It should be "on the jaCappella dataset".
 
 # 7 Table
 ## 7.1 Use image
