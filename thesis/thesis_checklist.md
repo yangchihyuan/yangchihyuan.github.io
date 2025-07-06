@@ -36,6 +36,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#51-resolution-too-low">5.1 Resolution too low</a></div>
 <div class="subsection"><a href="#52-inadequate-caption">5.2 Inadequate caption</a></div>
 <div class="subsection"><a href="#53-irrelevant-content">5.3 Irrelevant content</a></div>
+<div class="subsection"><a href="#54-inconsistent-mathematical-font">5.4 Inconsistent mathematical font</a></div>
 <div class="section"><a href="#6-grammar">6 Grammar</a></div>
 <div class="subsection"><a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a></div>
 <div class="subsection"><a href="#62-work-uncountable">6.2 Work uncountable</a></div>
@@ -216,6 +217,7 @@ The resolution is too low to clearly show characters.
 Advice: Redraw this figure.
 
 <img src="Resolution2.png" height="480">
+
 The resolution is so low that there are zigzag patterns on those characters' edges.
 
 Advice: There are a few solutions. (1) Use LaTeX's TikZ package to draw a flow chart. (2) Export a PowerPoint slide into a very high-resolution raster image. Here is the [instruction](https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/powerpoint/change-export-slide-resolution). (3) Export a PowerPoint slide into a PDF file, and include the PDF file in your LaTeX file.
@@ -231,6 +233,18 @@ The correct format should be 圖一：AI模型建構邏輯與流程圖。It is i
 The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40" alt="IrrelevantContent">is irrelevant.
 
 Advice: Remove it.
+
+## 5.4 Inconsistent mathematical font
+
+<img src="FigureFont.png" height="480">
+
+The font used in the source PowerPoint slide is Calibri, which is different from the regular math font in LaTeX equation: Italic Roman. As a results, it will make readers difficult to follow.
+
+Advice: If you want to use PowerPoint to create your flow charts, install a PowerPoint add-in IquanaTex, which allows you to create LaTeX equations in PowerPoint.
+
+<img src="IguanaTex.png" height="200">
+
+This is an example.
 
 
 # 6 Grammar
