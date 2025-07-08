@@ -26,7 +26,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#23-forget-to-explain-an-acronym">2.3 Forget to explain an acronym</a></div>
 <div class="subsection"><a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a></div>
 <div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
-<div class="subsection"><a href="#26-missing-parentheses-blank">Missing parentheses blank</a></div>
+<div class="subsection"><a href="#26-missing-parentheses-blank">2.6 Missing parentheses blank</a></div>
 <div class="section"><a href="#3-references">3 References</a></div>
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
