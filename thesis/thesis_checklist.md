@@ -51,7 +51,8 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#64-wrong-skipped-subject">6.4 Wrong skipped subject</a></div>
 <div class="subsection"><a href="#65-typo-and-missing-verb">6.5 Typo and missing verb</a></div>
 <div class="subsection"><a href="#66-missing-article">6.6 Missing article</a></div>
-<div class="subsection"><a href="#67-state-of-the-art">6.6 State-of-the-art</a></div>
+<div class="subsection"><a href="#67-state-of-the-art">6.7 State-of-the-art</a></div>
+<div class="subsection"><a href="#68-traditional">6.8 Traditional</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-use-image">7.1 Use image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
@@ -379,6 +380,12 @@ It should be "on the jaCappella dataset".
 
 This is wrong because state-of-the-art is an adjective rather than a noun. You can say "Comparison with State-of-the-art Methods".
 
+## 6.8 Traditional
+
+<p>Although <span class="highlight">traditional</span> CNNs performed well in computer vision, their fixed regular sampled grid restricts their...</p>
+<p><span class="highlight">Traditional</span> localization methods for moving vehicles, such as cars and drones rely on GPS satellites.</p>
+
+This is a Chinese native speaker problem because in Chinese the word traditional (傳統的) is a synonym of another word existing. However, in English their meanings are different. Traditional has two meanings (1) being part of the traditions of a country or group of people (特定國家或民族傳統的) (2) following ideas and methods that have existed for a long time, rather than doing anything new or different SYN conventional (遵循長久以來的想法或作法的，沒有任何新意或不同。同意詞：保守的). Both of them are different from existing.
 
 # 7 Table
 ## 7.1 Use image
