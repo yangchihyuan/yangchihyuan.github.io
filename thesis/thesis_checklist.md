@@ -393,7 +393,7 @@ This is wrong because state-of-the-art is an adjective rather than a noun. You c
 <p>Although <span class="highlight">traditional</span> CNNs performed well in computer vision, their fixed regular sampled grid restricts their...</p>
 <p><span class="highlight">Traditional</span> localization methods for moving vehicles, such as cars and drones rely on GPS satellites.</p>
 
-This is a common problem among Chinese native speakers because in Chinese the word traditional (傳統的) is a synonym of another word existing (現有的). However, in English their meanings are different. Traditional has two meanings: (1) being part of the traditions of a country or group of people (特定國家或民族傳統的) (2) following ideas and methods that have existed for a long time, rather than doing anything new or different SYN conventional (遵循長久以來的想法或作法的，不帶任何新意或不同。同意詞：保守的). Both of them are different from existing.
+This is a common problem among Chinese native speakers because in Chinese the word traditional (傳統的) is a synonym of those words: existing (現有的), standard (標準的), regular (一般的), common (常見的). However, in English their meanings are different. Traditional has two meanings: (1) being part of the traditions of a country or group of people (特定國家或民族傳統的) (2) following ideas and methods that have existed for a long time, rather than doing anything new or different SYN conventional (遵循長久以來的想法或作法的，不帶任何新意或不同。同意詞：保守的).
 
 # 7 Table
 ## 7.1 Use image
