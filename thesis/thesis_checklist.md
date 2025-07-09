@@ -157,6 +157,11 @@ The first set is a colon without a new line, and the second set is no colon with
 
 "Feature Importance" is each word capitalized, but "loss reduction" is in lowercase.
 
+<img src="InconsistentCase1.png" height="60">
+<img src="InconsistentCase2.png" height="60">
+
+2.1 is each word capitalized, but 2.5 is first word capitalized.
+
 ## 1.10 Inconsistent underline
 <img src="Underline.png" height="120">
 
