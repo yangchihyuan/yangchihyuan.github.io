@@ -34,6 +34,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
 <div class="subsection"><a href="#33-wrong-case">3.3 Wrong case</a></div>
 <div class="subsection"><a href="#34-missing-conference-or-journal">3.4 Missing conference or journal</a></div>
+<div class="subsection"><a href="#35-wrong-conference-name">3.5 Wrong conference name</a></div>
 <div class="section"><a href="#4-acronym">4 Acronym</a></div>
 <div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
 <div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
@@ -250,6 +251,12 @@ It is ActivityNet rather than Activitynet. Don't just export .bib files from a p
 <img src="MissingConferenceOrJournal.png" height="480">
 
 All the 6 items miss their conferences or journals. Don't just export .bib files from a paper portal use them. Those portals do not guarantee those .bib files are 100% correct. You need to manually check them.
+
+## 3.5 Wrong conference name
+<img src="WrongConferenceName.png" height="60">
+
+It should be "in Proceedings of European Conference on Computer Vision" rather than "in Computer Vision - ECCV 2006". The more formal expression is "in Proceedings of the 9th European Conference on Computer Vision".
+
 
 # 4 Acronym 
 
