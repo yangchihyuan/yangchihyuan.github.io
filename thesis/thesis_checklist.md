@@ -21,6 +21,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#19-inconsistent-case">1.9 Inconsistent case</a></div>
 <div class="subsection"><a href="#110-inconsistent-underline">1.10 Inconsistent underline</a></div>
 <div class="subsection"><a href="#111-inconsistent-bullet">1.11 Inconsistent bullet</a></div>
+<div class="subsection"><a href="#112-inconsistent-bold-type">1.12 Inconsistent bold type</a></div>
 <div class="section"><a href="#2-format">2 Format</a></div>
 <div class="subsection"><a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a></div>
 <div class="subsection"><a href="#22-improper-indentation">2.2 Improper indentation</a></div>
@@ -172,6 +173,9 @@ One DOI is underlined, but another is not.
 <img src="Bullet2.png" height="150">
 
 They should be the same.
+
+## 1.12 Inconsistent bold type
+<img src="InconsistentBoldType.png" height="200">
 
 # 2 Format
 
