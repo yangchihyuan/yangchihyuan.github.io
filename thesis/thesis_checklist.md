@@ -29,7 +29,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#24-unreasonable-bold-type">2.4 Unreasonable bold type</a></div>
 <div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
 <div class="subsection"><a href="#26-missing-parentheses-blank">2.6 Missing parentheses blank</a></div>
-<div class="subsection"><a href="#27-hanging-punctuation">2.7 Hanging Punctuation</a></div>
+<div class="subsection"><a href="#27-hanging-punctuation">2.7 Hanging punctuation</a></div>
 <div class="section"><a href="#3-references">3 References</a></div>
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
@@ -222,7 +222,7 @@ Advice: Make them shorter and consistent.
 
 This example shows a wrong format. In English sentences, there are always a blank before the left parenthesis and after the right parenthesis. 
 
-## 2.7 Hanging Punctuation
+## 2.7 Hanging punctuation
 
 <img src="HangingPunctuation.png" height="250">
 
