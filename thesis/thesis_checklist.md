@@ -33,6 +33,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
 <div class="subsection"><a href="#33-wrong-case">3.3 Wrong case</a></div>
+<div class="subsection"><a href="#34-missing-conference-or-journal">3.4 Missing conference or journal</a></div>
 <div class="section"><a href="#4-acronym">4 Acronym</a></div>
 <div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
 <div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
