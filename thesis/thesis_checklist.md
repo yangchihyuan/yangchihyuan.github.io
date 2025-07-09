@@ -20,6 +20,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#18-inconsistent-numbering-format">1.8 Inconsistent numbering format</a></div>
 <div class="subsection"><a href="#19-inconsistent-case">1.9 Inconsistent case</a></div>
 <div class="subsection"><a href="#110-inconsistent-underline">1.10 Inconsistent underline</a></div>
+<div class="subsection"><a href="#111-inconsistent-bullet">1.11 Inconsistent bullet</a></div>
 <div class="section"><a href="#2-format">2 Format</a></div>
 <div class="subsection"><a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a></div>
 <div class="subsection"><a href="#22-improper-indentation">2.2 Improper indentation</a></div>
@@ -31,6 +32,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#3-references">3 References</a></div>
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
+<div class="subsection"><a href="#33-wrong-case">3.3 Wrong case</a></div>
 <div class="section"><a href="#4-acronym">4 Acronym</a></div>
 <div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
 <div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
@@ -39,6 +41,9 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#52-inadequate-caption">5.2 Inadequate caption</a></div>
 <div class="subsection"><a href="#53-irrelevant-content">5.3 Irrelevant content</a></div>
 <div class="subsection"><a href="#54-inconsistent-mathematical-font">5.4 Inconsistent mathematical font</a></div>
+<div class="subsection"><a href="#55-text-too-small">5.5 Text too small</a></div>
+<div class="subsection"><a href="#56-text-too-large">5.6 Text too large</a></div>
+<div class="subsection"><a href="#57-unnecessary-colon">5.7 Unnecessary colon</a></div>
 <div class="section"><a href="#6-grammar">6 Grammar</a></div>
 <div class="subsection"><a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a></div>
 <div class="subsection"><a href="#62-work-uncountable">6.2 Work uncountable</a></div>
@@ -46,10 +51,16 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#64-wrong-skipped-subject">6.4 Wrong skipped subject</a></div>
 <div class="subsection"><a href="#65-typo-and-missing-verb">6.5 Typo and missing verb</a></div>
 <div class="subsection"><a href="#66-missing-article">6.6 Missing article</a></div>
+<div class="subsection"><a href="#67-state-of-the-art">6.6 State-of-the-art</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-use-image">7.1 Use image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
-<div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
+<div class="subsection"><a href="#73-inconsistent-decimal-places">7.3 Inconsistent decimal places</a><div>
+<div class="subsection"><a href="#74-improper-shading">7.4 Improper shading</a><div>
+<div class="subsection"><a href="#75-exceed-margin">7.5 Exceed margin</a><div>
+<div class="subsection"><a href="#76-unreasonably-wide-space">7.6 Unreasonably wide space</a><div>
+<div class="subsection"><a href="#77-numbers-not-aligned">7.7 Numbers not aligned</a><div>
+<div class="subsection"><a href="<div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
 <div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
 <div class="section"><a href="#9-equation">9 Equation</a></div>
 <div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
@@ -115,6 +126,7 @@ The fonts of 2.5 and 1. 2. are different.
 Advice: Unless you want to emphasize something different, use the same font.
 
 ## 1.8 Inconsistent numbering format
+### 1.8.1 Number format
 <img src="Numbering1.png" height="210">
 <img src="Numbering2.png" height="210">
 
@@ -122,15 +134,20 @@ The two paragraphs are consecutive, but their numbering formats are different.
 
 Advice: Make them consistent.
 
+### 1.8.2 Arabic and Roman numerals 
 <img src="Numbering3.png" height="120">
 <img src="Numbering4.png" height="30">
 
 It is inconsistent for GOLD 1 2 3 4 and GOLD II III.
 
+### 1.8.3 Chinese and Arabic numerals
 <img src="InconsistentNumber.png" height="60">
 
 It is better to use the Chinese number 六 rather than the Arabic number 6.
 
+### 1.8.4 New line format
+<img src="Newline.png" height="500">
+The first set is a colon without a new line, and the second set is no colon with a new line.
 
 ## 1.9 Inconsistent case
 <img src="Case.png" height="240">
@@ -142,8 +159,11 @@ It is better to use the Chinese number 六 rather than the Arabic number 6.
 
 One DOI is underlined, but another is not.
 
-## 1.11 Inconsistent bold type
+## 1.11 Inconsistent bullet
+<img src="Bullet1.png" height="120">
+<img src="Bullet2.png" height="150">
 
+They should be the same.
 
 # 2 Format
 
@@ -219,12 +239,26 @@ All author names are wrong.
 
 It is impossible to have double periods at the end.
 
+## 3.3 Wrong case
+<img src="ReferenceCase.png" height="120">
+
+It is ActivityNet rather than Activitynet. Don't just export .bib files from a paper portal use them. Those portals do not guarantee those .bib files are 100% correct.
+
+## 3.4 Missing conference or journal
+<img src="MissingConferenceOrJournal.png" height="480">
+
+All the 6 items miss their conferences or journals. Don't just export .bib files from a paper portal use them. Those portals do not guarantee those .bib files are 100% correct. You need to manually check them.
+
 # 4 Acronym 
 
 ## 4.1 Incorrect case 
 <img src="Acronym1.png" height="30">
 
 It should be DOSE.
+
+<img src="Acronym3.png" height="60">
+
+The a should be in lower case because the letter A is not a part of the acronym.
 
 ## 4.2 Incorrect full name location
 <img src="Acronym2.png" height="120">
@@ -258,7 +292,6 @@ The icon at the bottom right corner <img src="IrrelevantContent2.png" height="40
 Advice: Remove it.
 
 ## 5.4 Inconsistent mathematical font
-
 <img src="FigureFont.png" height="480">
 
 The font used in the source PowerPoint slide is Calibri, which is different from the regular math font in LaTeX equation: Italic Roman. As a results, it will make readers difficult to follow.
@@ -269,6 +302,21 @@ Advice: If you want to use PowerPoint to create your flow charts, install a Powe
 
 This is an example.
 
+## 5.5 Text too small
+<img src="TextTooSmall.png" height="200">
+
+Rule of thumb: The character size in a figure should be as large as the one in the manuscript or the caption. Thus, the reader can easily read those characters.
+
+## 5.6 Text too large
+<img src="TextTooLarge.png" height="200">
+
+Similar as 5.5.
+
+## 5.7 Unnecessary colon
+<img src="UnnecessaryColon1.png" height="20">
+<img src="UnnecessaryColon2.png" height="30">
+
+Those colons are unnecessary. You should remove them.
 
 # 6 Grammar
 ## 6.1 Ambiguous relative pronoun which
@@ -326,6 +374,12 @@ Advice: Use a writing assistant tool such as Grammarly or Writefull to scan the 
 
 It should be "on the jaCappella dataset".
 
+## 6.7 State-of-the-art
+<img src="StateOfTheArt.png" height="20">
+
+This is wrong because state-of-the-art is an adjective rather than a noun. You can say "Comparison with State-of-the-art Methods".
+
+
 # 7 Table
 ## 7.1 Use image
 <img src="Table1.png" height="200">
@@ -340,6 +394,24 @@ The font size in the table is obviously larger than the one of the regular manus
 
 Advice: Keep the font size in a table as large as the one of the regular manuscript.
 
+## 7.3 Inconsistent decimal places
+<img src="InconsistentDecimalPlaces.png" height="350">
+
+It is ugly. Please add 00 after the first place or round the three places into a single place. You had better make then consistent.
+
+## 7.4 Improper shading
+<img src="Shading.png" height="350">
+
+The shading removes the original vertical and horizontal lines and makes this table difficult to read.
+
+## 7.5 Exceed margin
+<img src="Margin.png" height="350">
+
+## 7.6 Unreasonably wide space
+<img src="WideSpace.png" height="350">
+
+## 7.7 Numbers not aligned
+<img src="NumberNotAligned.png" height="350">
 
 # 8 Improper translation
 ## 8.1 Limitation of translation software
