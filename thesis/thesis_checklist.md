@@ -58,11 +58,11 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-use-image">7.1 Use image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
-<div class="subsection"><a href="#73-inconsistent-decimal-places">7.3 Inconsistent decimal places</a><div>
-<div class="subsection"><a href="#74-improper-shading">7.4 Improper shading</a><div>
-<div class="subsection"><a href="#75-exceed-margin">7.5 Exceed margin</a><div>
-<div class="subsection"><a href="#76-unreasonably-wide-space">7.6 Unreasonably wide space</a><div>
-<div class="subsection"><a href="#77-numbers-not-aligned">7.7 Numbers not aligned</a><div>
+<div class="subsection"><a href="#73-inconsistent-decimal-places">7.3 Inconsistent decimal places</a></div>
+<div class="subsection"><a href="#74-improper-shading">7.4 Improper shading</a></div>
+<div class="subsection"><a href="#75-exceed-margin">7.5 Exceed margin</a></div>
+<div class="subsection"><a href="#76-unreasonably-wide-space">7.6 Unreasonably wide space</a></div>
+<div class="subsection"><a href="#77-numbers-not-aligned">7.7 Numbers not aligned</a></div>
 <div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
 <div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
 <div class="section"><a href="#9-equation">9 Equation</a></div>
