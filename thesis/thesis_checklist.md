@@ -63,7 +63,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#75-exceed-margin">7.5 Exceed margin</a><div>
 <div class="subsection"><a href="#76-unreasonably-wide-space">7.6 Unreasonably wide space</a><div>
 <div class="subsection"><a href="#77-numbers-not-aligned">7.7 Numbers not aligned</a><div>
-<div class="subsection"><a href="<div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
+<div class="section"><a href="#8-improper-translation">8 Improper translation</a></div>
 <div class="subsection"><a href="#81-limitation-of-translation-software">8.1 Limitation of translation software</a></div>
 <div class="section"><a href="#9-equation">9 Equation</a></div>
 <div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
