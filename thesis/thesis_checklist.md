@@ -468,6 +468,15 @@ This is the revised expression. I highlight the difference in red.
 <img src="EquationEndPeriod.png" height="150">
 There should be a period at the end of an equation because an equation is part of the a sentence, which ends at a period.
 
+The equation in the screenshot below is incorrect.
+
+<img src="Equation4.png" height="200">
+
+Equations are part of a sentence so we should say "Let ....", add an "and" and ",", remove the indentation, and use the symbol = rather than :=.
+
+<img src="Equation5.png" height="200">
+
+
 ## 9.2 Exceed right margin
 <img src="Equation3.png" height="200">
 
