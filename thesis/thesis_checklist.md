@@ -36,6 +36,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#33-wrong-case">3.3 Wrong case</a></div>
 <div class="subsection"><a href="#34-missing-conference-or-journal">3.4 Missing conference or journal</a></div>
 <div class="subsection"><a href="#35-wrong-conference-name">3.5 Wrong conference name</a></div>
+<div class="subsection"><a href="#36-missing-blank-before-number">3.6 Missing blank before number</a></div>
 <div class="section"><a href="#4-acronym">4 Acronym</a></div>
 <div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
 <div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
@@ -46,7 +47,6 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#54-inconsistent-mathematical-font">5.4 Inconsistent mathematical font</a></div>
 <div class="subsection"><a href="#55-text-too-small">5.5 Text too small</a></div>
 <div class="subsection"><a href="#56-text-too-large">5.6 Text too large</a></div>
-<div class="subsection"><a href="#57-unnecessary-colon">5.7 Unnecessary colon</a></div>
 <div class="section"><a href="#6-grammar">6 Grammar</a></div>
 <div class="subsection"><a href="#61-ambiguous-relative-pronoun-which">6.1 Ambiguous relative pronoun which</a></div>
 <div class="subsection"><a href="#62-work-uncountable">6.2 Work uncountable</a></div>
@@ -266,6 +266,16 @@ All the 6 items miss their conferences or journals. Don't just export .bib files
 
 It should be "in Proceedings of European Conference on Computer Vision" rather than "in Computer Vision - ECCV 2006". The more formal expression is "in Proceedings of the 9th European Conference on Computer Vision".
 
+## 3.6 Missing blank before number
+<img src="MissingBlankBeforeNumber1.png" height="80">
+
+This is incorrect. In LaTeX, it is caused by forgetting a tilde ~.
+
+<img src="MissingBlankBeforeNumber3.png" height="300">
+
+<img src="MissingBlankBeforeNumber2.png" height="30">
+
+This is correct.
 
 # 4 Acronym 
 
@@ -329,12 +339,6 @@ Rule of thumb: The character size in a figure should be as large as the one in t
 <img src="TextTooLarge.png" height="200">
 
 Similar as 5.5.
-
-## 5.7 Unnecessary colon
-<img src="UnnecessaryColon1.png" height="20">
-<img src="UnnecessaryColon2.png" height="30">
-
-Those colons are unnecessary. You should remove them.
 
 # 6 Grammar
 ## 6.1 Ambiguous relative pronoun which
