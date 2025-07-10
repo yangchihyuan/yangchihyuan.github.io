@@ -472,9 +472,9 @@ The equation in the screenshot below is incorrect.
 
 <img src="Equation4.png" height="200">
 
-Equations are part of a sentence so we should say "Let ....", add an "and" and ",", remove the indentation, and use the symbol = rather than :=.
+Equations are part of a sentence so we should say "Let ....", add an "and" and ",", remove the indentation, and use the symbol = rather than :=. In addition, every equation should have its own number, so we need to separate the two equations from a single line into two lines.
 
-<img src="Equation5.png" height="200">
+<img src="Equation5.png" height="300">
 
 
 ## 9.2 Exceed right margin
