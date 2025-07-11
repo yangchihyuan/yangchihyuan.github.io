@@ -486,3 +486,9 @@ Advice: Separate the equation into two lines. Here is the [Overleaf example](htt
 <img src="Colon.png" height="90">
 
 The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
+
+# 10 colon
+<img src="MisuseColon.png" height="270">
+The colon punctuation introduces appositives rather than three sentences. Thus, the first colon should be replaced by a period. The second colon breaks the sentence, which is incorrect, and the colon should be removed. The third colon is weird because there is no verb in the sentence.
+The fourth colon's problem is the same as the second colon.
+
