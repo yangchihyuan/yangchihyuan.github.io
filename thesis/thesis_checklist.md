@@ -350,10 +350,11 @@ The author uses the which to infer to the main clause, but the which occurs afte
 <p>Chapter 2 provides a review of related research <span class="highlight">works</span>.</p>
 <p>Recent <span class="highlight">works</span> have explored the use of LoRA [15] for this purpose by training two distinct low-rank adaptation modules: a style LoRA and a content LoRA.</p>
 <p>Prior <span class="highlight">works</span> [36, 39] have shown that attention maps naturally capture object layouts in an image.</p>
+<p>A pioneering one-stage training-based ZS-TAL <span class="highlight">work</span> is STALE [25], which jointly performs proposal generation and classification through parallel branches.</p>
 
-All the three sentences are wrong. Work is countable only for "something such as a painting, play, piece of music etc that is produced by a painter, writer, or musician".
+All the sentences are wrong. Work is countable only for "something such as a painting, play, piece of music etc that is produced by a painter, writer, or musician".
 
-Advice: If you want to use a countable noun, use study.
+Advice: If you want to use a countable noun, consider study or method.
 
 ## 6.3 Tense
 <p>Given that there are multiple cross-attention layers in Latent Diffusion Models with different resolutions (i.e. 64, 32, 16, 8), we <span class="highlight">will</span> focus on the resolution 16 layer which has been proven to contains the most semantic information. [1, 4, 13] </p>
