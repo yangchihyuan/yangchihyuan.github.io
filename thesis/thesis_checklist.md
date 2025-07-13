@@ -366,6 +366,12 @@ The continuous tense is meaningless.
 
 Advice: Use simple present tense.
 
+<p>A representative method that <span class="highlight">initiated</span> two-stage training-based ZS-TAL is EffPrompt [9], which adopts off-the-shelf detectors such as AFSD [17] and A2Net [36] for proposal generation, and then efficiently adapts CLIP to downstream video understanding tasks through prompting strategies for proposal classification.</p>
+
+The past tense in this sentence is not wrong, but unnecessary.
+
+Advice: It is enough to just use simple present tense.
+
 ## 6.4 Wrong skipped subject
 <p>When <span class="highlight">training</span> a latent diffusion model, the optimization objective is ...</p>
 
