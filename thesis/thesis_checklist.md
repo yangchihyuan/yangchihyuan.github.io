@@ -69,7 +69,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="section"><a href="#9-equation">9 Equation</a></div>
 <div class="subsection"><a href="#91-fail-to-treat-equations-as-phrases">9.1 Fail to treat equations as phrases</a></div>
 <div class="subsection"><a href="#92-exceed-right-margin">9.2 Exceed right margin</a></div>
-<div class="subsection"><a href="#93-incorrect-colon">9.3 Incorrect colon</a></div>
+<div class="section"><a href="#10-colon">10 colon</a></div>
 
 # 1 Inconsistency
 
@@ -489,13 +489,54 @@ Equations are part of a sentence so we should say "Let ....", add an "and" and "
 
 Advice: Separate the equation into two lines. Here is the [Overleaf example](https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath).
 
-## 9.3 Incorrect colon
+# 10 colon
+According to *The little, Brown handbook (8th edition)*, the correct ways to use colons are
+
+1. Use a colon to introduce a concluding explanation, series, appositive, or long or formal quotation.
+2. Use a colon to separate titles and subtitles and the subdivisions of times.
+3. Use the colon only where required.
+
+While writing a thesis, the most casts you will encounter is the case 1. Here are the examples copied from *The little, Brown handbook (8th edition)*.
+
+Explanation 
+
+* Soul food is a varied cuisine: it include spicy gumbos, black-eyed peas, and collard greens.
+* Soul food has a deceptively simple definition: the ethnic cooking of African Americans.
+
+Sometimes a concluding explanation is preceded by *the following* or *as follows* add a colon:
+
+* A more precise definition might be the following: ingredients, cooking methods, and dishes originating in Africa, brought to the New World by black slaves, and modified or supplemented in the Caribbean and the American South.
+
+Series
+
+* At least the soul food dishes are familiar to most Americans: fried chicken, barbecued spareribs, and sweet potatoes.
+
+Appositive
+
+* Soul food has one disadvantage: fat.
+
+Certain expressions commonly introduce appositives, such as *namely* and *that is*. These expressions should *follow* the colon:
+
+* Soul food has one disadvantage: namely, fat.
+
+Long or formal quotation
+
+* One soul food chef has a solution: "Soul food doesn't have to be greasy to taste good. Instead of using ham hocks to flavor beans, I use smoked turkey wings. The soulful, smoky taste remains, but without all of the fat or pork."
+
+After knowing the instructions to use colons, let us see some counterexamples.
+
 <img src="Colon.png" height="90">
 
 The equation is part of the sentence. We need to treat as a sentence so there should be no colon.
 
-# 10 colon
-<img src="MisuseColon.png" height="270">
-The colon punctuation introduces appositives rather than three sentences. Thus, the first colon should be replaced by a period. The second colon breaks the sentence, which is incorrect, and the colon should be removed. The third colon is weird because there is no verb in the sentence.
-The fourth colon's problem is the same as the second colon.
+<img src="Colon2.png" height="270">
 
+The author uses the first colon to introduce a series of the three datasets, but he write the series as three sentences, which is wrong. Thus, one solution is to replace the the first colon with a period, and then the following three sentences make sense. The colons in the three sentences are wrong because they do not match any aforementioned instruction. One solution is to remove the colons in the first and third sentences and and replace the colon in the second sentence with "is".
+
+<img src="Colon4.png" height="270">
+
+<img src="Colon1.png">
+
+The colon at the end is unnecessary. It breaks the sentence into two disconnected pieces thereby preventing the equation from following its verb obtain, which is improper. The correct expression should be 
+
+![Colon3](Colon3.png)
