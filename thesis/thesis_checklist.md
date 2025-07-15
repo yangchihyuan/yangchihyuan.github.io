@@ -56,6 +56,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#66-missing-article">6.6 Missing article</a></div>
 <div class="subsection"><a href="#67-state-of-the-art">6.7 State-of-the-art</a></div>
 <div class="subsection"><a href="#68-traditional">6.8 Traditional</a></div>
+<div class="subsection"><a href="#69-previous">6.9 Previous</a></div>
 <div class="section"><a href="#7-table">7 Table</a></div>
 <div class="subsection"><a href="#71-use-image">7.1 Use image</a></div>
 <div class="subsection"><a href="#72-font-size-too-large">7.2 Font size too large</a></div>
@@ -413,7 +414,22 @@ This is wrong because state-of-the-art is an adjective rather than a noun. You c
 <p>Although <span class="highlight">traditional</span> CNNs performed well in computer vision, their fixed regular sampled grid restricts their...</p>
 <p><span class="highlight">Traditional</span> localization methods for moving vehicles, such as cars and drones rely on GPS satellites.</p>
 
-This is a common problem among Chinese native speakers because in Chinese the word traditional (傳統的) is a synonym of those words: existing (現有的), standard (標準的), regular (一般的), common (常見的), widely used (常用的). However, in English, traditional only has two meanings: (1) being part of the traditions of a country or group of people (特定國家或民族傳統的) (2) following ideas and methods that have existed for a long time, rather than doing anything new or different SYN conventional (遵循長久以來的想法或作法的，不帶任何新意或不同。同意詞：保守的). In a technical thesis, you rarely see the word traditional.
+This is a common problem among Chinese native speakers because in Chinese the word traditional (傳統的) is a synonym of those words: existing (現有的), standard (標準的), regular (一般的), common (常見的), typical (典型的), widely used (常用的). However, in English, traditional only has two meanings: (1) being part of the traditions of a country or group of people (特定國家或民族傳統的) (2) following ideas and methods that have existed for a long time, rather than doing anything new or different SYN conventional (遵循長久以來的想法或作法的，不帶任何新意或不同。同意詞：保守的). In a technical thesis, you rarely see the word traditional.
+
+## 6.9 Previous
+
+<p>For data preparation, to ensure fair comparison with <span class="highlight">previous</span> work [3, 9, 25], we adopt the visual encoder from pre-trained CLIP [28] (ViT-B/16) to extract video features with per-timestep feature dimension C = 512.</p>
+
+This is also a common problem among Chinese native speakers because "previous" is usually translated into the Chinese adjective 之前的. However, its precise Chinese translation should be 前任的 or 前次的 because its English definition and examples are (copied from *Longman Dictionary of Contemporary English Online*)
+
+*having happened or existed before the event, time, or thing that you are talking about now*
+
+- I’ve met him before on two previous occasions.
+- She has two children from a previous marriage.
+- Do you have any previous experience of this type of work?
+- The lawyer told the judge that Kennedy had no previous convictions.
+
+Thus, there is a semantic problem to use the term "previous work". It means that [3, 9, 25] are your methods, so you can describe them "previous". However, they are not. The solution is easy. Just replace the adjective "previous" with "existing" or "state-of-the-art", and replace "work" with "methods". There will be no problem.
 
 # 7 Table
 ## 7.1 Use image
@@ -475,6 +491,12 @@ This is the revised expression. I highlight the difference in red.
 <img src="EquationEndPeriod.png" height="150">
 There should be a period at the end of an equation because an equation is part of the a sentence, which ends at a period.
 
+## 9.2 Exceed right margin
+<img src="Equation3.png" height="200">
+
+Advice: Separate the equation into two lines. Here is the [Overleaf example](https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath).
+
+## 9.3 Share equation number
 The equation in the screenshot below is incorrect.
 
 <img src="Equation4.png" height="200">
@@ -483,11 +505,13 @@ Equations are part of a sentence so we should say "Let ....", add an "and" and "
 
 <img src="Equation5.png" height="300">
 
+This is an improper equation expression
 
-## 9.2 Exceed right margin
-<img src="Equation3.png" height="200">
+![Equation6](Equation6.png)
 
-Advice: Separate the equation into two lines. Here is the [Overleaf example](https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath).
+This is the revised one
+
+![Equation7](Equation7.png)
 
 # 10 colon
 According to *The little, Brown handbook (8th edition)*, the correct ways to use colons are
