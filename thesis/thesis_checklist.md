@@ -496,14 +496,14 @@ According to *The little, Brown handbook (8th edition)*, the correct ways to use
 2. Use a colon to separate titles and subtitles and the subdivisions of times.
 3. Use the colon only where required.
 
-While writing a thesis, the most casts you will encounter is the case 1. Here are the examples copied from *The little, Brown handbook (8th edition)*.
+While writing a thesis, the colons you may misuse mostly belong to case 1. Here are the correct examples copied from *The little, Brown handbook (8th edition)*.
 
 Explanation 
 
 * Soul food is a varied cuisine: it include spicy gumbos, black-eyed peas, and collard greens.
 * Soul food has a deceptively simple definition: the ethnic cooking of African Americans.
 
-Sometimes a concluding explanation is preceded by *the following* or *as follows* add a colon:
+Sometimes a concluding explanation is preceded by *the following* or *as follows* and a colon:
 
 * A more precise definition might be the following: ingredients, cooking methods, and dishes originating in Africa, brought to the New World by black slaves, and modified or supplemented in the Caribbean and the American South.
 
@@ -523,7 +523,7 @@ Long or formal quotation
 
 * One soul food chef has a solution: "Soul food doesn't have to be greasy to taste good. Instead of using ham hocks to flavor beans, I use smoked turkey wings. The soulful, smoky taste remains, but without all of the fat or pork."
 
-After knowing the instructions to use colons, let us see some counterexamples.
+After knowing the instructions to use colons, let's see some counterexamples.
 
 <img src="Colon.png" height="90">
 
