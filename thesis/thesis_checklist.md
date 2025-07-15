@@ -418,7 +418,7 @@ This is a common problem among Chinese native speakers because in Chinese the wo
 
 ## 6.9 Previous
 
-<p>For data preparation, to ensure fair comparison with <span class="highlight">previous</span> work [3, 9, 25], we adopt the visual encoder from pre-trained CLIP [28] (ViT-B/16) to extract video features with per-timestep feature dimension C = 512.</p>
+<p>For data preparation, to ensure fair comparison with <span class="highlight">previous</span> methods [3, 9, 25], we adopt the visual encoder from pre-trained CLIP [28] (ViT-B/16) to extract video features with per-timestep feature dimension C = 512.</p>
 
 This is also a common problem among Chinese native speakers because "previous" is usually translated into the Chinese adjective 之前的. However, its precise Chinese translation should be 前任的 or 前次的 because its English definition and examples are (copied from *Longman Dictionary of Contemporary English Online*)
 
@@ -429,7 +429,7 @@ This is also a common problem among Chinese native speakers because "previous" i
 - Do you have any previous experience of this type of work?
 - The lawyer told the judge that Kennedy had no previous convictions.
 
-Thus, there is a semantic problem to use the term "previous work". It means that [3, 9, 25] are your methods, so you can describe them "previous". However, they are not. The solution is easy. Just replace the adjective "previous" with "existing" or "state-of-the-art", and replace "work" with "methods". There will be no problem.
+Thus, there is a semantic problem to use the term "previous methods". It means that [3, 9, 25] are your methods, so you can describe them "previous". However, they are not. The solution is easy. Just replace the adjective "previous" with "existing" or "state-of-the-art", and there will be no problem.
 
 # 7 Table
 ## 7.1 Use image
