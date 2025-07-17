@@ -51,6 +51,7 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
 
 #### <center>Alumni</center>
+
 | ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|
 |:---:|
 |Brian Liu|
