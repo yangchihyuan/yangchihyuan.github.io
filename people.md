@@ -18,11 +18,11 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 
 #### <center>Master's Students</center>
 
-| ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri.png)|
+|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri.png)|
 |:---:|:---:|:---:|:---:|
-|Brian Liu|Wayne Tsai|Eric Lu|Kan Tippayamontri|
-|劉冠亨|蔡承原|盧睿霆|กานต์ ทิพยมนตรี|
-|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Lu)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|
+|Wayne Tsai|Eric Lu|Kan Tippayamontri|
+|蔡承原|盧睿霆|กานต์ ทิพยมนตรี|
+|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Lu)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|
 
 <p></p>
 
@@ -49,3 +49,10 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |Mohamed Elsayed|Rachael Zehrung|
 |محمد السيد||
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
+
+#### <center>Alumni</center>
+| ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|
+|:---:|
+|Brian Liu|
+|劉冠亨|
+|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|
