@@ -236,6 +236,8 @@ Solution: uncheck the highlighted item in Microsoft Word.
 
 # 3 References
 
+Don't just copy Google Scholar or IEEE Xplore .bib files, which should be used as a hint because they are not well organized. You should manually modify every .bib file you use to ensure they are consistently and properly formatted.
+
 This is an example of a well formatted references. Extracted from Luo L, Li J, Lian S, Zeng X, Sun L, Li C, Huang D, Zhang W. Using machine learning approaches to predict high-cost chronic obstructive pulmonary disease patients in China. Health Informatics J. 2020 Sep;26(3):1577-1598. doi: 10.1177/1460458219881335.
 <img src="GoodReferences1.png" width="1000"> <br/>
 <img src="GoodReferences2.png" width="1000">
