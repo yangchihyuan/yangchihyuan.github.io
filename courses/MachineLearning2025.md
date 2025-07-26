@@ -78,6 +78,8 @@ Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
 這本書非常新，很值得一讀。訂價新台幣1200元，跟書的厚度成正比。內容非常的廣泛，一章涵蓋一個機器學習的大主題、著名資料集、演算法、工具、並給予很多Python指令來說明如何處理資料和應用演算法。這本書非常的實務，但不給數學式的推導，直接給結果方程式。如果要理解公式是怎麼來的，最好搭配Bishop的書讀。
 - Fundamentals of machine learning for predictive data analytics 2/e by John D. Kelleher et al. (2020)<br/>
 校圖有電子版，可線上看(一次限一人)，可下載(一次限100頁)。這本書從應用面出發，相當白話，數學不多。</br>
+- 初探機器學習演算法 (原文書名：Machine Learning Algorithms) Guiseppe Bonaccorso著，頼屹民譯 (繁中出版年：2017) 校園有 <br/>
+這本書涵蓋的面很廣，前10章內容跟我們的課本重疊，但壓抑了很多數學，只講比較直觀、比較淺白的想法，好處也在種淺白的內容設計，讓進入障礙比較低，可以當成是讀我們課本前的導讀內容。
 
 #### 其他參考書籍(雜亂、不適合拿來作教科書，但或許另有用處)
 - 機器學習 使用Python 徐偉智 編著 2023年 全華出版，校圖有。<br/>
