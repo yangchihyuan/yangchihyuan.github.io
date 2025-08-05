@@ -44,11 +44,11 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 
 #### <center>Visiting Students</center>
 
-| ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|
-|:---:|:---:|
-|Mohamed Elsayed|Rachael Zehrung|
-|محمد السيد||
-|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
+|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|
+|:---:|
+|Rachael Zehrung|
+||
+|[Personal Page](https://www.rzehrung.name/)|
 
 #### <center>Alumni</center>
 
@@ -57,3 +57,11 @@ If you apply in the 2nd session (Late-February to Late-April), the only type of 
 |Brian Liu|
 |劉冠亨|
 |[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|
+
+#### <center>Former Visiting Students</center>
+
+| ![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|
+|:---:|
+|Mohamed Elsayed|
+|محمد السيد|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|
