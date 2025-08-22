@@ -20,6 +20,7 @@ people:
 - {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: 'assets/img/Eric_Chen.jpg', description: 'Project of Zenbo Nurse Helper', url: 'Eric_Chen'}
 
 courses:
+- {name: '電腦視覺實務與深度學習', url: 'cv2025Fall'}
 - {name: '機器學習 (Machine Learning) 2025', url: 'MachineLearning2025'}
 - {name: '生成式AI：文字與圖像生成的原理與實務 (Generative AI: Text and Image Synthesis Principles and Practice) 2025', url: 'GenerativeAI2025'}
 - {name: 'Survey of Intelligent Technologies 2024', url: 'SurveyOfIntelligentTechnologies2024'}
