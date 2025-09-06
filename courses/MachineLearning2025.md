@@ -25,7 +25,7 @@ title: "機器學習 2025"
 
 |週次|日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
-|1   |9/5   | 簡介                      | [PPT](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Eao7aYyaZwpGiqc5awLohIMB1qC-JdBfD2hG-j6k93nTiw?e=PVw1Lk)           |            |          |
+|1   |9/5   | 簡介                      | [PPT](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Eao7aYyaZwpGiqc5awLohIMB1qC-JdBfD2hG-j6k93nTiw?e=PVw1Lk)           | [YouTube](https://youtu.be/dxdpIHEDFiY)           |          |
 |2   |9/12  | 機率分佈                  |            |            |          |
 |3   |9/19  | 線性的迴歸模型             |            |            |          |
 |4   |9/26  | 線性的分類模型            |           |            |         |
