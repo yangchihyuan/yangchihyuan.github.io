@@ -25,10 +25,10 @@ title: "機器學習 2025"
 
 |週次|日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
-|1   |9/5   | 簡介                      | [PPT](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Eao7aYyaZwpGiqc5awLohIMB1qC-JdBfD2hG-j6k93nTiw?e=PVw1Lk)           | [YouTube](https://youtu.be/dxdpIHEDFiY)           |          |
-|2   |9/12  | 機率分佈                  | [PPT](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbhhaKcntENLqc42AUrZsNsBfHVR9BnvKPgo1ClCFXnVrA?e=wNvedA)           | [YouTube](https://youtu.be/fdfz-FGBSZM)           |          |
-|3   |9/19  | 線性的迴歸模型             | [PPT](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZsNevDbZJtLpa1D9fpot6cBp5BsS0lXcj-Tv9RnGD9GQA?e=FCB97o)           | [YouTube](https://youtu.be/_X4LoXLYU98)            |          |
-|4   |9/26  | 線性的分類模型            |           |            |         |
+|1   |9/5   | 簡介                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/Eao7aYyaZwpGiqc5awLohIMB1qC-JdBfD2hG-j6k93nTiw?e=PVw1Lk)           | [YouTube](https://youtu.be/dxdpIHEDFiY)           |          |
+|2   |9/12  | 機率分佈                  | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EbhhaKcntENLqc42AUrZsNsBfHVR9BnvKPgo1ClCFXnVrA?e=wNvedA)           | [YouTube](https://youtu.be/fdfz-FGBSZM)           |          |
+|3   |9/19  | 線性的迴歸模型             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EZsNevDbZJtLpa1D9fpot6cBp5BsS0lXcj-Tv9RnGD9GQA?e=FCB97o)           | [YouTube](https://youtu.be/_X4LoXLYU98)            |          |
+|4   |9/26  | 線性的分類模型            | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EdsrwFMo73NEpiq2YKxOiPIBhTUyTlBuVXW_LuG3h1mwoA?e=cGz0YS)          |            |         |
 |5   |10/3  | 神經網路                  |          |             |          |
 |6   |10/10 |                          |           |            | 國慶日放假         |
 |7   |10/17 | 核方法、支持向量機1        |            |            |          |
