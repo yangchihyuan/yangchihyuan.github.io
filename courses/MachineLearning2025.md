@@ -29,7 +29,7 @@ title: "機器學習 2025"
 |2   |9/12  | 機率分佈                  | [pptx](https://www.dropbox.com/scl/fi/3f7lm4ve6xszs4ri445vi/02.pptx?rlkey=1h7vo2x2u2h4vo3fqo4df1q18&st=l094u5y9&dl=0)           | [YouTube](https://youtu.be/fdfz-FGBSZM)           |          |
 |3   |9/19  | 線性的迴歸模型             | [pptx](https://www.dropbox.com/scl/fi/h6rap49fvsij7dx5h3c6x/03.pptx?rlkey=s1wguo5zpit374t1inglvvg7k&st=3fit2xct&dl=0)           | [YouTube](https://youtu.be/_X4LoXLYU98)            |          |
 |4   |9/26  | 線性的分類模型            | [pptx](https://www.dropbox.com/scl/fi/jyz1kpnv92dv7qli619x8/04.pptx?rlkey=lz6e0wkt9tfqim79nuvofu0h7&st=b3hs55no&dl=0)          | [YouTube](https://youtu.be/7LB0Kcsizdg)           |         |
-|5   |10/3  | 神經網路                  | [pptx](https://www.dropbox.com/scl/fi/7tnwvtevzjc620g04ps4x/05.pptx?rlkey=6yvgx8q0b4vnpjr4ftxinmnws&st=0raudru7&dl=0)         |             |          |
+|5   |10/3  | 神經網路                  | [pptx](https://www.dropbox.com/scl/fi/7tnwvtevzjc620g04ps4x/05.pptx?rlkey=6yvgx8q0b4vnpjr4ftxinmnws&st=0raudru7&dl=0)         | [YouTube](https://youtu.be/CyABIHDNJ_0)            |          |
 |6   |10/10 |                          |           |            | 國慶日放假         |
 |7   |10/17 | 核方法、支持向量機1        |            |            |          |
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
