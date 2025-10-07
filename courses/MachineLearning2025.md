@@ -44,6 +44,19 @@ title: "機器學習 2025"
 
 <br/>
 
+#### 高品質作業報告
+
+範例1,2,3是由學號決定的，都是高品質作業報告，並非名次。
+
+|作業|題目                          |高品質範例1                  |高品質範例2 | 高品質範例3 |
+|---|---|---|---|---|
+|1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
+|2   |      |                        |        | |
+|3   |      |                        |        | |
+|4   |      |                        |        | |
+
+
+
 #### 期末專題
 
 |組別|題目                          |投影片                  |書面報告 | 程式碼 |
