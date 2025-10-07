@@ -75,7 +75,7 @@ title: "機器學習 2025"
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
-這本書可以說是機器學習的經典，備受推崇，但是雜度很高，不好入門，比較深的部份，已經到了研究所的等級了。我們只會碰它比較淺的部分。
+這本書可以說是機器學習的經典，備受推崇，但是難度很高，不好入門，比較深的部份，已經到了研究所的等級了。我們只會碰它比較淺的部分。
 作者官網有提供2006年版的pdf檔供人免費下載[連結](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)。也提供部份的習題解答[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf)。這本書的特性是滿滿的數學，非常的學術，也非常的經典。但2006版的錯別字和錯寫的方程式非常多，請參考作者提供的勘誤表校正[連結](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf)。<br/>
 校圖有紙本，但沒有ebook。Spring有賣ebook，一本75歐元。<br/>
 另外，這本書有簡體中文版，2013年由UC Berkeley的教授譯成，在中國大陸發行，並且將2006年初版的錯誤都校正掉了，對於讀得懂中文的我們，是一個很便利的吸收來源。
