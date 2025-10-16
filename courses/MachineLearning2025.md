@@ -31,11 +31,11 @@ title: "機器學習 2025"
 |4   |9/26  | 線性的分類模型            | [pptx](https://www.dropbox.com/scl/fi/jyz1kpnv92dv7qli619x8/04.pptx?rlkey=lz6e0wkt9tfqim79nuvofu0h7&st=b3hs55no&dl=0)          | [YouTube](https://youtu.be/7LB0Kcsizdg)           |         |
 |5   |10/3  | 神經網路                  | [pptx](https://www.dropbox.com/scl/fi/7tnwvtevzjc620g04ps4x/05.pptx?rlkey=6yvgx8q0b4vnpjr4ftxinmnws&st=0raudru7&dl=0)         | [YouTube](https://youtu.be/CyABIHDNJ_0)            |          |
 |6   |10/10 |                          |           |            | 國慶日放假         |
-|7   |10/17 | 核方法、支持向量機1        |            |            |          |
+|7   |10/17 | 核方法                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETjNeZ4cLcRGu09mPbIfMTEBqfgfq79lfIE5aC_2v7QdKQ?e=PKYWma)           |            |          |
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
-|9   |10/31 | 支持向量機2             |            |            |        |
+|9   |10/31 | 支持向量機             |            |            |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
-|11  |11/14 | 集成方法1                 |            |            |          |
+|11  |11/14 | 集成方法1                 |            |            | 期末專題提案         |
 |12  |11/21 | 集成方法2, 分群演算法      |            |            |          |
 |13  |11/28 | 連續潛變數                |            |            |          |
 |14  |12/5  | 圖模型                    |            |            |          |
