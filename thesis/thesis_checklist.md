@@ -22,6 +22,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#110-inconsistent-underline">1.10 Inconsistent underline</a></div>
 <div class="subsection"><a href="#111-inconsistent-bullet">1.11 Inconsistent bullet</a></div>
 <div class="subsection"><a href="#112-inconsistent-bold-type">1.12 Inconsistent bold type</a></div>
+<div class="subsection"><a href="#113-inconsistent-line-space">1.13 Inconsistent line space</a></div>
 <div class="section"><a href="#2-format">2 Format</a></div>
 <div class="subsection"><a href="#21-wrong-alignment-setting">2.1 Wrong alignment setting</a></div>
 <div class="subsection"><a href="#22-improper-indentation">2.2 Improper indentation</a></div>
@@ -30,6 +31,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
 <div class="subsection"><a href="#26-missing-parentheses-blank">2.6 Missing parentheses blank</a></div>
 <div class="subsection"><a href="#27-hanging-punctuation">2.7 Hanging punctuation</a></div>
+<div class="subsection"><a href="#28-sentence-sticks-out">2.8 sentence sticks out</a></div>
 <div class="section"><a href="#3-references">3 References</a></div>
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
