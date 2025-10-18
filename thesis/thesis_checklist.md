@@ -31,7 +31,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#25-unreasonable-large-number-of-decimal-places">2.5 Unreasonable large number of decimal places</a></div>
 <div class="subsection"><a href="#26-missing-parentheses-blank">2.6 Missing parentheses blank</a></div>
 <div class="subsection"><a href="#27-hanging-punctuation">2.7 Hanging punctuation</a></div>
-<div class="subsection"><a href="#28-sentence-sticks-out">2.8 sentence sticks out</a></div>
+<div class="subsection"><a href="#28-sentence-sticks-out">2.8 Sentence sticks out</a></div>
 <div class="section"><a href="#3-references">3 References</a></div>
 <div class="subsection"><a href="#31-wrong-expression-of-the-author-names">3.1 Wrong expression of the author names</a></div>
 <div class="subsection"><a href="#32-double-periods">3.2 Double periods</a></div>
@@ -39,6 +39,7 @@ If you use LaTeX to render your thesis, the benefit is that most formats are wel
 <div class="subsection"><a href="#34-missing-conference-or-journal">3.4 Missing conference or journal</a></div>
 <div class="subsection"><a href="#35-wrong-conference-name">3.5 Wrong conference name</a></div>
 <div class="subsection"><a href="#36-missing-blank-before-number">3.6 Missing blank before number</a></div>
+<div class="subsection"><a href="#37-do-not-use-acronyms">3.7 Do not use acronyms</a></div>
 <div class="section"><a href="#4-acronym">4 Acronym</a></div>
 <div class="subsection"><a href="#41-incorrect-case">4.1 Incorrect case</a></div>
 <div class="subsection"><a href="#42-incorrect-full-name-location">4.2 Incorrect full name location</a></div>
@@ -291,6 +292,12 @@ This is incorrect. In LaTeX, it is caused by forgetting a tilde ~.
 <img src="MissingBlankBeforeNumber2.png" height="30">
 
 This is correct.
+
+## 3.7 Do not use acronyms
+![Do not use acronyms](Do-not-use-acronyms.png)
+
+Your thesis is a formal document. You should not use the acronym CVPR. Instead, you should use the full proceeding title. "In Proceedings of the IEEE/CVF Conference of Computer Vision and Pattern Recognition."
+ 
 
 # 4 Acronym 
 
