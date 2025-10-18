@@ -178,6 +178,14 @@ They should be the same.
 ## 1.12 Inconsistent bold type
 <img src="InconsistentBoldType.png" height="200">
 
+## 1.13 Inconsistent line space
+![alt text](InconsistentLineSpace.png)
+
+Solution:
+Disable the "Snap to grid when document grid is defined"
+![alt text](InconsistentLineSpaceSolution.png)
+
+
 # 2 Format
 
 ## 2.1 Wrong alignment setting
@@ -233,6 +241,8 @@ Solution: uncheck the highlighted item in Microsoft Word.
 
 <img src="HangingPunctuationSetting.png" height="250">
 
+## 2.8 sentence sticks out
+![SentenceStickOut](SentenceStickOut.png)
 
 # 3 References
 
@@ -434,7 +444,7 @@ This is also a common problem among Chinese native speakers because "previous" i
 Thus, there is a semantic problem to use the term "previous methods". It means that [3, 9, 25] are your methods, so you can describe them "previous". However, they are not. The solution is easy. Just replace the adjective "previous" with "existing" or "state-of-the-art", and there will be no problem.
 
 # 7 Table
-## 7.1 Use image
+## 7.1 It is bad to use an image
 <img src="Table1.png" height="200">
 
 This is wrong. The newline symbols should not appear. You should create a real table rather than using an image instead.
@@ -465,6 +475,11 @@ The shading removes the original vertical and horizontal lines and makes this ta
 
 ## 7.7 Numbers not aligned
 <img src="NumberNotAligned.png" height="350">
+
+## 7.8 Low readability
+![alt text](LowReadability.png) 
+
+Solution: add borders, adjust the line space, add indentations to sentences in cells.
 
 # 8 Improper translation
 ## 8.1 Limitation of translation software
