@@ -51,7 +51,7 @@ title: "機器學習 2025"
 |作業|題目                          |高品質範例1                  |高品質範例2 | 高品質範例3 |
 |---|---|---|---|---|
 |1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
-|2   |      |                        |        | |
+|2   |資料迴歸      |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1245025_洪子貽.pdf)         |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328009_張祐甄)        |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328023_沈品沅.pdf) |
 |3   |      |                        |        | |
 |4   |      |                        |        | |
 
