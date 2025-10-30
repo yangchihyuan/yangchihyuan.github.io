@@ -33,7 +33,7 @@ title: "機器學習 2025"
 |6   |10/10 |                          |           |            | 國慶日放假         |
 |7   |10/17 | 核方法                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETjNeZ4cLcRGu09mPbIfMTEBqfgfq79lfIE5aC_2v7QdKQ?e=PKYWma)           | [YouTube](https://youtu.be/99XoHYpU-V8)           |          |
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
-|9   |10/31 | 支持向量機             |            |            |        |
+|9   |10/31 | 支持向量機             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETqO_UJdYo1Bnpeiui69aXoBzFK0-nil4Za7LzKsrDRv3A?e=gb4QPc)           |            |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
 |11  |11/14 | 集成方法1                 |            |            | 期末專題提案         |
 |12  |11/21 | 集成方法2, 分群演算法      |            |            |          |
@@ -52,8 +52,9 @@ title: "機器學習 2025"
 |---|---|---|---|---|
 |1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
 |2   |資料迴歸      |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1245025_洪子貽.pdf)         |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328009_張祐甄.pdf)        |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328023_沈品沅.pdf) |
-|3   |      |                        |        | |
-|4   |      |                        |        | |
+|3   |線性的分類模型      |                        |        | |
+|4   |類神經網路      |                        |        | |
+|5   |支持向量機      |                        |        | |
 
 <br/>
 
