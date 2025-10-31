@@ -49,7 +49,7 @@ title: "機器學習 2024"
 <br/>
 
 #### 期中考題與參考答案
-[docx](https://changgunguniversity-my.sharepoint.com/:w:/g/personal/d000019097_cgu_edu_tw/ETiuXPNHEL1Mks3Vt9gk86UBtGfefubBKrWKpgjPJkTS-w?e=WaHmMD)
+[docx](https://www.dropbox.com/scl/fi/3v3tzr9ejs7v8blh8haqp/20241016.docx?rlkey=961xq70j084532qvs15k0utp4&st=brl6fnnd&dl=0)
 
 #### 期末專題
 
