@@ -31,7 +31,7 @@ title: "機器學習 2025"
 |4   |9/26  | 線性的分類模型            | [pptx](https://www.dropbox.com/scl/fi/jyz1kpnv92dv7qli619x8/04.pptx?rlkey=lz6e0wkt9tfqim79nuvofu0h7&st=b3hs55no&dl=0)          | [YouTube](https://youtu.be/7LB0Kcsizdg)           |         |
 |5   |10/3  | 神經網路                  | [pptx](https://www.dropbox.com/scl/fi/7tnwvtevzjc620g04ps4x/05.pptx?rlkey=6yvgx8q0b4vnpjr4ftxinmnws&st=0raudru7&dl=0)         | [YouTube](https://youtu.be/CyABIHDNJ_0)            |          |
 |6   |10/10 |                          |           |            | 國慶日放假         |
-|7   |10/17 | 核方法                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETjNeZ4cLcRGu09mPbIfMTEBqfgfq79lfIE5aC_2v7QdKQ?e=PKYWma)           | [YouTube](https://youtu.be/99XoHYpU-V8)           |          |
+|7   |10/17 | 核方法                    | [pptx](https://www.dropbox.com/scl/fo/upp9qp4b4mrr67nor3ub8/AJiQ5YniiHN-z0TFUz7xbFs?rlkey=xwd02bvpspsaame3qkxhkrf0a&dl=0)           | [YouTube](https://youtu.be/99XoHYpU-V8)           |          |
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
 |9   |10/31 | 支持向量機             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETqO_UJdYo1Bnpeiui69aXoBzFK0-nil4Za7LzKsrDRv3A?e=gb4QPc)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
