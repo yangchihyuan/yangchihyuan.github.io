@@ -44,6 +44,10 @@ title: "機器學習 2025"
 
 <br/>
 
+#### 期中考題與參考答案
+[docx](https://www.dropbox.com/scl/fi/8ipziu6z9wlg81ao4jqhv/20251107.docx?rlkey=0wvuh04whsr955xjs54e2fju6&st=4j2tzmut&dl=0)
+
+
 #### 高品質作業報告
 
 範例1,2,3是由學號決定的，都是高品質作業報告，並非名次。
