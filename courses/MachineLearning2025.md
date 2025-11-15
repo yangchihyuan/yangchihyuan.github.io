@@ -57,7 +57,7 @@ title: "機器學習 2025"
 |1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
 |2   |資料迴歸      |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1245025_洪子貽.pdf)         |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328009_張祐甄.pdf)        |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328023_沈品沅.pdf) |
 |3   |線性的分類模型      |                        |        | |
-|4   |類神經網路      |                        |        | |
+|4   |類神經網路      | 葡萄酒分類 [PDF](https://www.dropbox.com/scl/fi/97egf97a68dqpc8uecsjs/HW4_B1209102_.pdf?rlkey=g446i8mv5jm0e1o2kikwnl16b&st=lkvj8qxd&dl=0)                       | MNIST [PDF](https://www.dropbox.com/scl/fi/n304m6qewmh1r9fmwxujm/HW4_B1302069_.pdf?rlkey=5sdhmch54wr5vufd4l0kcbgup&st=hbygn1t8&dl=0)       | 水泥強度迴歸 [PDF](https://www.dropbox.com/scl/fi/6yvjcit8i7cqt1fd2b2ob/HW4_B1328023_.pdf?rlkey=yu3spkr4e130b09bxr4jw5bbj&st=dwztl103&dl=0) |
 |5   |支持向量機      |                        |        | |
 |6   |集成方法或群集演算法 |                    |        | |
 
