@@ -35,7 +35,7 @@ title: "機器學習 2025"
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
 |9   |10/31 | 支持向量機             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETqO_UJdYo1Bnpeiui69aXoBzFK0-nil4Za7LzKsrDRv3A?e=gb4QPc)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
-|11  |11/14 | 集成方法1                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQRNvoYW4NtAtdiMyRudRwUBiueoaJacs6gDVQj6zF3LVA?e=qjQ2o9)           |            | 期末專題提案         |
+|11  |11/14 | 集成方法1                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQRNvoYW4NtAtdiMyRudRwUBiueoaJacs6gDVQj6zF3LVA?e=qjQ2o9)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
 |12  |11/21 | 集成方法2, 分群演算法      |            |            |          |
 |13  |11/28 | 連續潛變數                |            |            |          |
 |14  |12/5  | 圖模型                    |            |            |          |
@@ -57,8 +57,9 @@ title: "機器學習 2025"
 |1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
 |2   |資料迴歸      |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1245025_洪子貽.pdf)         |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328009_張祐甄.pdf)        |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328023_沈品沅.pdf) |
 |3   |線性的分類模型      |                        |        | |
-|4   |類神經網路      |                        |        | |
+|4   |類神經網路      | 葡萄酒分類 [PDF](https://www.dropbox.com/scl/fi/97egf97a68dqpc8uecsjs/HW4_B1209102_.pdf?rlkey=g446i8mv5jm0e1o2kikwnl16b&st=lkvj8qxd&dl=0)                       | MNIST [PDF](https://www.dropbox.com/scl/fi/n304m6qewmh1r9fmwxujm/HW4_B1302069_.pdf?rlkey=5sdhmch54wr5vufd4l0kcbgup&st=hbygn1t8&dl=0)       | 水泥強度迴歸 [PDF](https://www.dropbox.com/scl/fi/6yvjcit8i7cqt1fd2b2ob/HW4_B1328023_.pdf?rlkey=yu3spkr4e130b09bxr4jw5bbj&st=dwztl103&dl=0) |
 |5   |支持向量機      |                        |        | |
+|6   |集成方法或群集演算法 |                    |        | |
 
 <br/>
 
