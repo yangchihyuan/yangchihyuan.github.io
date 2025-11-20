@@ -36,7 +36,7 @@ title: "機器學習 2025"
 |9   |10/31 | 支持向量機             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETqO_UJdYo1Bnpeiui69aXoBzFK0-nil4Za7LzKsrDRv3A?e=gb4QPc)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
 |11  |11/14 | 集成方法1                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQRNvoYW4NtAtdiMyRudRwUBiueoaJacs6gDVQj6zF3LVA?e=qjQ2o9)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
-|12  |11/21 | 集成方法2, 分群演算法      |            |            |          |
+|12  |11/21 | 集成方法2, 分群演算法      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           |            |          |
 |13  |11/28 | 連續潛變數                |            |            |          |
 |14  |12/5  | 圖模型                    |            |            |          |
 |15  |12/12 | 近似推論                   |            |            |          |
