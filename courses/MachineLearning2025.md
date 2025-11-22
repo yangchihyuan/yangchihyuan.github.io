@@ -33,11 +33,11 @@ title: "機器學習 2025"
 |6   |10/10 |                          |           |            | 國慶日放假         |
 |7   |10/17 | 核方法                    | [pptx](https://www.dropbox.com/scl/fo/upp9qp4b4mrr67nor3ub8/AJiQ5YniiHN-z0TFUz7xbFs?rlkey=xwd02bvpspsaame3qkxhkrf0a&dl=0)           | [YouTube](https://youtu.be/99XoHYpU-V8)           |          |
 |8   |10/24 |                           |           |           | 台灣光復節補假         |
-|9   |10/31 | 支持向量機             | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/ETqO_UJdYo1Bnpeiui69aXoBzFK0-nil4Za7LzKsrDRv3A?e=gb4QPc)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
+|9   |10/31 | 支持向量機             | [pptx](https://www.dropbox.com/scl/fi/4lxk9z0yi9fyniixpqjtn/07.pptx?rlkey=nwjye2u30g966fpmndzbmigoj&st=bl6r3mly&dl=0)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
-|11  |11/14 | 集成方法1                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/EQRNvoYW4NtAtdiMyRudRwUBiueoaJacs6gDVQj6zF3LVA?e=qjQ2o9)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
-|12  |11/21 | 集成方法2, 分群演算法      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           |            |          |
-|13  |11/28 | 連續潛變數                |            |            |          |
+|11  |11/14 | 集成方法1                 | [pptx](https://www.dropbox.com/scl/fi/amkvx0fy2p0i3jyczy4d7/08-1.pptx?rlkey=q4mpgqsk3pe50l08one2e5xdu&st=rqv7r7cq&dl=0)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
+|12  |11/21 | 集成方法2      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
+|13  |11/28 | 分群演算法，連續潛變數                |            |            |          |
 |14  |12/5  | 圖模型                    |            |            |          |
 |15  |12/12 | 近似推論                   |            |            |          |
 |16  |12/19 | 期末報告，無授課           |            |            |期末報告  |
