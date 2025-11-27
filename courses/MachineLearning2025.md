@@ -37,9 +37,9 @@ title: "機器學習 2025"
 |10  |11/7  | 期中考，無授課                |            |            |        |
 |11  |11/14 | 集成方法1                 | [pptx](https://www.dropbox.com/scl/fi/amkvx0fy2p0i3jyczy4d7/08-1.pptx?rlkey=q4mpgqsk3pe50l08one2e5xdu&st=rqv7r7cq&dl=0)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
 |12  |11/21 | 集成方法2      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
-|13  |11/28 | 分群演算法，連續潛變數                |            |            |          |
-|14  |12/5  | 圖模型                    |            |            |          |
-|15  |12/12 | 近似推論                   |            |            |          |
+|13  |11/28 | 分群演算法                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAqvHf1OznQTY-cxdb47l2vAZYkjHGQLs05kc5lckH8LgM?e=cZubcN)           |            |          |
+|14  |12/5  | 連續潛變數                    |            |            |          |
+|15  |12/12 | 圖模型                   |            |            |          |
 |16  |12/19 | 期末報告，無授課           |            |            |期末報告  |
 
 <br/>
@@ -73,14 +73,15 @@ title: "機器學習 2025"
 |4   |以random forest預測房價                   |                        |        | |
 |5   |以序列為基礎的 Promoter/Enhancer 辨識：傳統機器學習與 DNABERT-2 之比較分析      |                        |        | |
 |6   |利用 CNN 辨識「回收分類：紙類 / 塑膠 / 金屬」照片      |                        |        | |
-|7   |宏觀經濟因子的 P2P 借貸 ROI 預測      |                        |        | |
-|8   |使用卷積神經網路於蘋果葉病害之影像分類研究      |                        |        | |
-|9   |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      |                        |        | |
-|10  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       |                        |        | |
-|11  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                |                        |        | |
-|12  |啊我的腳踏車勒？      |                        |        | |
-|13  |運用AI影像辨識模型分辨iphone 型號                |                        |        | |
-|14  |應用 AlphaZero 架構的五子棋智能對弈模型          |                        |        | |
+|7   |利用KNN基於歌曲音訊特徵推薦的音樂推薦演算法      |                        |        | |
+|8   |宏觀經濟因子的 P2P 借貸 ROI 預測      |                        |        | |
+|9   |使用卷積神經網路於蘋果葉病害之影像分類研究      |                        |        | |
+|10  |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      |                        |        | |
+|11  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       |                        |        | |
+|12  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                |                        |        | |
+|13  |啊我的腳踏車勒？      |                        |        | |
+|14  |運用AI影像辨識模型分辨iphone 型號                |                        |        | |
+|15  |應用 AlphaZero 架構的五子棋智能對弈模型          |                        |        | |
 
 <br/>
 
