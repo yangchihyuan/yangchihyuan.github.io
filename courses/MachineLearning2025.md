@@ -38,7 +38,7 @@ title: "機器學習 2025"
 |11  |11/14 | 集成方法1                 | [pptx](https://www.dropbox.com/scl/fi/amkvx0fy2p0i3jyczy4d7/08-1.pptx?rlkey=q4mpgqsk3pe50l08one2e5xdu&st=rqv7r7cq&dl=0)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
 |12  |11/21 | 集成方法2      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
 |13  |11/28 | 分群演算法                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAqvHf1OznQTY-cxdb47l2vAZYkjHGQLs05kc5lckH8LgM?e=cZubcN)           | [YouTube](https://youtu.be/M3KuRzVj51c)           |          |
-|14  |12/5  | 連續潛變數                    |            |            |          |
+|14  |12/5  | 連續潛變數                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDRflvpo_EFSpdamet9CbQRAVzmdwqSwU_eD2bY_L3VN_M?e=5b7T5W)           |            |          |
 |15  |12/12 | 圖模型                   |            |            |          |
 |16  |12/19 | 期末報告，無授課           |            |            |期末報告  |
 
@@ -65,7 +65,7 @@ title: "機器學習 2025"
 
 #### 期末專題
 
-|組別|題目                          |投影片                  |書面報告 | 程式碼 |
+|組別|題目                          |海報                  |書面報告 | 程式碼 |
 |---|---|---|---|---|
 |1   |MLX 在 Apple Silicon 上的運算效能探討：以 CIFAR-10 與卷積神經網路為例      |                        |        | |
 |2   |Predict air quality status using key pollutant indicators       |                        |        | |
@@ -80,7 +80,7 @@ title: "機器學習 2025"
 |11  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       |                        |        | |
 |12  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                |                        |        | |
 |13  |啊我的腳踏車勒？      |                        |        | |
-|14  |運用AI影像辨識模型分辨iphone 型號                |                        |        | |
+|14  |運用AI影像辨識模型分辨 iphone 型號              |                        |        | |
 |15  |應用 AlphaZero 架構的五子棋智能對弈模型          |                        |        | |
 
 <br/>
