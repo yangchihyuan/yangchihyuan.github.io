@@ -50,16 +50,17 @@ title: "機器學習 2025"
 
 #### 高品質作業報告
 
-範例1,2,3是由學號決定的，都是高品質作業報告，並非名次。
+範例1,2,3,4,5,6 是由學號決定的，都是高品質作業報告，並非名次。
 
-|作業|題目                          |高品質範例1                  |高品質範例2 | 高品質範例3 |
+|作業|題目                          |高品質範例1/4                  |高品質範例2/5 | 高品質範例3/6 |
 |---|---|---|---|---|
 |1   |高斯抽樣估計  | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-李宇祥.pdf)         | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-陳宛榆.pdf)       | [PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW1報告-吳宜鍼.pdf) |
 |2   |資料迴歸      |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1245025_洪子貽.pdf)         |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328009_張祐甄.pdf)        |[PDF](http://yangchihyuan.github.io/courses/MachineLearning2025/HW2_B1328023_沈品沅.pdf) |
 |3   |線性的分類模型      |⾳樂串流⽤⼾流失預測 [PDF](https://www.dropbox.com/scl/fi/bzrq426bnumuty1al0b7p/HW3_B1328008_.pdf?rlkey=ak7e6q3nb70bgudc9valp6y2g&st=vkl7h5zl&dl=0)                       | 有毒菇類預測 [PDF](https://www.dropbox.com/scl/fi/nh18ja5t0wv249let6lhq/HW3_B1328023_.pdf?rlkey=qmvne7ogzw178lrxlxkf6s0v6&st=u6xce6qy&dl=0)       | 葡萄酒分類 [PDF](https://www.dropbox.com/scl/fi/0jdi5gq2dqwhdtb6e7hla/HW3_B1328024_.pdf?rlkey=gwi90k81ndyjzgjxpc4brxl55&st=zowr9ouc&dl=0) |
 |4   |類神經網路      | 葡萄酒分類 [PDF](https://www.dropbox.com/scl/fi/97egf97a68dqpc8uecsjs/HW4_B1209102_.pdf?rlkey=g446i8mv5jm0e1o2kikwnl16b&st=lkvj8qxd&dl=0)                       | MNIST [PDF](https://www.dropbox.com/scl/fi/n304m6qewmh1r9fmwxujm/HW4_B1302069_.pdf?rlkey=5sdhmch54wr5vufd4l0kcbgup&st=hbygn1t8&dl=0)       | 水泥強度迴歸 [PDF](https://www.dropbox.com/scl/fi/6yvjcit8i7cqt1fd2b2ob/HW4_B1328023_.pdf?rlkey=yu3spkr4e130b09bxr4jw5bbj&st=dwztl103&dl=0) |
-|5   |支持向量機      | 超導體臨界溫度預測 [PDF](https://www.dropbox.com/scl/fi/l3aidswxgvv05w2ljp6tc/HW5_B1245025_-_.pdf?rlkey=rw7sohyvtlenooqxucmje8j32&st=k2ckuche&dl=0)  | 音樂串流用戶流失預測2 [PDF](https://www.dropbox.com/scl/fi/64avvkr0d3fxb9m4vc5gu/HW5_B1328008_-_SVM-Spotify.pdf?rlkey=ive6dvl0c8jgnlnz21dpes3if&st=m1zjhyv7&dl=0)       |銀行電話行銷定存成功與否預測 [PDF](https://www.dropbox.com/scl/fi/oj84pxmyukjt2iv5td8fu/HW5_B1328023_-_.pdf?rlkey=lvsm297ke5didq43rgezfztdr&st=5emlimyu&dl=0) |
-|6   |集成方法或群集演算法 |                    |        | |
+|5   |支持向量機      | 心臟病預測1 [PDF](https://www.dropbox.com/scl/fi/i7johy7eu817j1mgu8uw1/HW5_B1209102_-_.pdf?rlkey=wofh37qfrjqbtgwili534fs2q&st=8al2l3o7&dl=0) | 超導體臨界溫度預測 [PDF](https://www.dropbox.com/scl/fi/l3aidswxgvv05w2ljp6tc/HW5_B1245025_-_.pdf?rlkey=rw7sohyvtlenooqxucmje8j32&st=k2ckuche&dl=0)  | 音樂串流用戶流失預測2 [PDF](https://www.dropbox.com/scl/fi/64avvkr0d3fxb9m4vc5gu/HW5_B1328008_-_SVM-Spotify.pdf?rlkey=ive6dvl0c8jgnlnz21dpes3if&st=m1zjhyv7&dl=0)       |
+|    |                   | 糖尿病預測 [PDF](https://www.dropbox.com/scl/fi/f6js6r9o4uavacc59aan1/HW5_B1328021_-_.pdf?rlkey=6t0hfjhx7otasc8vrw47rcrkm&st=m8pdvq3m&dl=0)       | 銀行電話行銷定存成功與否預測 [PDF](https://www.dropbox.com/scl/fi/oj84pxmyukjt2iv5td8fu/HW5_B1328023_-_.pdf?rlkey=lvsm297ke5didq43rgezfztdr&st=5emlimyu&dl=0)       | 心臟病預測2 [PDF](https://www.dropbox.com/scl/fi/mndpvdfoa2aoo0narg4ug/HW5_B1328030_-_.pdf?rlkey=yu5300ii56mbf3do56njgb506&st=h71cd9ma&dl=0) | 
+|6   |集成方法或分群演算法 |                    |        | |
 
 <br/>
 
