@@ -39,7 +39,7 @@ title: "機器學習 2025"
 |12  |11/21 | 集成方法2      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
 |13  |11/28 | 分群演算法                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAqvHf1OznQTY-cxdb47l2vAZYkjHGQLs05kc5lckH8LgM?e=cZubcN)           | [YouTube](https://youtu.be/M3KuRzVj51c)           |          |
 |14  |12/5  | 連續潛變數                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDRflvpo_EFSpdamet9CbQRAVzmdwqSwU_eD2bY_L3VN_M?e=5b7T5W)           | [YouTube](https://youtu.be/geSN7Qd2TBw)           |          |
-|15  |12/12 | 圖模型                   |            |            |          |
+|15  |12/12 | 連續潛變數 2                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAkY4QnJFUXR4f46QqqW3JMAfRj4U3AOKQZvjyXY-NR5j0?e=Lasfha)           |            |          |
 |16  |12/19 | 期末報告，無授課           |            |            |期末報告  |
 
 <br/>
