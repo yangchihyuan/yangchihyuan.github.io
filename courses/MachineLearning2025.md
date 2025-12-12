@@ -36,10 +36,10 @@ title: "機器學習 2025"
 |9   |10/31 | 支持向量機             | [pptx](https://www.dropbox.com/scl/fi/4lxk9z0yi9fyniixpqjtn/07.pptx?rlkey=nwjye2u30g966fpmndzbmigoj&st=bl6r3mly&dl=0)           | [YouTube](https://youtu.be/a5D9KZEtwgw)           |        |
 |10  |11/7  | 期中考，無授課                |            |            |        |
 |11  |11/14 | 集成方法1                 | [pptx](https://www.dropbox.com/scl/fi/amkvx0fy2p0i3jyczy4d7/08-1.pptx?rlkey=q4mpgqsk3pe50l08one2e5xdu&st=rqv7r7cq&dl=0)           | [YouTube](https://youtu.be/i1bVyL0w9zU)           | 期末專題提案         |
-|12  |11/21 | 集成方法2      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQBDSxhCKRcPQ7W1gtqjh0gpAeKVSLhmcuToLDqhb48r6o4?e=s0dNqT)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
-|13  |11/28 | 分群演算法                | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAqvHf1OznQTY-cxdb47l2vAZYkjHGQLs05kc5lckH8LgM?e=cZubcN)           | [YouTube](https://youtu.be/M3KuRzVj51c)           |          |
-|14  |12/5  | 連續潛變數                    | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDRflvpo_EFSpdamet9CbQRAVzmdwqSwU_eD2bY_L3VN_M?e=5b7T5W)           | [YouTube](https://youtu.be/geSN7Qd2TBw)           |          |
-|15  |12/12 | 連續潛變數 2                 | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAkY4QnJFUXR4f46QqqW3JMAfRj4U3AOKQZvjyXY-NR5j0?e=Lasfha)           | [YouTube](https://youtu.be/f5mcjOBTKjw)           |          |
+|12  |11/21 | 集成方法2      | [pptx](https://www.dropbox.com/scl/fi/hfxwu564bytt0lkg1fqe0/09-2.pptx?rlkey=r753lalibvlgailjbvkc36arc&st=rbr3zvu8&dl=0)           | [YouTube](https://youtu.be/5ZsAOIXn2Js)            |          |
+|13  |11/28 | 分群演算法                | [pptx](https://www.dropbox.com/scl/fi/y1tcyvdxufjp05ira0wmu/10.pptx?rlkey=4k4ht41u0to4qvnryujgahvaf&st=flimo120&dl=0)           | [YouTube](https://youtu.be/M3KuRzVj51c)           |          |
+|14  |12/5  | 連續潛變數                    | [pptx](https://www.dropbox.com/scl/fi/bsw47qa84n9obzpl5ytkf/11.pptx?rlkey=lj7l0lt64x35r6dsjueo87wrv&st=usletk2w&dl=0)           | [YouTube](https://youtu.be/geSN7Qd2TBw)           |          |
+|15  |12/12 | 連續潛變數 2                 | [pptx](https://www.dropbox.com/scl/fi/o0alyjmk8fu1t9l7qbub2/12-2.pptx?rlkey=2qdqaqmb0qvyhm0qn1hxka8l3&st=n9xw35mm&dl=0)           | [YouTube](https://youtu.be/f5mcjOBTKjw)           |          |
 |16  |12/19 | 期末報告，無授課           |            |            |期末海報展  |
 
 <br/>
