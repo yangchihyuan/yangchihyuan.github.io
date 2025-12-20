@@ -66,23 +66,23 @@ title: "機器學習 2025"
 
 #### 期末專題
 
-|組別|題目                          |海報                  |書面報告 | 程式碼 |
+|組別|題目                          |海報                  |書面報告 | 
 |---|---|---|---|---|
-|1   |MLX 在 Apple Silicon 上的運算效能探討：以 CIFAR-10 與卷積神經網路為例      |                        |        | |
-|2   |Predict air quality status using key pollutant indicators       |                        |        | |
-|3   |以DASS-42為基礎預測心理困擾嚴重程度      |                        |        | |
-|4   |以random forest預測房價                   |                        |        | |
-|5   |以序列為基礎的 Promoter/Enhancer 辨識：傳統機器學習與 DNABERT-2 之比較分析      |                        |        | |
-|6   |利用 CNN 辨識「回收分類：紙類 / 塑膠 / 金屬」照片      |                        |        | |
-|7   |利用KNN基於歌曲音訊特徵推薦的音樂推薦演算法      |                        |        | |
-|8   |宏觀經濟因子的 P2P 借貸 ROI 預測      |                        |        | |
-|9   |使用卷積神經網路於蘋果葉病害之影像分類研究      |                        |        | |
-|10  |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      |                        |        | |
-|11  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       |                        |        | |
-|12  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                |                        |        | |
-|13  |啊我的腳踏車勒？      |                        |        | |
-|14  |運用AI影像辨識模型分辨 iphone 型號              |                        |        | |
-|15  |應用 AlphaZero 架構的五子棋智能對弈模型          |                        |        | |
+|1   |MLX 在 Apple Silicon 上的運算效能探討：以 CIFAR-10 與卷積神經網路為例      | [pdf](https://www.dropbox.com/scl/fi/anpyewbqvalx64b07jvld/B1328024_-_MLX-Apple-Silicon.pdf?rlkey=to0e5s6u1h0rszbb5z5uf5p83&st=bxm84sdv&dl=0)                      |        |
+|2   |Predict air quality status using key pollutant indicators       | [pdf](https://www.dropbox.com/scl/fi/onfzwnc0hvsz0heks9e2j/B1209262_Using-SVM-to-predict-air-quality-status-using-key-pollutant-indicators.pdf?rlkey=zmsj30ho0qhbi8q2jincrp78p&st=7hrohrd8&dl=0)                       |        |
+|3   |以DASS-42為基礎預測心理困擾嚴重程度      | [pdf](https://www.dropbox.com/scl/fi/m0s48usegr0y8r9e4zxzg/B1328030_-_-DASS-42-_.pdf?rlkey=oz22803yxq82l3kck4c6s464g&st=nxpae3xe&dl=0)                       |        |
+|4   |破解Kaggle房價預測：模型與策略之比較分析                | [pdf](https://www.dropbox.com/scl/fi/8ocu1ch2sgsxn2pvc9fyk/B1328037_-_B1328037_B1328039.pdf?rlkey=6fgr7w5vqkl7e4kc6i614o9q7&st=mt9b8scj&dl=0)                       |        |
+|5   |以序列為基礎的 Promoter/Enhancer 辨識：傳統機器學習與 DNABERT-2 之比較分析      | [pdf](https://www.dropbox.com/scl/fi/wjzuluwajd5gxmaduv3hf/B1328035_.pdf?rlkey=lj96nmn4y66qt4067hgyjbybx&st=4kzwckai&dl=0)                       |        |
+|6   |利用 CNN 辨識「回收分類：紙類 / 塑膠 / 金屬」照片      | [pdf](https://www.dropbox.com/scl/fi/2ed34fqqjoowyzfh00loo/B1342031_.png?rlkey=ejo2o4bm6u2s5y0jhdnphbmcu&st=vjpwc0vc&dl=0)                       |        |
+|7   |利用KNN基於歌曲音訊特徵推薦的音樂推薦演算法      | N.A.                       |        |
+|8   |宏觀經濟因子的 P2P 借貸 ROI 預測      | [pdf](https://www.dropbox.com/scl/fi/5zrphqtt5f1d9dxua45ay/B1245025_-p2p-roi.pdf?rlkey=aem7ei949hoaw8rcd3zgip5yo&st=0yjcf2bj&dl=0)                       |        |
+|9   |使用卷積神經網路於蘋果葉病害之影像分類研究      | [pdf](https://www.dropbox.com/scl/fi/124wox65k4zdxtfeiyjaj/B1144233_.pdf?rlkey=576wlps8dznx1zjrh465xxl2o&st=q5zsb59y&dl=0)                       |        |
+|10  |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      | [pdf](https://www.dropbox.com/scl/fi/0pt8xk8msg7p8jw5hhj4h/B1328046_.pdf?rlkey=qstdcv8gueyspjs4c5bmorm2o&st=2spg7hr6&dl=0)                       |        |
+|11  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       | [pdf](https://www.dropbox.com/scl/fi/syi9ekxibn3w8kc8utp41/B1328006_.pdf?rlkey=bawt8wg7zgv1jnzm9er1q3qdj&st=oh2ysljg&dl=0)                       |        |
+|12  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                | [pdf](https://www.dropbox.com/scl/fi/nha2yc2atl8e5pjq7s91s/B1328008_pdfpdf.pdf?rlkey=wfqvixmhh2wdlbuqky6okm4gp&st=ee7o62ix&dl=0)                       |        |
+|13  |啊是要不要還錢啦？                             | [pdf](https://www.dropbox.com/scl/fi/que55y0yjrkrf8ts4vbtb/B1328012_-A1.pdf?rlkey=snuqvh1cre9p6okma8rzf32ma&st=q37ve1z0&dl=0)                       |        |
+|14  |運用AI影像辨識模型分辨 iphone 型號              | [pdf](https://www.dropbox.com/scl/fi/xvi0uf0th78ouwzooy84e/B1328004_iphone.pdf?rlkey=ytv7hj49w81r9omgf2zzlbddf&st=mgghe7cj&dl=0)                       |        |
+|15  |應用 AlphaZero 架構的五子棋智能對弈模型          | [pdf](https://www.dropbox.com/scl/fi/lg0m7xsnahv0nfsxmawsx/B1328013_-OmniFive-1.pdf?rlkey=re8b889m1i1wh6zfg4lds9vx3&st=l6uv2l96&dl=0)                       |        |
 
 <br/>
 
