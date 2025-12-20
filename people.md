@@ -23,7 +23,7 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |:---:|:---:|:---:|:---:|
 |Wayne Tsai|Eric Lu|Kan Tippayamontri|
 |蔡承原|盧睿霆|กานต์ ทิพยมนตรี|
-|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Lu)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|
+|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|
 
 <p></p>
 
