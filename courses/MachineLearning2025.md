@@ -77,16 +77,35 @@ title: "機器學習 2025"
 |7   |利用KNN基於歌曲音訊特徵推薦的音樂推薦演算法      |                        |        |||
 |8   |宏觀經濟因子的 P2P 借貸 ROI 預測      | [pdf](https://www.dropbox.com/scl/fi/5zrphqtt5f1d9dxua45ay/B1245025_-p2p-roi.pdf?rlkey=aem7ei949hoaw8rcd3zgip5yo&st=0yjcf2bj&dl=0)                       |[pdf](https://www.dropbox.com/scl/fi/sqyemlkkubo0dq88ivxnh/_.pdf?rlkey=hnxnkk2rrzu4or2u2s75riq31&st=41x98a3q&dl=0)        |||
 |9   |使用卷積神經網路於蘋果葉病害之影像分類研究      | [pdf](https://www.dropbox.com/scl/fi/124wox65k4zdxtfeiyjaj/B1144233_.pdf?rlkey=576wlps8dznx1zjrh465xxl2o&st=q5zsb59y&dl=0)                       |[pdf](https://www.dropbox.com/scl/fi/vfeimmvxhd7d1v48dcyww/B1144233_-_b1144230-b1144233.pdf?rlkey=a7v3bh118kf05jpbqndh884xc&st=2v8ohvpy&dl=0)        |||
-|10  |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      | [pdf](https://www.dropbox.com/scl/fi/0pt8xk8msg7p8jw5hhj4h/B1328046_.pdf?rlkey=qstdcv8gueyspjs4c5bmorm2o&st=2spg7hr6&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/n96qf0z8toq7uhojisd16/B1328046_.pdf?rlkey=20rn3w0xje787fgy8oq6g5wsg&st=5m7u3kwz&dl=0)       |||
+|10  |使用強化學習訓練 AI 征服 osu!：從零到高手的完整指南                      | [pdf](https://www.dropbox.com/scl/fi/0pt8xk8msg7p8jw5hhj4h/B1328046_.pdf?rlkey=qstdcv8gueyspjs4c5bmorm2o&st=2spg7hr6&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/n96qf0z8toq7uhojisd16/B1328046_.pdf?rlkey=20rn3w0xje787fgy8oq6g5wsg&st=5m7u3kwz&dl=0)       || [zip](https://drive.google.com/file/d/1aWafR8l7LmT3Qd9x4ZCmTATLMmKTXizl/view?usp=sharing) [ReadMe](https://drive.google.com/file/d/1i_OwHeWFQ0Y2I5n5-7cEPxd38OmbGrio/view?usp=sharing)|
 |11  |急診壅塞情境下之智慧病患分流與資源配置決策支援系統                       | [pdf](https://www.dropbox.com/scl/fi/syi9ekxibn3w8kc8utp41/B1328006_.pdf?rlkey=bawt8wg7zgv1jnzm9er1q3qdj&st=oh2ysljg&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/06ba7k9ijx91axhknh73m/B1328028_-11-_.pdf?rlkey=qyoem3h9i0wyvn6zg8v2bz2tz&st=mwxsiacp&dl=0)       |||
 |12  |若臺灣防疫不成功：以 TWCDC 資料集建構 COVID-19 反事實模擬                | [pdf](https://www.dropbox.com/scl/fi/nha2yc2atl8e5pjq7s91s/B1328008_pdfpdf.pdf?rlkey=wfqvixmhh2wdlbuqky6okm4gp&st=ee7o62ix&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/ajzwa9umrqoe8n7ispi55/B1328008_2021-Alpha.pdf?rlkey=exsra1r6mmcqn2e60u8wwili2&st=g31hilvs&dl=0)       |||
 |13  |啊是要不要還錢啦？                             | [pdf](https://www.dropbox.com/scl/fi/que55y0yjrkrf8ts4vbtb/B1328012_-A1.pdf?rlkey=snuqvh1cre9p6okma8rzf32ma&st=q37ve1z0&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/h2ijs1z3z2fwrm9azkdts/B1328012_.pdf?rlkey=rqlyx5qxl9n4eef2nf4pjz4ss&st=2yys682c&dl=0)       |[pdf](https://www.dropbox.com/scl/fi/8n82yc526yb4sx1qs14ut/B1328012_machine-learning-final-report.pdf?rlkey=rhue6dhij98pmhtrrjkvyfg32&st=poxuvdff&dl=0)||
 |14  |運用AI影像辨識模型分辨 iphone 型號              | [pdf](https://www.dropbox.com/scl/fi/xvi0uf0th78ouwzooy84e/B1328004_iphone.pdf?rlkey=ytv7hj49w81r9omgf2zzlbddf&st=mgghe7cj&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/1ykkmj7l2li2kz10xqxlz/B1328004_iPhone.pdf?rlkey=k8rpgj2ybsb8jblnx1y8m9g0h&st=us62q7jw&dl=0)       |||
-|15  |應用 AlphaZero 架構的五子棋智能對弈模型          | [pdf](https://www.dropbox.com/scl/fi/lg0m7xsnahv0nfsxmawsx/B1328013_-OmniFive-1.pdf?rlkey=re8b889m1i1wh6zfg4lds9vx3&st=l6uv2l96&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/f7e2yqukvjsjn2w76mhwx/B1328023_OmniFive.pdf?rlkey=u7lf6cokbhblo6kzommcy24g6&st=huqfdinc&dl=0)       |||
+|15  |應用 AlphaZero 架構的五子棋智能對弈模型          | [pdf](https://www.dropbox.com/scl/fi/lg0m7xsnahv0nfsxmawsx/B1328013_-OmniFive-1.pdf?rlkey=re8b889m1i1wh6zfg4lds9vx3&st=l6uv2l96&dl=0)                       | [pdf](https://www.dropbox.com/scl/fi/f7e2yqukvjsjn2w76mhwx/B1328023_OmniFive.pdf?rlkey=u7lf6cokbhblo6kzommcy24g6&st=huqfdinc&dl=0)       ||[AlphaZero](https://github.com/Suyw-0123/AlphaZero-OmniFive) [MuZero](https://github.com/Vress0/muzero-general)|
 
 <br/>
 
 期末專題書面報告評分解釋 
+
+|組別|   |
+|---|---|
+|1| |
+|2| 沒有交 |
+|3| |
+|4| |
+|5| |
+|6| |
+|7| 沒有交|
+|8| 沒有交|
+|9| |
+|10| |
+|11| |
+|12| |
+|13| |
+|14| |
+|15| 優點：內容很豐富，尤其是AlphaZero的部份，將架構的說明從MCTS到ResNet從頭到尾走了一遍，也介紹了實驗時的結果，佐以豐富的圖表，讓我很清楚這組作了什麼；程式碼都放在GitHub上，很清楚。缺點：三個方法看來是由三組人分別寫，所以有三種風格，很明顯地不一致；放了一些不相干的圖片，降低了專業感；從大語言模型獲得的文字沒有整理乾淨、文字排版沒有整理好、錯別字沒有去乾淨、公式沒有介紹清楚。|
+
 
 #### 教科書
 Pattern Recognition and Machine Learning by Christopher M. Bishop (2006)<br/>
