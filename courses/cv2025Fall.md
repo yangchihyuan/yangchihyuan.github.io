@@ -49,15 +49,19 @@ title: "電腦視覺實務與深度學習"
 |12  |11/21 |                          |            |            | 台大校運會停課         |
 |13  |11/28 | 生成式電腦視覺：無條件生成模型、視覺-語言模型、有條件生成模型、多模態大型模型 |            |            |          |
 |14  |12/5  | 生成式電腦視覺(續)        |            |            |          |
-|15  |12/12 | 生成式電腦視覺(續)        |            |            |          |
-|16  |12/19 | 生成式電腦視覺(續)        |            |            |          |
+|15  |12/12 | 來賓演講：鴻海研究院        |            |            |          |
+|16  |12/19 | 期末專題報告日        |            |            |          |
 
 <br/>
+
+#### 期末專題
+
+改進MobileIE之嚐試 [pdf](https://www.dropbox.com/scl/fi/itgymiedco5msmn6ncs88/CVPDL-final-project-IEEE.pdf?rlkey=6h71f4lppqpg918d5nf0vk6v3&st=x1v4sy6l&dl=0)
 
 #### 教科書
 [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) <br/>
 作者有提供全文電子檔可以免費下載
 
 #### 成績評定標準
-作業 50%（共 3 次）、出席 10%（演講時點名）、期末專題 40% <br/>
+台大學生之規則：作業 50%（共 3 次）、出席 10%（演講時點名）、期末專題 40% <br/>
 學生作業分數將依 Kaggle 平台競賽排名計算，協同老師可依據排名進行給分。
