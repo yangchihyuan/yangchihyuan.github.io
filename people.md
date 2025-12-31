@@ -19,7 +19,7 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 
 #### <center>Master's Students</center>
 
-|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri.png)|
+|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|
 |:---:|:---:|:---:|:---:|
 |Wayne Tsai|Eric Lu|Kan Tippayamontri|
 |蔡承原|盧睿霆|กานต์ ทิพยมนตรี|
