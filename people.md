@@ -29,11 +29,11 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 
 #### <center>Capstone Students</center>
 
-| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|![Eric Chen](http://yangchihyuan.github.io/assets/img/Eric_Chen.jpg)|
-|:---:|:---:|
-|Matt Wu|Eric Chen|
-|吳奕廷|陳毅|
-|[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
+|![Eric Chen](http://yangchihyuan.github.io/assets/img/Eric_Chen.jpg)|
+|:---:|
+|Eric Chen|
+|陳毅|
+|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
 
 |![Justin Chang](http://yangchihyuan.github.io/people/Justin_Chang.jpg)|![Eric Peng](http://yangchihyuan.github.io/people/Eric_Peng.jpg)|![Eathen Weng](http://yangchihyuan.github.io/people/Eathen_Weng.jpg)|![Peter Chen](http://yangchihyuan.github.io/people/Peter_Chen.jpg)|![Yi-Cheng Fang](http://yangchihyuan.github.io/assets/img/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](http://yangchihyuan.github.io/assets/img/Le-Chi_Hu.png)|![Ian Luo](http://yangchihyuan.github.io/assets/img/Ian_Luo.jpg)|![Hao-Cheng Yang](http://yangchihyuan.github.io/assets/img/Hao-Cheng_Yang.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -59,3 +59,10 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |محمد السيد||
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
 
+#### <center>Former Capstone Student</center>
+
+| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|
+|:---:|
+|Matt Wu|
+|吳奕廷|
+|[Personal Page](http://yangchihyuan.github.io/people/Matt_Wu)|
