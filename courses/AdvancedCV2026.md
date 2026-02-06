@@ -42,6 +42,7 @@ This course requires programming experience and fundamental knowledge of compute
 
 |Topic|Slides   |Report | Code |
 |---  |---      |---    | ---- |
+|     |         |       |      |
 
 #### Textbook
 We do not have a textbook because the knowledge reported by latest research papers is too new to be covered by a textbook. An evoling large language model is more useful than a textbook for you to retrive new knowledge.
