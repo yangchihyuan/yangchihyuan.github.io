@@ -6,8 +6,7 @@ title: "Home"
 <h3 class="fw-bold">Current Projects</h3>
 
 #### robot nurse helper
-<img src="http://yangchihyuan.github.io/assets/img/PICU_Scenario_1.jpg" height="250" alt="PICU Scenario">
-<img src="http://yangchihyuan.github.io/assets/img/RobotNurseHelperComponents.jpg" height="250" alt="Components">
+<iframe width="560" height="315" src="https://youtu.be/nSkMEZk-ln4" title="Cataract Nurse Educator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gLJKk88el-U?si=Fk2D7acL8COeuUGV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
