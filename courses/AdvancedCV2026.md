@@ -3,7 +3,7 @@ layout: page
 title: "Advanced Computer Vision 2026"
 ---
 
-Spring 2026, Friday 1:10pm to 4:00pm, Classroom: TBD <br/>
+Spring 2026, Friday 1:10pm to 4:00pm, Classroom: The second Medical Science Building Room 104<br/>
 Instructor: Chih-Yuan Yang
 
 #### Course Information
@@ -26,7 +26,7 @@ This course requires programming experience and fundamental knowledge of compute
 |6 |4/3  |                                                                               |      |          |Holiday: Children's Day       |
 |7 |4/10 | Term project proposal / Paper presentation and discussion 4                   |      |          |                              |
 |8 |4/17 | Paper presentation and discussion 5                                           |      |          |                              |
-|9 |4/24 | Paper presentation and discussion 6                                           |      |          |Midterm report                |
+|9 |4/24 | Paper presentation and discussion 6                                           |      |          |                              |
 |10|5/1  |                                                                               |      |          |Holiday: Labor Day            |
 |11|5/8  | Midterm presentation / Paper presentation and discussion 7                    |      |          |                              |
 |12|5/15 | Paper presentation and discussion 8                                           |      |          |                              |
