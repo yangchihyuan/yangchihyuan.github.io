@@ -16,7 +16,7 @@ This course requires programming experience and fundamental knowledge of compute
 
 #### Microsoft Teams link
 
-https://teams.microsoft.com/meet/48242579078635?p=UaJzY7gYU1iQivpZ10
+[https://teams.microsoft.com/meet/48242579078635?p=UaJzY7gYU1iQivpZ10](https://teams.microsoft.com/meet/48242579078635?p=UaJzY7gYU1iQivpZ10)
 
 #### Syllabus
 
