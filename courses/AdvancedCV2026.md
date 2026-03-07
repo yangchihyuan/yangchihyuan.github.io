@@ -24,7 +24,7 @@ This course requires programming experience and fundamental knowledge of compute
 |---|--- |---                                                                            |---   |---       |---                           |
 |1 |2/27 |                                                                               |      |          |Holiday: Peace Memorial Day Compensation Day |
 |2 |3/6  | Introduction to this course and the top computer vision conferences. Presented paper: [Towards Proactive Social Robots: Distilling Visual Knowledge from Large Vision-Language Models (ICCVW'25)](https://openaccess.thecvf.com/content/ICCV2025W/ACVR/papers/De_Simone_Towards_Proactive_Social_Robots_Distilling_Visual_Knowledge_from_Large_Vision-Language_ICCVW_2025_paper.pdf)   | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDB2bmjWtxCQK9PkoXlCQCGAR66JXlNeeYDutk5K2I-wOA?e=Yecjbj)      | [YouTube](https://youtu.be/sdiZj9lN5g0)         |                              |
-|3 |3/13 | Paper presentation and discussion 1                                           |      |          |                              |
+|3 |3/13 | [LoopViT: Scaling Visual ARC with Looped Transformers](https://arxiv.org/pdf/2602.02156)           |      |          |                              |
 |4 |3/20 | Paper presentation and discussion 2                                           |      |          |                              |
 |5 |3/27 | Paper presentation and discussion 3                                           |      |          |                              |
 |6 |4/3  |                                                                               |      |          |Holiday: Children's Day       |
