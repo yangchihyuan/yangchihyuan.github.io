@@ -28,7 +28,8 @@ This course requires programming experience and fundamental knowledge of compute
 |4 |3/20 | [1: 2025 ICCV From Gaze to Movement: Predicting Visual Attention for Autonomous Driving Human-Machine Interaction based on Programmatic Imitation Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_From_Gaze_to_Movement_Predicting_Visual_Attention_for_Autonomous_Driving_ICCV_2025_paper.html) [2: 2022 WACV SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water](https://openaccess.thecvf.com/content/WACV2022/papers/Varga_SeaDronesSee_A_Maritime_Benchmark_for_Detecting_Humans_in_Open_Water_WACV_2022_paper.pdf)                                            |      |          |                              |
 |5 |3/27 | Paper presentation and discussion 3                                           |      |          |                              |
 |6 |4/3  |                                                                               |      |          |Holiday: Children's Day       |
-|7 |4/10 | Term project proposal / Paper presentation and discussion 4                   |      |          |                              |
+|7 |4/10 | [1: 2025 CVPR Are Spatial-Temporal Graph Convolution Networks for Human Action
+Recognition Over-Parameterized?](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Are_Spatial-Temporal_Graph_Convolution_Networks_for_Human_Action_Recognition_Over-Parameterized_CVPR_2025_paper.pdf)                   |      |          | Term project proposal  |
 |8 |4/17 | Paper presentation and discussion 5                                           |      |          |                              |
 |9 |4/24 | Paper presentation and discussion 6                                           |      |          |                              |
 |10|5/1  |                                                                               |      |          |Holiday: Labor Day            |
