@@ -19,11 +19,12 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 
 #### <center>Master's Students</center>
 
-|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|
+|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|[Niño Jhanus Aniban](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban.png)|
 |:---:|:---:|:---:|:---:|
-|Wayne Tsai|Eric Lu|Kan Tippayamontri|
+|Wayne Tsai|Eric Lu|Kan Tippayamontri|Niño Jhanus Aniban|
 |蔡承原|盧睿霆|กานต์ ทิพยมนตรี|
-|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|
+|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|
+
 
 <p></p>
 

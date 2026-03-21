@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Kan Tippayamontri
+title: "Kan Tippayamontri"
 ---
 >### Contact
 Email: kantippayamontri@gmail.com
