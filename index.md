@@ -5,7 +5,7 @@ title: "Home"
 
 <h3 class="fw-bold">Current Projects</h3>
 
-#### robot nurse helper
+#### Robot nurse helper
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fq8i4wgnws4?si=rasj7HPLbr9MRAso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is a project for developing a companion robot to help nurses in an ophthalmology clinic. There is a shortage of nurses in Taiwan, due to the change of population structure caused by sub-replacement fertility. Our goal is to enable a social to take some nurse tasks to reduce the working load of human nurses. Our first task is to provide nurse education for cararact patients.
