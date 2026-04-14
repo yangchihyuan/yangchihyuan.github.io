@@ -21,4 +21,4 @@ title: "人工智慧學系 專題研究 2026"
 
 [組隊與指導教授登記表(Online Excel)](https://changgunguniversity-my.sharepoint.com/:x:/g/personal/d000019097_cgu_edu_tw/IQDH72_Y5gXpQ7SJy-o1VUExAd2N1fq8ygca-StPZRKXqpg?e=HdAauZ)，因為每位教授有名額限制，獲得指導教授同意指導後，請登記此表，確認你的隊員人數和指導教授的指導人數都在名額限制以內。
 
-[指導教授確認表(PDF)](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQD0mSUw2IkJRIM81oQXD8SsAaRljrk5UL2At-0908hHgp4?e=80N0zH)，請於2026/9/24前繳交。
+[指導教授確認表(PDF)](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQD0mSUw2IkJRIM81oQXD8SsAaRljrk5UL2At-0908hHgp4?e=80N0zH)，請於2026/9/18前繳交。
