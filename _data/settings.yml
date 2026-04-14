@@ -20,6 +20,7 @@ people:
 #- {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: 'assets/img/Eric_Chen.jpg', description: 'Project of Zenbo Nurse Helper', url: 'Eric_Chen'}
 
 courses:
+- {name: '專題研究 (Capstone Project) 2026', url: 'CapstoneProject2026'}
 - {name: 'Advanced Computer Vision 2026', url: 'AdvancedCV2026'}
 - {name: '電腦視覺實務與深度學習 (Computer Vision Practice with Deep Learning) 2025', url: 'cv2025Fall'}
 - {name: '機器學習 (Machine Learning) 2025', url: 'MachineLearning2025'}
