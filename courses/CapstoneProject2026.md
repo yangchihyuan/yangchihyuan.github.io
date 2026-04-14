@@ -13,9 +13,13 @@ title: "人工智慧學系 專題研究 2026"
 
 [長庚大學人工智慧學系指導教授作業原則(PDF)](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQDhiII7UsElS7fpNK8-EcVQAQ02wrRNQHNgFVVyAWMRw6k?e=JRepDs)
 
+<br/>
+
 #### 介紹與說明
 
 [20260415說明會投影片(PPTX)](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQCbb4JNTjAWSoRdpOoOQlhYAU-5uxsTr9Gt1F3uEg1N3Us?e=L9sCLX)
+
+<br/>
 
 #### 組隊與指導教授登記
 
