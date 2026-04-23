@@ -36,7 +36,7 @@ This course requires programming experience and fundamental knowledge of compute
 |12|5/15 | Paper presentation and discussion 8                                           |      |          |                              |
 |13|5/22 | Paper presentation and discussion 9                                           |      |          |                              |
 |14|5/29 | Paper presentation and discussion 10                                          |      |          |                              |
-|15|6/5  | Paper presentation and discussion 11                                          |      |          |                              |
+|15|6/5  | Paper presentation and discussion 11                                          |      |          | CVPR, substituted by (TBD)       |
 |16|6/12 | Term project presentation                                                     |      |          |                              |
 |17|6/19 |                                                                               |      |          | Final report due             |
 
