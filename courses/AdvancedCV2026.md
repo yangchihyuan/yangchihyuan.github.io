@@ -92,7 +92,7 @@ We do not have a textbook because the knowledge reported by latest research pape
 Your final grade will be made up from
 - 50% Your paper presentations in the classroom
 - 10% Discussion participation in the classroom
-- 40% Term project, including proposal (5%), midterm presentation (10%), final project presentation (15%), and final project report (10%). Maximum 5 members each group.
+- 40% Term project, including proposal (5%), midterm presentation (10%), term project presentation (15%), and term project report (10%). Maximum 5 members each group.
 - late policy<br/>
 I do not have a strict late policy because there are only a few students taking this course. I will directly ask students why I do not see their submissions via Teams messages. 
 
