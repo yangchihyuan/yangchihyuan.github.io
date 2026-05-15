@@ -42,11 +42,11 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|
 [Personal Page](http://yangchihyuan.github.io/people/Justin_Chang)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Peng)|[Personal Page](http://yangchihyuan.github.io/people/Eathen_Weng)|[Personal Page](http://yangchihyuan.github.io/people/Peter_Chen)|[Personal Page](http://yangchihyuan.github.io/people/Yi-Cheng_Fang)|[Personal Page](http://yangchihyuan.github.io/people/Le-Chi_Hu)|[Personal Page](http://yangchihyuan.github.io/people/Ian_Luo)|[Personal Page](http://yangchihyuan.github.io/people/Hao-Cheng_Yang)|
 
-|![Po-Zeng Chiang](http://yangchihyuan.github.io/people/MaleStudent.png)|
+|![Sam Jiang](http://yangchihyuan.github.io/people/MaleStudent.png)|
 |:---:|
-||
+|Sam Jiang|
 |姜柏任|
-|[Personal Page](http://yangchihyuan.github.io/people/Eric_Chen)|
+|[Personal Page](http://yangchihyuan.github.io/people/Sam_Jiang)|
 
 <p></p>
 
