@@ -14,10 +14,6 @@ This course is titled Advanced Computer Vision. However, the field is vast—in 
 In this course, I want students to read the latest papers from top computer vision conferences and journals, which are the state-of-the-art research reports. Students need to present their findings, understanding, reproduced experimental results, and ideas for improvements in the classroom. By understanding those cutting-edge methods, students should gain knowledge and get some ideas for their own research.
 This course requires programming experience and fundamental knowledge of computer vision.
 
-#### Microsoft Teams link
-
-[https://teams.microsoft.com/meet/48242579078635?p=UaJzY7gYU1iQivpZ10](https://teams.microsoft.com/meet/48242579078635?p=UaJzY7gYU1iQivpZ10) It will be activated only when asked.
-
 #### Syllabus
 
 |Week|Date|Topic                                                                         |Slides|Recording |Action                        |
