@@ -513,7 +513,7 @@ This is an example. Because it is a sentence with the subordinate clauses where,
 
 This is the revised expression. I highlight the difference in red.
 
-<img src="Equation2.png" height="300"></br>
+<img src="Equation2.png" height="300">
 
 <img src="EquationEndPeriod.png" height="150">
 There should be a period at the end of an equation because an equation is part of the a sentence, which ends at a period.
