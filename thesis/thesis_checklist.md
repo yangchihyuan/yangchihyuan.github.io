@@ -551,7 +551,7 @@ While writing a thesis, the colons you may misuse mostly belong to case 1. Here 
 
 Explanation 
 
-* Soul food is a varied cuisine: it include spicy gumbos, black-eyed peas, and collard greens.
+* Soul food is a varied cuisine: it includes spicy gumbos, black-eyed peas, and collard greens.
 * Soul food has a deceptively simple definition: the ethnic cooking of African Americans.
 
 Sometimes a concluding explanation is preceded by *the following* or *as follows* and a colon:
