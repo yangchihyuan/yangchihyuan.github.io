@@ -591,3 +591,4 @@ The author uses the first colon to introduce a series of the three datasets, but
 The colon at the end is unnecessary. It breaks the sentence into two disconnected pieces thereby preventing the equation from following its verb obtain, which is improper. The correct expression should be 
 
 ![Colon3](Colon3.png)
+
