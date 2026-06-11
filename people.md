@@ -46,7 +46,7 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |:---:|:---:|:---:|:---:|
 |Sam Jiang|Joy Hong|Angel Wu|Bill Po-Yu Chou|
 |姜柏任|洪子貽|吳雨蓁|周柏宇|
-|[Personal Page](http://yangchihyuan.github.io/people/Sam_Jiang)|||[Personal Page](http://yangchihyuan.github.io/people/Bill_Po-Yu_Chou)|
+|[Personal Page](http://yangchihyuan.github.io/people/Sam_Jiang)|[Personal Page](http://yangchihyuan.github.io/people/Joy_Hong)|[Personal Page](http://yangchihyuan.github.io/people/Angel_Wu)|[Personal Page](http://yangchihyuan.github.io/people/Bill_Po-Yu_Chou)|
 
 <p></p>
 
