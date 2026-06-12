@@ -39,9 +39,11 @@ This course requires programming experience and fundamental knowledge of compute
 
 #### Term Project Topics, Slides, and Reports
 
-|Topic|Slides   |Report | Code |
-|---  |---      |---    | ---- |
-|     |         |       |      |
+|Topic|Slides   |Report |
+|---  |---      |---    |
+|Deep Probabilistic Ordinal Regression for Automated Trading Card Evaluation     | [pdf](https://www.dropbox.com/scl/fi/hn36l8pap2ls463bfr3ey/final_presentation_jyesr.pdf?rlkey=4ggb529g5tlcnay3xxmsakyi0&dl=0)        |[pdf](https://www.dropbox.com/scl/fi/7jgr1z5uhnk9k7wu8sy1o/final_report_jyesr.pdf?rlkey=qho7zrtusvbkbwqm58finmetb&dl=0)       |
+||||
+|Improving Sign Language Translation with Visual Features and Previous Context||[pdf](https://www.dropbox.com/scl/fi/8kzf078fgn3408mtfjyqa/ACV_final_report_kan_dean.pdf?rlkey=t7gx7d7pbp5x8xsdvlgeynf5a&dl=0)|
 
 <br/>
 
