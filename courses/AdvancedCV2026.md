@@ -43,7 +43,7 @@ This course requires programming experience and fundamental knowledge of compute
 |---  |---      |---    |
 |Deep Probabilistic Ordinal Regression for Automated Trading Card Evaluation     | [pdf](https://www.dropbox.com/scl/fi/hn36l8pap2ls463bfr3ey/final_presentation_jyesr.pdf?rlkey=4ggb529g5tlcnay3xxmsakyi0&dl=0)        |[pdf](https://www.dropbox.com/scl/fi/reneoqazl33ezokaa99sh/Deep_Probabilistic_Ordinal_Regression_for_Automated_Trading_Card_Evaluation.pdf?rlkey=8a23jlwb2orat0f49blyp3yg8&dl=0)       |
 |Thermal Object Detection for Edge Deployment: A Comparative Study of Lightweight Backbones using YOLO26n on the FLIR ADAS V2 Dataset|[pptx](https://www.dropbox.com/scl/fi/0c4alid8kprstvcfdxg7b/Presentation_Final_Project_ACV2026S-1_Ni-o_Wenceslao.pptx?rlkey=txmnqwp2cnhtl4fpf3yix5qbt&dl=0)|[pdf](https://www.dropbox.com/scl/fi/rlcua59zz21pis6czvl33/Final_Project_Report_ACV_V3_Object_Detection_Thermal_Image_Benchmark.pdf?rlkey=w6rc2nc4icm4jjyxxnz8zt347&dl=0)|
-|Improving Sign Language Translation with Visual Features and Previous Context|[google slides](https://docs.google.com/presentation/d/1CFKb2HiZsGeVGt3dnLEx35WpG9reSO8Bn5yxEccnjHQ/edit?slide=id.p#slide=id.p)|[pdf](https://www.dropbox.com/scl/fi/8kzf078fgn3408mtfjyqa/ACV_final_report_kan_dean.pdf?rlkey=t7gx7d7pbp5x8xsdvlgeynf5a&dl=0)|
+|Improving Sign Language Translation with Visual Features and Previous Context|[google slides](https://docs.google.com/presentation/d/1CFKb2HiZsGeVGt3dnLEx35WpG9reSO8Bn5yxEccnjHQ/edit?slide=id.p#slide=id.p)|[pdf](https://www.dropbox.com/scl/fi/fiecxi2o6m5cmmun9t8ui/ACV_final_report_Kan_dean2.pdf?rlkey=jld5s8f3ofowm1in58xifsvqs&dl=0)|
 
 <br/>
 
