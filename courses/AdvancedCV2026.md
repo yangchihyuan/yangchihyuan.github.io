@@ -41,7 +41,7 @@ This course requires programming experience and fundamental knowledge of compute
 
 |Topic|Slides   |Report |
 |---  |---      |---    |
-|Deep Probabilistic Ordinal Regression for Automated Trading Card Evaluation     | [pdf](https://www.dropbox.com/scl/fi/hn36l8pap2ls463bfr3ey/final_presentation_jyesr.pdf?rlkey=4ggb529g5tlcnay3xxmsakyi0&dl=0)        |[pdf](https://www.dropbox.com/scl/fi/reneoqazl33ezokaa99sh/Deep_Probabilistic_Ordinal_Regression_for_Automated_Trading_Card_Evaluation.pdf?rlkey=8a23jlwb2orat0f49blyp3yg8&dl=0)       |
+|Deep Probabilistic Ordinal Regression for Automated Trading Card Evaluation     | [pdf](https://www.dropbox.com/scl/fi/xxx6cs30vnx9lgd2eloot/final_presentation_jyesr.pdf?rlkey=7klbspz6g7x23i7uhrkogz91m&dl=0)        |[pdf](https://www.dropbox.com/scl/fi/reneoqazl33ezokaa99sh/Deep_Probabilistic_Ordinal_Regression_for_Automated_Trading_Card_Evaluation.pdf?rlkey=8a23jlwb2orat0f49blyp3yg8&dl=0)       |
 |Thermal Object Detection for Edge Deployment: A Comparative Study of Lightweight Backbones using YOLO26n on the FLIR ADAS V2 Dataset|[pptx](https://www.dropbox.com/scl/fi/0c4alid8kprstvcfdxg7b/Presentation_Final_Project_ACV2026S-1_Ni-o_Wenceslao.pptx?rlkey=txmnqwp2cnhtl4fpf3yix5qbt&dl=0)|[pdf](https://www.dropbox.com/scl/fi/rlcua59zz21pis6czvl33/Final_Project_Report_ACV_V3_Object_Detection_Thermal_Image_Benchmark.pdf?rlkey=w6rc2nc4icm4jjyxxnz8zt347&dl=0)|
 |Improving Sign Language Translation with Visual Features and Previous Context|[google slides](https://docs.google.com/presentation/d/1CFKb2HiZsGeVGt3dnLEx35WpG9reSO8Bn5yxEccnjHQ/edit?slide=id.p#slide=id.p)|[pdf](https://www.dropbox.com/scl/fi/fiecxi2o6m5cmmun9t8ui/ACV_final_report_Kan_dean2.pdf?rlkey=jld5s8f3ofowm1in58xifsvqs&dl=0)|
 
@@ -53,37 +53,6 @@ We do not have a textbook because no textbook can cover the findings reported by
 #### Reference Books
 - Available online for free offered by the authors.
   - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski (2022) <br/>
-  - [Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jam Solem. (2012)
-  - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow et al. (2016). A third-party-made PDF is available at [GitHub](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-bookmarked-pdf/deeplearningbook.pdf).
-  - [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon J.D. Prince. (2012)
-  - [Data Driven Science and Engineering](http://databookuw.com/databook.pdf) by Steven L. Brunton and J. Nathan Kutz. (2017)
-  - [Learn Computer Vision Using OpenCV With Deep Learning CNNs and RNNs](https://link.springer.com/book/10.1007/978-1-4842-4261-2) by Sunila Gollapudi (2019)
-- No free PDF offered by the authors, but available at school library.
-  - Digital Image Processing 3th edition by Rafael Gonzalez and Richard Woods. (2008) There is a 4th edition published in 2017.
-  - Digital Image Processing using Matlab 2nd edition by Rafael Gonzalez et al. (2010)
-  - Learning OpenCV3 by Adrian Kaehler & Gary Bradski. (2017)
-- No free PDF offered by the authors, but code available at GitHub.
-  - OpenCV 3.x with Python By Example 2nd edition by Gabriel Garrido and Prateek Joshi. (2018)
-  
-#### Existing Full-length Course Lecture Recordings
-- [MIT 6.S191: Introduction to Deep Learning 2023](http://introtodeeplearning.com/)
-- [NTHU EE 6485 Computer Vision 2022](https://aliensunmin.github.io/teaching/cv2022/index.html)
-- [UMich EECS 498-007: Deep Learning for Computer Vision 2019](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP)
-- [Stanford CS231n: Deep Learning for Computer Vision 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- [UCF CAP5415: Computer Vision 2014](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
-
-#### Existing Online Lecture Videos for Computer Vision Knowledge Points
-- [Columbia Computer Science 2021](https://www.youtube.com/@firstprinciplesofcomputerv3258)
-
-#### Existing Computer Vision Course Slides for Self-Learning
-- Alexei Efros at UC Berkeley [https://cs280-berkeley.github.io/](https://cs280-berkeley.github.io/)
-- Derek Hoiem at UIUC [https://courses.engr.illinois.edu/cs543/sp2017/](https://courses.engr.illinois.edu/cs543/sp2017/)
-- David Forsyth at UIUC [http://luthuli.cs.uiuc.edu/~daf/courses/CV23/planned.html](http://luthuli.cs.uiuc.edu/~daf/courses/CV23/planned.html)
-- James Hays at Georgia Tech [https://faculty.cc.gatech.edu/~hays/compvision2022fall/](https://faculty.cc.gatech.edu/~hays/compvision2022fall/)
-- Steve Seitz at U Washington [https://courses.cs.washington.edu/courses/cse576/20sp/calendar/](https://courses.cs.washington.edu/courses/cse576/20sp/calendar/)
-- Min Sun at NTHU [https://aliensunmin.github.io/teaching/cv2022/index.html](https://aliensunmin.github.io/teaching/cv2022/index.html)
-- Justin Johnson at UMich [https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
 
 #### Grading
 Your final grade will be made up from
