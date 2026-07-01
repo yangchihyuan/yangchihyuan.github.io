@@ -50,6 +50,15 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 
 <p></p>
 
+#### <center>2026 TEEP Students</center>
+
+|![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/FemaleStudent.jpg)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/MaleStudent.jpg)|![Karthikeya Palani Murugan](http://yangchihyuan.github.io/people/MaleStudent.jpg)|
+|:---:|:---:|:---:|
+|Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeya Palani Murugan|
+||||
+|[Personal Page]()|[Personal Page]()|[Personal Page]()|  
+
+
 #### <center>Alumni</center>
 
 | ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|
