@@ -25,7 +25,6 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |蔡承原|盧睿霆|กานต์ ทิพยมนตรี||||
 |[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|[Personal Page](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis)|[Personal Page](http://yangchihyuan.github.io/people/John_Astronomo_Bacus)|
 
-
 <p></p>
 
 #### <center>Capstone Students</center>
@@ -68,6 +67,8 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |劉冠亨|
 |[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|
 
+<p></p>
+
 #### <center>Former Visiting Students</center>
 
 |![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|
@@ -75,6 +76,8 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |Mohamed Elsayed|Rachael Zehrung|
 |محمد السيد||
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
+
+<p></p>
 
 #### <center>Former Capstone Student</center>
 
