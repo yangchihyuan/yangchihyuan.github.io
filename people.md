@@ -54,7 +54,7 @@ For applicants from Pakistan, Bangladesh, and Somalia, you need to find a profes
 |![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta.png)|![Karthikeya Palani Murugan](http://yangchihyuan.github.io/people/Karthikeya_Palani_Murugan.png)|
 |:---:|:---:|:---:|
 |Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeya Palani Murugan|
-|श्रुति कुमारी जयसवाल|शिव कुमार गुप्ता||
+|श्रुति कुमारी जयसवाल|शिव कुमार गुप्ता|कार्तिकेय पलानी मुरुगन|
 |[Personal Page](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal)|[Personal Page](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta)|[Personal Page](http://yangchihyuan.github.io/people/Karthikeya_Palani_Murugan)|  
 
 <p></p>
