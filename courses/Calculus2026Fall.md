@@ -44,6 +44,11 @@ title: "微積分 2026 秋季學期"
 
 #### 教科書
 
+<!-- -->
+1. Calculus Early Transcendentals 9th Edition Metric Edition by James Stewart, Daniel Clegg, Saleem Watson (2021)
+2. Calculus 12th Edition Metric Edition by Ron Larson and Bruce H. Edwards (2023)
+3. OpenStax Calculus Rice University (2016)
+
 
 #### 網路資源
 從牛頓和萊布尼茲開始，微積分已經發展350年了，歷史久遠。在本門課所涵蓋的基礎範圍內，已經非常的成熟而且鮮少變動了。由於微積分是各大專院校理工科基礎課程，講授及學習的人數都極多，很多學校都有公開課程可以自由學習，也有非常多免費教科書可以合法下載。
