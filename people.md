@@ -9,7 +9,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Professor</center>
 
-| ![Chih-Yuan Yang](http://yangchihyuan.github.io/assets/img/cyyang20241018.jpg)|
+| ![Chih-Yuan Yang](http://yangchihyuan.github.io/people/Chih-Yuan_Yang.png)|
 |:---:|
 |Chih-Yuan Yang|
 |楊智淵|
