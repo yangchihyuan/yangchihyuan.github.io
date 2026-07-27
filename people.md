@@ -18,11 +18,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Master's Students</center>
 
-|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|![Niño Jhanus Aniban](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](http://yangchihyuan.github.io/people/John_Astronomo_Bacus.jpg)||
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Wayne Tsai|Eric Lu|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|
-|蔡承原|盧睿霆|กานต์ ทิพยมนตรี||||
-|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|[Personal Page](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis)|[Personal Page](http://yangchihyuan.github.io/people/John_Astronomo_Bacus)|
+|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|![Niño Jhanus Aniban](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](http://yangchihyuan.github.io/people/John_Astronomo_Bacus.jpg)||
+|:---:|:---:|:---:|:---:|
+|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|
+|กานต์ ทิพยมนตรี||||
+|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|[Personal Page](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis)|[Personal Page](http://yangchihyuan.github.io/people/John_Astronomo_Bacus)|
 
 <p></p>
 
@@ -60,11 +60,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Alumni</center>
 
-| ![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|
-|:---:|
-|Brian Liu|
-|劉冠亨|
-|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|
+|![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|
+|:---:|:---:|:---:|
+|Brian Liu|Wayne Tsai|Eric Lu|
+|劉冠亨|蔡承原|盧睿霆|
+|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|
 
 <p></p>
 
