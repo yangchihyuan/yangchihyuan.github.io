@@ -13,7 +13,7 @@ title: "微積分 2026 秋季學期"
 每週四下午1:10至4:00 教室：待宣佈
 
 #### 助教與答問時間
-許哲瑜 m1461011@cgu.edu.tw 答問時間：待宣佈
+John Astronomo Bacus m1461037@cgu.edu.tw 答問時間：待宣佈
 
 #### 教師與答問時間
 楊智淵 cyyang@cgu.edu.tw <br/>
