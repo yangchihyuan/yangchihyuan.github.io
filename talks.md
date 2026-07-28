@@ -6,7 +6,7 @@ title: "Talks"
 2026 Jul 系所祕書研習會(兩小時上機實作課)：如何使用Gemini Notebook輔助行政工作及風險管控
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCCNxRogAfE?si=4_xma_BPm2Ikya52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[pptx](https://www.dropbox.com/scl/fi/kez590ds3m3lyhbxqk2yf/20260720.pptx?rlkey=jf7hlqaegywxvveynyrnwveih&dl=0)
+投影片檔[pptx](https://www.dropbox.com/scl/fi/kez590ds3m3lyhbxqk2yf/20260720.pptx?rlkey=jf7hlqaegywxvveynyrnwveih&dl=0) 上課練習用的虛擬簽呈[zip](https://www.dropbox.com/scl/fi/7q5q8sz1mh4kh9uc4vydr/.zip?rlkey=6tp842bbfi3j92vce7t2qun1t&dl=0)
 
 <br/>
 
