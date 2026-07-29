@@ -18,11 +18,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Master's Students</center>
 
-|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|![Niño Jhanus Aniban](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](http://yangchihyuan.github.io/people/John_Astronomo_Bacus.jpg)||
-|:---:|:---:|:---:|:---:|
-|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|
-|กานต์ ทิพยมนตรี||||
-|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|[Personal Page](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis)|[Personal Page](http://yangchihyuan.github.io/people/John_Astronomo_Bacus)|
+|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|![Niño Jhanus Aniban](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](http://yangchihyuan.github.io/people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](http://yangchihyuan.github.io/people/Vedant_Vilas_Bijwe.jpg)|
+|:---:|:---:|:---:|:---:|:---:|
+|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|
+|กานต์ ทิพยมนตรี|||||
+|[Personal Page](http://yangchihyuan.github.io/people/Kan_Tippayamontri)|[Personal Page](http://yangchihyuan.github.io/people/Niño_Jhanus_Aniban)|[Personal Page](http://yangchihyuan.github.io/people/Luigi_Thoriq_Kholis)|[Personal Page](http://yangchihyuan.github.io/people/John_Astronomo_Bacus)|[Personal Page](http://yangchihyuan.github.io/people/Vedant_Vilas_Bijwe)|
 
 <p></p>
 
