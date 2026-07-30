@@ -5,10 +5,10 @@ title: "Home"
 
 <h3 class="fw-bold">Current Projects</h3>
 
-#### Solo senior senny
+#### Solo senior watch robot
 <img src="http://yangchihyuan.github.io/assets/img/SoloSeniorSenny.jpg" height="450" alt="solo_senior_senny">
 
-This is an NSTC project, aiming to develop a social robot program to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
+This is an NSTC project, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
 
 #### Robot nurse helper
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFMWWAFXm4M?si=sijLDe8WA4JOoQEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
