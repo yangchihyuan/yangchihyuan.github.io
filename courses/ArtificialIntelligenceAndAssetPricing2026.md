@@ -4,15 +4,13 @@ title: "Artificial Intelligence and Asset Pricing 2026 Fall Semester"
 ---
 
 Fall 2026, Mondayy 9:10 am to 12:00 pm, Classroom: To be announced<br/>
-Instructor: Ren-Raw Chen and Chih-Yuan Yang
+Instructors: Ren-Raw Chen and Chih-Yuan Yang
 
 #### Course Information
 The objective of this course is to use AI/ML to evaluate complex financial (often derivatives) contracts.  To do that, we not only need to be able to use on-the-shelf libraries, but also need to understand the underlying math and algorithms.  In other words, we will “open the black box” of every method we use in this class.  Derivations as well as good skills in Python or R are required for this course.
 
 #### Prerequisites
 Programming language (Python or R) and basic knowledge of probability and statistics. Linear algebra and calculus are also helpful.
-
-#### Syllabus
 
 #### Teaching Assistant and Office Hours
 To be announced
@@ -54,5 +52,8 @@ Your final grade will be made up from
 Ten points will be deducted each day for a submission is late. However, you have three penalty-free "waive days" free the entire course. Specifically, the first 24 hours after the due date counts as one day, up to 48 hours as two days, and up to 72 hours as three days. Once you run out of the three "waive days", I will begin deducting points from your score.
 
 #### Contact Info and Office Hour
+Ren-Raw Chen: rchen@fordham.edu  <br/>
+Office hour: To be annouced<br/>
+<br/>
 Chih-Yuan Yang: cyyang@cgu.edu.tw <br/>
-Office hours: Tue 10:30~11:30 Management Building Room 1416<br/>
+Office hour: Tue 10:30~11:30 Management Building Room 1416<br/>
