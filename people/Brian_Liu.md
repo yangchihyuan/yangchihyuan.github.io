@@ -14,8 +14,11 @@ Thesis
 
 Awards
 
-114學年度教育部UStart創業競賽金獎，獎金75萬元
+114學年度教育部UStart創業競賽第二階段績優，獎金75萬元
 
+<img src="./Brian_Liu/UStart1.jpg" alt="UStart1.jpg" height="250">
+
+114學年度教育部UStart創業競賽第一階段績優，獎金20萬元
 
 2025 Panasonic 綠色生活創意設計大賽 金獎
 
