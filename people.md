@@ -64,7 +64,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
-|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/)|
+|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](/people/Eric_Lu)|
 
 <p></p>
 

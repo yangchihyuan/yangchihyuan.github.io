@@ -2,36 +2,18 @@
 layout: page
 title: "Eric Lu 盧睿霆"
 ---
->### Research Interests
-- Image Recognition
-- Object Detection
-- Facial Emotion Recognition
 
->### Areas of Expertise
-- Web Scraping
-- Data Cleaning
-- Automated Workflow System Development
+## Personal GitHub Page
+https://ericlu924.github.io/EricLu_CGU_LAB_personal_profile.github.io/
 
->### Work Experience
-- Crawler Engineer
-- Full Stack Engineer
+## Thesis
 
->### Competition Experience
-1. **ERPS Society 2024 E-System Innovation Competition** – Honorable Mention
-2. **University Graduation Topical Research Project** – Excellent Award
-3. Participated in the 2023 (112th Academic Year) NSTC College Student Research Program
-4. Participated in the 28th College Student Project Competition for Innovative Applications in Information Services
-5. Participated in the 29th College Student Project Competition for Innovative Applications in Information Services
-6. Represented the department in the 112th Academic Year College-Level “5+1 Joint Information Exhibition”
+[結合全域-局部特徵表示與標籤分布學習之量化人臉情緒辨識框架 Word file](https://yangchihyuan.github.io/people/Eric_Lu/20260727%20Eric%20Lu%20Thesis.docs)
 
->### IT-Related Community Service Activities:
-- Helped prepare and produce online course materials for the Boyo Social Welfare Foundation.
-- Assisted with computer science education for students in remote elementary and junior high schools in Nanao Township.
+[Reference bib file](https://yangchihyuan.github.io/people/Eric_Lu/20260727%20Eric%20Lu%20Thesis%20Reference.docs)
 
+## Contact
 
-
->### Contact
-- **Email：** M1361008@cgu.edu.tw
-
+Email: M1361008@cgu.edu.tw
 
 ---
