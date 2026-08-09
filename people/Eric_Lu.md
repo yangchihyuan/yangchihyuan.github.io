@@ -11,7 +11,7 @@ title: "Eric Lu 盧睿霆"
 
 [A Lightweight FER Framework with Global-Local Feature Representation and Label Distribution Learning 結合全域-局部特徵表示與標籤分布學習之量化人臉情緒辨識框架 (Word .docx file)](https://yangchihyuan.github.io/people/Eric_Lu/20260727%20Eric%20Lu%20Thesis.docx)
 
-[Reference bib file](https://yangchihyuan.github.io/people/Eric_Lu/20260727%20Eric%20Lu%20Thesis%20Reference.docs)
+[Reference bib file](https://yangchihyuan.github.io/people/Eric_Lu/20260727%20Eric%20Lu%20Thesis%20References.bib)
 
 #### Contact
 
