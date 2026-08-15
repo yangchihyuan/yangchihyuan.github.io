@@ -44,15 +44,16 @@ John Astronomo Bacus m1461037@cgu.edu.tw 答問時間：待宣佈
 
 #### 教科書
 
-沒有指定教科書，請從以下幾本自由選擇
+沒有指定教科書，請從以下三本自由選擇。前兩本是商業出版的教科書，第三本是免費的開放式教科書。前兩本教科書的內容大致相同，第三本教科書的內容較少，但也足夠應付本課程的需求。
 
 |Year|Title|Authors|ISBN|Online resource| Price(NTD)|
 |--- |---  |---    |--- |---            |---        |
 |2025|Essential Calculus Metric Edition |Ron Larson and Bruce H. Edwards |978-6-267-53316-1 |  |1,300 東華書局|
 |2024|Calculus Early Transcendentals 9/e Metric Edition | James Stewart, Daniel Clegg, Saleem Watson |978-6-267-53306-2 | |1,540 滄海書局|
-|2021|same |same | 978-0-357-11351-6 | [GitHub pdf](https://github.com/CS-Edwards/textbooks/blob/master/mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf) [resolution](https://github.com/dustinthesky/appendix_solution_of_calculus/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B9%9D%E7%89%88%E9%99%84%E5%BD%95%E7%AD%94%E6%A1%88%2020230625.pdf) | unknown|
-|2020|same, loose-leaf ed | same| 978-0-357-02229-0 | [Internet Archive](https://archive.org/details/stewart-j.-clegg-d.-watson-s.-calculus.-early-transcendentals-9ed-2020/page/891/mode/2up) | unknown|
 |2016| OpenStax Calculus | Rice University | 978-1-947-17213-5 | [download](https://openstax.org/details/books/calculus-volume-1?Book%20details)| Free |
+
+<!--|2021|same |same | 978-0-357-11351-6 | [GitHub pdf](https://github.com/CS-Edwards/textbooks/blob/master/mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf) [resolution](https://github.com/dustinthesky/appendix_solution_of_calculus/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B9%9D%E7%89%88%E9%99%84%E5%BD%95%E7%AD%94%E6%A1%88%2020230625.pdf) | unknown|
+|2020|same, loose-leaf ed | same| 978-0-357-02229-0 | [Internet Archive](https://archive.org/details/stewart-j.-clegg-d.-watson-s.-calculus.-early-transcendentals-9ed-2020/page/891/mode/2up) | unknown| -->
 
 <br/>
 

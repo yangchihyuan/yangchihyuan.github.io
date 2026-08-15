@@ -13,6 +13,8 @@ This is an NSTC project, aiming to develop a social robot program as a watchdog 
 #### Robot nurse helper
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gl8OrY62YNc?si=JDJkF0hzykJIhrGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/itbHiq3a3BM?si=un66-Z1tI9fwng04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is a project to develop an interactive robot desktop multimedia system to deliver health education in hospitals to alleviate the shortage of nurse educator in Taiwan. We collaborate with an ophthalmologist at Chang Gung Memorial Hospital to develop the content and control flow for cataract patients for their pre- and post-surgical health education.
 Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/RobotNurseHelper).
 
