@@ -3,7 +3,7 @@ layout: page
 title: "Artificial Intelligence and Asset Pricing 2026 Fall Semester"
 ---
 
-Fall 2026, Mondayy 9:10 am to 12:00 pm, Classroom: To be announced<br/>
+Fall 2026, Monday 9:10 am to 12:00 pm, Classroom: To be announced<br/>
 Instructors: Ren-Raw Chen and Chih-Yuan Yang
 
 #### Course Information
