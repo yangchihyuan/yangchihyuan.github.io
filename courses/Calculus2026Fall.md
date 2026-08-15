@@ -61,7 +61,9 @@ John Astronomo Bacus m1461037@cgu.edu.tw 答問時間：待宣佈
 從牛頓和萊布尼茲開始，微積分已經發展350年了，歷史久遠。在本門課所涵蓋的基礎範圍內，已經非常的成熟而且鮮少變動了。由於微積分是各大專院校理工科基礎課程，講授及學習的人數都極多，很多學校都有公開課程可以自由學習，也有非常多免費教科書可以合法下載。
 
 [臺大微積分開放式課程](https://ocw.aca.ntu.edu.tw/courses/100S111) 臺大數學系朱樺教授主講 (2011年錄製)
+
 [清大微積分開放式課程](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=7) 清大數學系高淑蓉教授主講 (2019年錄製)
+
 [清大微積分開放式課程免費教科書列表](https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645) 共17份 PDF檔案
   
 #### 成績評定標準
