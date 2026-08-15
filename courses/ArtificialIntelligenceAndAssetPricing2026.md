@@ -49,11 +49,11 @@ Your final grade will be made up from
 - 70% Homework assignments, including 7 homework assignments (10% each).
 - 30% final exam
 - late policy<br/>
-Ten points will be deducted each day for a submission is late. However, you have three penalty-free "waive days" free the entire course. Specifically, the first 24 hours after the due date counts as one day, up to 48 hours as two days, and up to 72 hours as three days. Once you run out of the three "waive days", I will begin deducting points from your score.
+Ten points will be deducted each day a submission is late. However, you have three penalty-free "waive days" free the entire course. Specifically, the first 24 hours after the due date counts as one day, up to 48 hours as two days, and up to 72 hours as three days. Once you run out of the three "waive days", I will begin deducting points from your score.
 
 #### Contact Info and Office Hour
 Ren-Raw Chen: rchen@fordham.edu  <br/>
-Office hour: To be annouced<br/>
+Office hour: To be announced<br/>
 <br/>
 Chih-Yuan Yang: cyyang@cgu.edu.tw <br/>
 Office hour: Tue 10:30~11:30 Management Building Room 1416<br/>
