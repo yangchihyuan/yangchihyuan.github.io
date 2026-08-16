@@ -31,9 +31,9 @@ title: "人工智慧應用實務 2026 秋季學期"
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
 |6   |10/16 |         |物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe |           |            |          |
 |7   |10/23 |         |英語寫作學習工具Grammarly, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
-|8   |10/30 |         |                           |           |           |          |
+|8   |10/30 |         |影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, Firefly                           |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
-|10  |11/13 |         |影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, Firefly |            |            |        |
+|10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
 |11  |11/20 |         |影音創作工具之二 Sora, Qwen, Runway Gen-3 / Veo                |            |            |          |
 |12  |11/27 |         |虛擬人工具HeyGen, Synthesia, D-ID       |            |             |          |
 |13  |12/4  | 頼旭昭   |圖形檢索增強生成工具Neo4J                |            |            |          |
