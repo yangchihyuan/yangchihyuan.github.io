@@ -13,8 +13,8 @@ title: "人工智慧應用實務 2026 秋季學期"
 每週五上午9:10至12:00 教室：電腦教室6
 
 #### 助教與答問時間
-專任助教：張喬翔 b1228001@cgu.edu.tw 答問時間：待宣佈 <br/>
-共用助教：待公佈 (與智慧方法概論、智慧運算技術導論共用助教)
+專任助教：張喬翔 b1228001@cgu.edu.tw 答問時間：待公佈 <br/>
+共用助教：袁聖博 d1300701@cgu.edu.tw 答問時間：待公佈 (與智慧方法概論、智慧運算技術導論共用助教)
 
 #### 教師與答問時間
 楊智淵 cyyang@cgu.edu.tw <br/>
@@ -27,15 +27,15 @@ title: "人工智慧應用實務 2026 秋季學期"
 |1   |9/11  | 楊智淵  |課程簡介及圖片修編工具：Canva AI, Pixlr, Remove.bg, Remini, Topaz, Magnific, IO Paint          |            |            |          |
 |2   |9/18  | 林英嘉  |大語言模型Gemini, ChatGPT, Claude    |            |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
-|4   |10/2  |         |筆記本工具Gemini Notebook及簡報製作工具Gamma              |           |            |         |
+|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma             |           |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
-|6   |10/16 |         |物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe |           |            |          |
-|7   |10/23 |         |英語寫作學習工具Grammarly, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
-|8   |10/30 |         |影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, 影音創作工具之二 Sora, Qwen, Runway Gen-3, Firefly                           |           |           |          |
+|6   |10/16 | 楊智淵  |物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe 楊智淵 影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, 影音創作工具之二 Sora, Qwen, Runway Gen-3, Firefly |           |            |          |
+|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
+|8   |10/30 | 蘇豐文  | AI 音樂工具                          |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
 |10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
-|11  |11/20 | 蘇豐文 | AI 音樂工具            |            |          |
-|12  |11/27 |         |虛擬人工具HeyGen, Synthesia, D-ID       |            |             |          |
+|11  |11/20 | 張書瑋  | 如何善用AI工具學習統計分析 ChatGPT, SAS            |            |          |
+|12  |11/27 | 陳冠甫  | 醫療用 no-code/low-code AI工具       |            |             |          |
 |13  |12/4  | 頼旭昭   |圖形檢索增強生成工具Neo4J                |            |            |          |
 |14  |12/11 | 馬誠佑   |醫學影像AI工具 3D-Slicer                 |            |            |          |
 |15  |12/18 | 楊智淵   |期末專題報告，無授課                 |            |            |          | 

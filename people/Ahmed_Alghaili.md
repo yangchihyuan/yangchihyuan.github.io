@@ -3,7 +3,7 @@ layout: page
 title: "Ahmed Alghaili"
 ---
 >### Contact
-Email: m15610301@cgu.edu.tw
+Email: m1561025@cgu.edu.tw
 
 
 ---
