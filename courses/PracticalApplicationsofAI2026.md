@@ -27,9 +27,9 @@ title: "人工智慧應用實務 2026 秋季學期"
 |1   |9/11  | 楊智淵  |課程簡介及圖片修編工具：Canva AI, Pixlr, Remove.bg, Remini, Topaz, Magnific, IO Paint          |            |            |          |
 |2   |9/18  | 林英嘉  |大語言模型Gemini, ChatGPT, Claude    |            |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
-|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma             |           |            |         |
+|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具, 物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe 楊智淵 影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, 影音創作工具之二 Sora, Qwen, Runway Gen-3, FireflyGamma             |           |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
-|6   |10/16 | 楊智淵  |物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe 楊智淵 影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, 影音創作工具之二 Sora, Qwen, Runway Gen-3, Firefly |           |            |          |
+|6   |10/16 | 鄭振牟  | 定理證明 AI 工具 ChatGPT |           |            |          |
 |7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具                          |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
