@@ -24,19 +24,19 @@ title: "人工智慧應用實務 2026 秋季學期"
 
 |週次 |日期  |授課教師 | 主題                   |投影片     |錄影         | 預定事項 |
 |--- |---   |---      |---                      |---         |---         |---       |
-|1   |9/11  | 楊智淵  |課程簡介及圖片修編工具：Canva AI, Pixlr, Remove.bg, Remini, Topaz, Magnific, IO Paint          |            |            |          |
+|1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, Sora, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          |            |            |          |
 |2   |9/18  | 林英嘉  |大語言模型Gemini, ChatGPT, Claude    |            |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
-|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具, 物件辨識工具：Google Images, Google 智慧鏡頭, MediaPipe 楊智淵 影音創作工具之一 Nano Banana, Midjourney, Suno, Lyria, 影音創作工具之二 Sora, Qwen, Runway Gen-3, FireflyGamma             |           |            |         |
+|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe              |           |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
 |6   |10/16 | 鄭振牟  | 定理證明 AI 工具 ChatGPT |           |            |          |
-|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
+|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具                          |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
 |10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
 |11  |11/20 | 張書瑋  | 如何善用AI工具學習統計分析 ChatGPT, SAS            |            |          |
 |12  |11/27 | 陳冠甫  | 醫療用 no-code/low-code AI工具       |            |             |          |
-|13  |12/4  | 頼旭昭   |圖形檢索增強生成工具Neo4J                |            |            |          |
+|13  |12/4  | 賴旭昭  |圖形檢索增強生成工具 Neo4J                |            |            |          |
 |14  |12/11 | 馬誠佑   |醫學影像AI工具 3D-Slicer                 |            |            |          |
 |15  |12/18 | 楊智淵   |期末專題報告，無授課                 |            |            |          | 
 |16  |12/25 |         |假日，無授課           |            |            | 行憲紀念日         |
@@ -52,8 +52,9 @@ title: "人工智慧應用實務 2026 秋季學期"
 
   
 #### 成績評定標準
+- 20% 出席
 - 60% 作業
-- 40% 期末專題報告
+- 20% 期末專題報告
 
 #### 作業遲交規則
 遲交每天會少掉10分，但整學期有三天的寬限期，也就是說，如果你遲交三次，每次都是一天，不扣分。或是遲交一次，天數是三天，也不扣分。超過這三天的寬限期，就會開始扣分了。
