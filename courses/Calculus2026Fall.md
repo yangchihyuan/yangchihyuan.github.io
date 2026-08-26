@@ -14,7 +14,7 @@ title: "微積分 2026 秋季學期"
 
 #### 助教與答問時間
 專任助教：John Astronomo Bacus m1461037@cgu.edu.tw 答問時間：待公佈 <br/>
-共用助教：待公佈 (與多代理人系統導論、人工智慧與音樂導論、醫學影像處理三門課共用助教)
+共用助教：黃晨炫 m1461005@cgu.edu.tw 答問時間：待公佈 (與多代理人系統導論、人工智慧與音樂導論、醫學影像處理三門課共用助教)
 
 #### 教師與答問時間
 楊智淵 cyyang@cgu.edu.tw <br/>
@@ -45,7 +45,7 @@ title: "微積分 2026 秋季學期"
 
 #### 教科書
 
-沒有指定教科書，請從以下三本自由選擇。前兩本是商業出版的教科書，第三本是免費的開放式教科書。前兩本教科書的內容大致相同，第三本教科書的內容較少，但也足夠應付本課程的需求。
+沒有指定教科書，請從以下三本自由選擇。前兩本是商業出版的教科書，非常精美，第三本是免費的開放式教科書。前兩本教科書的內容大致相同，第三本教科書的內容較少，但也足夠應付本課程的需求。
 
 |Year|Title|Authors|ISBN|Online resource| Price(NTD)|
 |--- |---  |---    |--- |---            |---        |
@@ -53,19 +53,19 @@ title: "微積分 2026 秋季學期"
 |2024|Calculus Early Transcendentals 9/e Metric Edition | James Stewart, Daniel Clegg, Saleem Watson |978-6-267-53306-2 | |1,540 滄海書局|
 |2016| OpenStax Calculus | Rice University | 978-1-947-17213-5 | [download](https://openstax.org/details/books/calculus-volume-1?Book%20details)| Free |
 
+[清大微積分開放式課程免費教科書列表](https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645) 共17份 PDF檔案
+
 <!--|2021|same |same | 978-0-357-11351-6 | [GitHub pdf](https://github.com/CS-Edwards/textbooks/blob/master/mathematics/calculus/stewart_calculus/Calculus%20Early%20Transcendentals%209th%20Edition%20by%20James%20Stewart%2C%20Daniel%20K.%20Clegg%2C%20Saleem%20Watson%2C%20Lothar%20Redlin.pdf) [resolution](https://github.com/dustinthesky/appendix_solution_of_calculus/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B9%9D%E7%89%88%E9%99%84%E5%BD%95%E7%AD%94%E6%A1%88%2020230625.pdf) | unknown|
 |2020|same, loose-leaf ed | same| 978-0-357-02229-0 | [Internet Archive](https://archive.org/details/stewart-j.-clegg-d.-watson-s.-calculus.-early-transcendentals-9ed-2020/page/891/mode/2up) | unknown| -->
 
 <br/>
 
 #### 網路資源
-從牛頓和萊布尼茲開始，微積分已經發展350年了，歷史久遠。在本門課所涵蓋的基礎範圍內，已經非常的成熟而且鮮少變動了。由於微積分是各大專院校理工科基礎課程，講授及學習的人數都極多，很多學校都有公開課程可以自由學習，也有非常多免費教科書可以合法下載。
+從牛頓和萊布尼茲開始，微積分已經發展350年了，歷史久遠。在本門課所涵蓋的基礎範圍內，已經非常的成熟而且鮮少變動了。由於微積分是各大專院校理工科基礎課程，講授及學習的人數都極多，很多學校都有公開課程可以自由學習。
 
 [臺大微積分開放式課程](https://ocw.aca.ntu.edu.tw/courses/100S111) 臺大數學系朱樺教授主講 (2011年錄製)
 
 [清大微積分開放式課程](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=7) 清大數學系高淑蓉教授主講 (2019年錄製)
-
-[清大微積分開放式課程免費教科書列表](https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645) 共17份 PDF檔案
   
 #### 成績評定標準
 - 40% 作業
