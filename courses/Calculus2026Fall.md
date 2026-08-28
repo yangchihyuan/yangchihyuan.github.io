@@ -49,9 +49,9 @@ title: "微積分 2026 秋季學期"
 
 |Year|Title|Authors|ISBN|Online resource| Price(NTD)|
 |--- |---  |---    |--- |---            |---        |
-|2025|Essential Calculus Metric Edition |Ron Larson and Bruce H. Edwards |978-6-267-53316-1 |  |1,300 東華書局|
 |2024|Calculus Early Transcendentals 9/e Metric Edition | James Stewart, Daniel Clegg, Saleem Watson |978-6-267-53306-2 | |1,540 滄海書局|
-|2016| OpenStax Calculus | Rice University | 978-1-947-17213-5 | [download](https://openstax.org/details/books/calculus-volume-1?Book%20details)| Free |
+|2025|Essential Calculus Metric Edition |Ron Larson and Bruce H. Edwards |978-6-267-53316-1 |  |1,300 東華書局|
+|2016|OpenStax Calculus | Rice University | 978-1-947-17213-5 | [download](https://openstax.org/details/books/calculus-volume-1?Book%20details)| Free |
 
 [清大微積分開放式課程免費教科書列表](https://ocw.nthu.edu.tw/ocw/index.php?page=newsContent&id=645) 共17份 PDF檔案
 
