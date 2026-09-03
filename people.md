@@ -50,31 +50,31 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>2026 TEEP Students</center>
 
-|![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta.png)|![Karthikeyan Palani Murugan](http://yangchihyuan.github.io/people/Karthikeyan_Palani_Murugan.png)|
-|:---:|:---:|:---:|
-|Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeyan Palani Murugan|
-|श्रुति कुमारी जयसवाल|शिव कुमार गुप्ता|कार्तिकेय पलानी मुरुगन|
-|[Personal Page](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal)|[Personal Page](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta)|[Personal Page](http://yangchihyuan.github.io/people/Karthikeyan_Palani_Murugan)|  
+|![Karthikeyan Palani Murugan](http://yangchihyuan.github.io/people/Karthikeyan_Palani_Murugan.png)|
+|:---:|
+|Karthikeyan Palani Murugan|
+|कार्तिकेय पलानी मुरुगन|
+|[Personal Page](http://yangchihyuan.github.io/people/Karthikeyan_Palani_Murugan)|  
 
 <p></p>
 
 #### <center>Alumni</center>
 
-|![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/assets/img/Eric_Lu.png)|
+|![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](http://yangchihyuan.github.io/people/Eric_Lu/Eric_Lu.png)|
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
-|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](/people/Eric_Lu)|
+|[Personal Page](http://yangchihyuan.github.io/people/Brian_Liu)|[Personal Page](http://yangchihyuan.github.io/people/Wayne_Tsai)|[Personal Page](http://yangchihyuan.github.io/people/Eric_Lu/Eric_Lu)|
 
 <p></p>
 
 #### <center>Former Visiting Students</center>
 
-|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta.png)|
+|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.png)|
 |:---:|:---:|:---:|:---:|
 |Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|
 |محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|
-|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal)|[Personal Page](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta)|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal)|[Personal Page](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta)|
 
 <p></p>
 
