@@ -70,11 +70,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Former Visiting Students</center>
 
-|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|
-|:---:|:---:|
-|Mohamed Elsayed|Rachael Zehrung|
-|محمد السيد||
-|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|
+|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta.png)|
+|:---:|:---:|:---:|:---:|
+|Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|
+|محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](http://yangchihyuan.github.io/people/Shruti_Kumari_Jaiswal)|[Personal Page](http://yangchihyuan.github.io/people/Shiv_Kumar_Gupta)|
 
 <p></p>
 
