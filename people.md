@@ -42,7 +42,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 |![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Sam Jiang|Kevin Wu|Joy Hong|Angel Wu|Bill Po-Yu Chou|
+|Sam Jiang|Kevin Wu|Anderson Yeh|Joy Hong|Angel Wu|Bill Po-Yu Chou|
 |姜柏任|吳宜祐|葉方奕|洪子貽|吳雨蓁|周柏宇|
 |[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Personal_Info)|[Personal Page](people/Anderson_Yeh/Personal_Info)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|
 
