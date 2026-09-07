@@ -5,8 +5,11 @@ title: "Home"
 
 <h3 class="fw-bold">Current Projects</h3>
 
+#### Embodying Cognitive Intelligence in Care Robots
+<img src="assets/img/PedestrianHumanRobotInteraction.jpg" height="450" alt="Embodying Cognitive Intelligence in Care Robots">
+
 #### Solo senior watch robot
-<img src="http://yangchihyuan.github.io/assets/img/SoloSeniorWatchRobot.jpg" height="450" alt="solo_senior_senny">
+<img src="http://yangchihyuan.github.io/assets/img/SoloSeniorWatchRobot.jpg" height="450" alt="Solo senior watch robot">
 
 This project is funded by NSTC, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
 
