@@ -8,7 +8,7 @@ title: "Home"
 #### Embodying Cognitive Intelligence in Care Robots
 <img src="assets/img/PedestrianHumanRobotInteraction.jpg" height="450" alt="Embodying Cognitive Intelligence in Care Robots">
 
-This project is funded by NSTC, aiming to develop a social robot program to serve children in a pedistric ward, in particular distract children's painfulness after a surgery.
+This is a multi-year, integrated project funded by the NSTC, aiming to develop the embodied cognitive Intelligence in care robots. We are in charge of the Sub-project 2: sensing capability. Our primary scenario is a pediatric ward in a hospital. We expect our robot to automnomously and seamlessly interact with children, in particular to distract them from pain after surgery.
 
 #### Solo Senior Watch Robot
 <img src="assets/img/SoloSeniorWatchRobot.jpg" height="450" alt="Solo senior watch robot">
