@@ -24,7 +24,7 @@ title: "微積分 2026 秋季學期"
 
 |週次 |日期  |主題                       |投影片     |錄影         | 預定事項 |
 |--- |---   |---                        |---         |---         |---       |
-|1   |9/10  | Background Review and Introduction to Calculus                      |            |            |          |
+|1   |9/10  | Background Review and Introduction to Calculus                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQCMKBtQu1oKSJoQmo67xJFiAY5eISqG2gwLFnOLSevMpjs?e=szQNsZ)           |            |          |
 |2   |9/17  | Functions and Limits                  |            |            |          |
 |3   |9/24  | Limits and Continuity             |            |             |          |
 |4   |10/1  | Continuity and Derivatives            |           |            |         |
