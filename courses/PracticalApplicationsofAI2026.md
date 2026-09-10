@@ -24,7 +24,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 
 |週次 |日期  |授課教師 | 主題                   |投影片     |錄影         | 預定事項 |
 |--- |---   |---      |---                      |---         |---         |---       |
-|1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          |            |            |          |
+|1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDOKeo-ZPI-SLGZ89QR1z6eAQnJnB9ZJfGoeH4caAFvLZk?e=xd7hYC)           |            |          |
 |2   |9/18  | 林英嘉  |大語言模型Gemini, ChatGPT, Claude    |            |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
 |4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe              |           |            |         |
