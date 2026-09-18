@@ -40,11 +40,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
 [Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|||||
 
-|![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Sam Jiang|Kevin Wu|Anderson Yeh|Joy Hong|Angel Wu|Bill Po-Yu Chou|
-|姜柏任|吳宜祐|葉方奕|洪子貽|吳雨蓁|周柏宇|
-|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Personal_Info)|[Personal Page](people/Anderson_Yeh/Personal_Info)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|
+|![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![旋兆恩](people/Chao-an_Shih/Photo.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Sam Jiang|Kevin Wu|Anderson Yeh|Joy Hong|Angel Wu|Bill Po-Yu Chou|Chao-an Shih|
+|姜柏任|吳宜祐|葉方奕|洪子貽|吳雨蓁|周柏宇|施兆恩|
+|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Personal_Info)|[Personal Page](people/Anderson_Yeh/Personal_Info)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|[Personal Page](people/Chao-an_Shih/Personal_Info)|
 
 <p></p>
 
