@@ -4,7 +4,7 @@ title: "Talks"
 ---
 2026 Sep AI News: World Humanoid Robot Games
 
-Slides [pptx](https://www.dropbox.com/scl/fi/wp3rh7afnbqg00xx2ptzt/World-Humanoid-Robot-Games.pptx?rlkey=28yafgtacxmphv3gdeptjl2v4&dl=0)
+Slides [pptx](https://www.dropbox.com/scl/fi/wp3rh7afnbqg00xx2ptzt/World-Humanoid-Robot-Games.pptx?rlkey=28yafgtacxmphv3gdeptjl2v4&dl=0). Please download it and open it with PowerPoint to view the embedded videos. The preview mode of Dropbox does not support embedded videos.
 
 <br/>
 
