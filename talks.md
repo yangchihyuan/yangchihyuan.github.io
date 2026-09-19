@@ -2,6 +2,11 @@
 layout: talks
 title: "Talks"
 ---
+2026 Sep AI News: World Humanoid Robot Games
+
+Slides [pptx](https://www.dropbox.com/scl/fi/wp3rh7afnbqg00xx2ptzt/World-Humanoid-Robot-Games.pptx?rlkey=28yafgtacxmphv3gdeptjl2v4&dl=0)
+
+<br/>
 
 2026 Jul 系所祕書研習會(兩小時上機實作課)：如何使用Gemini Notebook輔助行政工作及風險管控
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XCCNxRogAfE?si=4_xma_BPm2Ikya52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
