@@ -34,7 +34,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |陳毅|
 |[Personal Page](people/Eric_Chen)|
 
-|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Photo.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Photo.jpg)|![Ian Luo](people/Ian_Luo/Photo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Photo.jpg)|||||
+|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Photo.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Photo.jpg)|![Ian Luo](people/Ian_Luo/Photo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Photo.jpg)|![Eric Sung](people/Eric_Sung/Photo.jpg)||||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung||||
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
