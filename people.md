@@ -34,11 +34,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |陳毅|
 |[Personal Page](people/Eric_Chen)|
 
-|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Photo.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Photo.jpg)|![Ian Luo](people/Ian_Luo/Photo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Photo.jpg)|![Eric Sung](people/Eric_Sung/Photo.jpg)||||
+|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Photo.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Photo.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Photo.jpg)|![Ian Luo](people/Ian_Luo/Photo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Photo.jpg)|![Eric Sung](people/Eric_Sung/Photo.jpg)||||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung||||
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
-[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|[Personal Page](people/Eric_Sung/Personal_Info.md)||||
+[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Personal_Info)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|[Personal Page](people/Eric_Sung/Personal_Info.md)||||
 
 |![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![旋兆恩](people/Chao-an_Shih/Photo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
