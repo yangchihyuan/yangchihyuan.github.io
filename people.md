@@ -29,11 +29,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Master's Students</center>
 
-|![Kan Tippayamontri](people/Kan_Tippayamontri/Photo.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Photo.jpg)|
+|![Kan Tippayamontri](people/Kan_Tippayamontri/Photo.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Han-Tse_Kuo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|Han-Tse_Kuo|
 |กานต์ ทิพยมนตรี||||वेदांत विलास बिजवे|أحمد الغيلي||郭瀚澤|
-|[Personal Page](people/Kan_Tippayamontri/Personal_Info)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Personal_Info)|
+|[Personal Page](people/Kan_Tippayamontri/Personal_Info)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Han-Tse_Kuo.md)|
 
 <p></p>
 
