@@ -14,19 +14,19 @@ Guan-Heng Liu, Chin-Ling Li, Chih-Yuan Yang, and Shih-Feng Liu (2025). Developme
 
 114學年度教育部UStart創業競賽第二階段績優，獎金75萬元
 
-<img src="./Brian_Liu/UStart1.jpg" alt="UStart1.jpg" height="250">
+<img src="./UStart1.jpg" alt="UStart1.jpg" height="250">
 
 114學年度教育部UStart創業競賽第一階段績優，獎金20萬元
 
 2025 Panasonic 綠色生活創意設計大賽 金獎
 
-<img src="./Brian_Liu/Certificate2.jpg" alt="Certificate2.jpg" height="250">
+<img src="./Certificate2.jpg" alt="Certificate2.jpg" height="250">
 
 2024 Panasonic 綠色生活創意設計大賽 銅獎
 
 112學年度庚新盃創業競賽第一名
 
-<img src="./Brian_Liu/Certificate1.jpg" alt="Certificate1.jpg" height="250">
+<img src="./Certificate1.jpg" alt="Certificate1.jpg" height="250">
 
 #### Contact
 
