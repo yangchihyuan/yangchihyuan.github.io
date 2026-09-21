@@ -16,13 +16,24 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 <p></p>
 
+#### <center>Ph.D. Student</center>
+
+|![Brian Liu](people/Brian_Liu/Brian_Liu.jpg)|
+|:---:|
+|Brian Liu|
+|劉冠亨|
+|[Personal Page](people/Brian_Liu/Brian_Liu.md)|
+
+<p></p>
+
+
 #### <center>Master's Students</center>
 
-|![Kan Tippayamontri](http://yangchihyuan.github.io/assets/img/Kan_Tippayamontri2.png)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|
-|กานต์ ทิพยมนตรี||||वेदांत विलास बिजवे|أحمد الغيلي
-|[Personal Page](people/Kan_Tippayamontri)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|
+|![Kan Tippayamontri](people/Kan_Tippayamontri/Photo.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Photo.jpg)|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|Han-Tse_Kuo|
+|กานต์ ทิพยมนตรี||||वेदांत विलास बिजवे|أحمد الغيلي||郭瀚澤|
+|[Personal Page](people/Kan_Tippayamontri/Personal_Info)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Personal_Info)|
 
 <p></p>
 
@@ -38,7 +49,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung||||
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
-[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Personal_Info)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|[Personal Page](people/Eric_Sung/Personal_Info.md)||||
+[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Personal_Info)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|[Personal Page](people/Eric_Sung/Personal_Info)||||
 
 |![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![旋兆恩](people/Chao-an_Shih/Photo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -60,11 +71,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Alumni</center>
 
-|![Brian Liu](http://yangchihyuan.github.io/assets/img/Brian_Liu.jpg)|![Wayne Tsai](http://yangchihyuan.github.io/assets/img/Wayne_Tsai.jpg)|![Eric Lu](people/Eric_Lu/Eric_Lu.png)|
+|![Brian Liu](people/Brian_Liu/Brian_Liu.jpg)|![Wayne Tsai](people/Wayne_Tsai//Wayne_Tsai.jpg)|![Eric Lu](people/Eric_Lu/Eric_Lu.png)|
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
-|[Personal Page](people/Brian_Liu)|[Personal Page](people/Wayne_Tsai)|[Personal Page](people/Eric_Lu/Eric_Lu)|
+|[Personal Page](people/Brian_Liu/Brian_Liu.md)|[Personal Page](people/Wayne_Tsai/Wayne_Tsai.md)|[Personal Page](people/Eric_Lu/Eric_Lu)|
 
 <p></p>
 
