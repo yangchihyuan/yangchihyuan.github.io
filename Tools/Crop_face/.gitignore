@@ -1,0 +1,21 @@
+# Ignore everything by default.
+*
+
+# Keep this rule file and allow Git to traverse subdirectories.
+!.gitignore
+!*/
+
+# Keep only Python source files.
+!*.py
+
+# Keep the manually downloaded model files.
+!face_detection_full_range.tflite
+!face-landmaker.task
+
+# Keep image directories, but ignore their contents.
+!input_images/
+!output_images/
+input_images/*
+output_images/*
+!input_images/.gitkeep
+!output_images/.gitkeep
