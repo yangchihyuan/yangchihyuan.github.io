@@ -29,11 +29,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Master's Students</center>
 
-|![Kan Tippayamontri](people/Kan_Tippayamontri/Photo.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Han-Tse_Kuo.jpg)|
+|![Kan Tippayamontri](people/Kan_Tippayamontri/Kan_Tippayamontri.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Han-Tse_Kuo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|Han-Tse_Kuo|
 |กานต์ ทิพยมนตรี||||वेदांत विलास बिजवे|أحمد الغيلي||郭瀚澤|
-|[Personal Page](people/Kan_Tippayamontri/Personal_Info)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Han-Tse_Kuo.md)|
+|[Personal Page](people/Kan_Tippayamontri/Kan_Tippayamontri.md)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Han-Tse_Kuo.md)|
 
 <p></p>
 
@@ -45,17 +45,17 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |陳毅|
 |[Personal Page](people/Eric_Chen)|
 
-|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Photo.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Photo.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Photo.jpg)|![Ian Luo](people/Ian_Luo/Photo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Photo.jpg)|![Eric Sung](people/Eric_Sung/Photo.jpg)||||
+|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Le-Chi_Hu.jpg)|![Ian Luo](people/Ian_Luo/Ian_Luo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Hao-Cheng_Yang.jpg)|![Eric Sung](people/Eric_Sung/Eric_Sung.jpg)||||
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung||||
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
-[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Personal_Info)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Personal_Info)|[Personal Page](people/Le-Chi_Hu/Personal_Info)|[Personal Page](people/Ian_Luo/Personal_Info)|[Personal Page](people/Hao-Cheng_Yang/Personal_Info)|[Personal Page](people/Eric_Sung/Personal_Info)||||
+[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Eric_Peng.md)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Yi-Cheng_Fang.md)|[Personal Page](people/Le-Chi_Hu/Le-Chi_Hu.md)|[Personal Page](people/Ian_Luo/Ian_Luo.md)|[Personal Page](people/Hao-Cheng_Yang/Hao-Cheng_Yang.md)|[Personal Page](people/Eric_Sung/Eric_Sung.md)||||
 
-|![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Photo.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![旋兆恩](people/Chao-an_Shih/Photo.jpg)|
+|![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Photo.jpg)|![葉方奕](people/Anderson_Yeh/Anderson_Yeh.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![旋兆恩](people/Chao-an_Shih/Photo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Sam Jiang|Kevin Wu|Anderson Yeh|Joy Hong|Angel Wu|Bill Po-Yu Chou|Chao-an Shih|
 |姜柏任|吳宜祐|葉方奕|洪子貽|吳雨蓁|周柏宇|施兆恩|
-|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Personal_Info)|[Personal Page](people/Anderson_Yeh/Personal_Info)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|[Personal Page](people/Chao-an_Shih/Personal_Info)|
+|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Personal_Info)|[Personal Page](people/Anderson_Yeh/Anderson_Yeh.md)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|[Personal Page](people/Chao-an_Shih/Personal_Info)|
 
 <p></p>
 
@@ -71,7 +71,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Alumni</center>
 
-|![Brian Liu](people/Brian_Liu/Brian_Liu.jpg)|![Wayne Tsai](people/Wayne_Tsai//Wayne_Tsai.jpg)|![Eric Lu](people/Eric_Lu/Eric_Lu.png)|
+|![Brian Liu](people/Brian_Liu/Brian_Liu.jpg)|![Wayne Tsai](people/Wayne_Tsai//Wayne_Tsai.jpg)|![Eric Lu](people/Eric_Lu/Eric_Lu.jpg)|
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
@@ -81,11 +81,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Former Visiting Students</center>
 
-|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.png)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.png)|
+|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.jpg)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.jpg)|
 |:---:|:---:|:---:|:---:|
 |Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|
 |محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|
-|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal)|[Personal Page](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta)|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.md)|[Personal Page](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.md)|
 
 <p></p>
 
