@@ -45,11 +45,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |陳毅|
 |[Personal Page](people/Eric_Chen)|
 
-|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Le-Chi_Hu.jpg)|![Ian Luo](people/Ian_Luo/Ian_Luo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Hao-Cheng_Yang.jpg)|![Eric Sung](people/Eric_Sung/Eric_Sung.jpg)||||
+|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Le-Chi_Hu.jpg)|![Ian Luo](people/Ian_Luo/Ian_Luo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Hao-Cheng_Yang.jpg)|![Eric Sung](people/Eric_Sung/Eric_Sung.jpg)|![Jessica_Liu](people/FemaleStudent.jpg)|![](people/MaleStudent.jpg)|![](people/MaleStudent.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung||||
+|Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung|Jessica Liu|||
 |張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
-[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Eric_Peng.md)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Yi-Cheng_Fang.md)|[Personal Page](people/Le-Chi_Hu/Le-Chi_Hu.md)|[Personal Page](people/Ian_Luo/Ian_Luo.md)|[Personal Page](people/Hao-Cheng_Yang/Hao-Cheng_Yang.md)|[Personal Page](people/Eric_Sung/Eric_Sung.md)||||
+[Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Eric_Peng.md)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Yi-Cheng_Fang.md)|[Personal Page](people/Le-Chi_Hu/Le-Chi_Hu.md)|[Personal Page](people/Ian_Luo/Ian_Luo.md)|[Personal Page](people/Hao-Cheng_Yang/Hao-Cheng_Yang.md)|[Personal Page](people/Eric_Sung/Eric_Sung.md)|[Personal Page](people/Jessica_Liu/Jessica_Liu.md)|||
 
 |![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Kevin_Wu.jpg)|![葉方奕](people/Anderson_Yeh/Anderson_Yeh.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![施兆恩](people/Chao-an_Shih/Chao-an_Shih.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
