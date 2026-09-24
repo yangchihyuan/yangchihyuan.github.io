@@ -22,24 +22,24 @@ title: "微積分 2026 秋季學期"
 
 #### 課程大綱
 
-|週次 |日期  |主題                       |投影片     |錄影         | 預定事項 |
-|--- |---   |---                        |---         |---         |---       |
-|1   |9/10  | Background Review and Introduction to Calculus                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQCMKBtQu1oKSJoQmo67xJFiAY5eISqG2gwLFnOLSevMpjs?e=szQNsZ)           |            |          |
-|2   |9/17  | Functions and Limits                  | 因為出版社版權限制，不允許上傳至公開網頁，請至Teams班群中開啟下載連結 | 請至Teams班群中開啟YouTube連結           |          |
-|3   |9/24  | Limits and Continuity             | 同上           |             |          |
-|4   |10/1  | Continuity and Derivatives            |           |            |         |
-|5   |10/8  | Differentiation Rules                  |          |             |          |
-|6   |10/15 | Differentiation Rules II & Applications of Differentiation I                        |           |            |          |
-|7   |10/22 | Applications of Differentiation II                    |            |            |          |
-|8   |10/29 | 期中考，無授課                           |           |           |          |
-|9   |11/5  | Introduction to Integrals & the Fundamental Theorem of Calculus             |            |            |        |
-|10  |11/12 | Applications of Integration I                |            |            |        |
-|11  |11/19 | Applications of Integration II                 |            |            |          |
-|12  |11/26 | Techniques of Integration I       |            |             |          |
-|13  |12/3  | Techniques of Integration II                |            |            |          |
-|14  |12/10 | Multivariable Calculus and Gradients                    |            |            |          |
-|15  |12/17 | Differential Equations and AI                 |            |            |          |
-|16  |12/24 | 期末考，無授課           |            |            |  |
+|週次 |日期  |主題                       |投影片     |錄影        |作業 | 預定事項 |
+|--- |---   |---                        |---         |---       |---  |---       |
+|1   |9/10  | Background Review and Introduction to Calculus                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQCMKBtQu1oKSJoQmo67xJFiAY5eISqG2gwLFnOLSevMpjs?e=szQNsZ)           |            | |         |
+|2   |9/17  | Functions and Limits                  | 因為出版社版權限制，不允許上傳至公開網頁，請至Teams班群中開啟下載連結 | 請至Teams班群中開啟YouTube連結           | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQDExuNTg4u_TYmlSxmjFAOqAUyllAAF0BqPQ6GiM2sPm1o?e=ILHtLl) |        |
+|3   |9/24  | Limits and Continuity             | 同上           |             | |         |
+|4   |10/1  | Continuity and Derivatives            |           |            |  |       |
+|5   |10/8  | Differentiation Rules                  |          |             |  |        |
+|6   |10/15 | Differentiation Rules II & Applications of Differentiation I                        |           |            |          |  |
+|7   |10/22 | Applications of Differentiation II                    |            |            |          | |
+|8   |10/29 | 期中考，無授課                           |           |           |          | |
+|9   |11/5  | Introduction to Integrals & the Fundamental Theorem of Calculus             |            |            |        | |
+|10  |11/12 | Applications of Integration I                |            |            |        | |
+|11  |11/19 | Applications of Integration II                 |            |            |          | |
+|12  |11/26 | Techniques of Integration I       |            |             |          | |
+|13  |12/3  | Techniques of Integration II                |            |            |          | |
+|14  |12/10 | Multivariable Calculus and Gradients                    |            |            |          | |
+|15  |12/17 | Differential Equations and AI                 |            |            |          | |
+|16  |12/24 | 期末考，無授課           |            |            |  | |
 
 <br/>
 
