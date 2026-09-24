@@ -18,7 +18,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Ph.D. Student</center>
 
-|![Brian Liu](people/Brian_Liu/Brian_Liu.jpg)|
+|![Brian Liu](people/Brian_Liu/Brian_Liu2.jpg)|
 |:---:|
 |Brian Liu|
 |劉冠亨|
