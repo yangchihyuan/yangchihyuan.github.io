@@ -8,8 +8,8 @@ from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 
 
-INPUT_DIR = "input_images"
-OUTPUT_DIR = "output_images"
+INPUT_DIR = "Tools/Crop_face/input_images"
+OUTPUT_DIR = "Tools/Crop_face/output_images"
 TARGET_WIDTH = 350
 TARGET_HEIGHT = 450
 
@@ -21,6 +21,9 @@ MODEL_PATH = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     "face_landmarker.task",
 )
+
+MODEL_PATH = r"C:\temp\face_landmarker.task"
+
 MODEL_URL = (
     "https://storage.googleapis.com/mediapipe-models/face_landmarker/"
     "face_landmarker/float16/1/face_landmarker.task"

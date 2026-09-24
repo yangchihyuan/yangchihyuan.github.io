@@ -31,7 +31,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 |![Kan Tippayamontri](people/Kan_Tippayamontri/Kan_Tippayamontri.jpg)|![Niño Jhanus Aniban](people/Niño_Jhanus_Aniban.jpg)|![Luigi Thoriq Kholis](people/Luigi_Thoriq_Kholis.jpg)|![John A. Bacus](people/John_Astronomo_Bacus.jpg)|![Vedant Vilas Bijwe](people/Vedant_Vilas_Bijwe.jpg)|![Ahmed Alghaili](people/Ahmed_Alghaili.jpg)|![Jonathan Tanuwijaya](people/Jonathan_Tanuwijaya.jpg)|![Kuo](people/Han-Tse_Kuo/Han-Tse_Kuo.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|Han-Tse_Kuo|
+|Kan Tippayamontri|Niño Jhanus Aniban|Luigi Thoriq Kholis|John Astronomo Bacus|Vedant Vilas Bijwe|Ahmed Alghaili|Jonathan Tanuwijaya|Joseph Han-Tse Kuo|
 |กานต์ ทิพยมนตรี||||वेदांत विलास बिजवे|أحمد الغيلي||郭瀚澤|
 |[Personal Page](people/Kan_Tippayamontri/Kan_Tippayamontri.md)|[Personal Page](people/Niño_Jhanus_Aniban)|[Personal Page](people/Luigi_Thoriq_Kholis)|[Personal Page](people/John_Astronomo_Bacus)|[Personal Page](people/Vedant_Vilas_Bijwe)|[Personal Page](people/Ahmed_Alghaili)|[Personal Page](people/Jonathan_Tanuwijaya)|[Personal Page](people/Han-Tse_Kuo/Han-Tse_Kuo.md)|
 
@@ -45,10 +45,10 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |陳毅|
 |[Personal Page](people/Eric_Chen)|
 
-|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Le-Chi_Hu.jpg)|![Ian Luo](people/Ian_Luo/Ian_Luo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Hao-Cheng_Yang.jpg)|![Eric Sung](people/Eric_Sung/Eric_Sung.jpg)|![Jessica_Liu](people/FemaleStudent.jpg)|![](people/MaleStudent.jpg)|![](people/MaleStudent.jpg)|
+|![Justin Chang](people/Justin_Chang.jpg)|![Eric Peng](people/Eric_Peng/Eric_Peng.jpg)|![Eathen Weng](people/Eathen_Weng.jpg)|![Peter Chen](people/Peter_Chen.jpg)|![Yi-Cheng Fang](people/Yi-Cheng_Fang/Yi-Cheng_Fang.jpg)|![Le-Chi Hu](people/Le-Chi_Hu/Le-Chi_Hu.jpg)|![Ian Luo](people/Ian_Luo/Ian_Luo.jpg)|![Hao-Cheng Yang](people/Hao-Cheng_Yang/Hao-Cheng_Yang.jpg)|![Jessica_Liu](people/FemaleStudent.jpg)|![Eric Sung](people/Eric_Sung/Eric_Sung.jpg)|![Doris Kuan-Ying Chen](people/Doris_Kuan-Ying_Chen/Doris_Kuan-Ying_Chen.jpg)|![](people/MaleStudent.jpg)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Eric Sung|Jessica Liu|||
-|張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|宋柏諭|劉韋彤|陳冠穎|黃栢碩|
+|Justin Chang|Eric Peng|Eathen Weng|Peter Chen|Yi-Cheng Ethan Fang|Le-Chi Hu|Ian Luo|Hao-Cheng Joseph Yang|Jessica Liu|Eric Sung|Doris Kuan-Ying Chen||
+|張喬翔|彭冠維|翁宇陽|陳威誠|方翊丞|胡樂麒|羅立安|楊皓丞|劉韋彤|宋柏諭|陳冠穎|黃柏碩|
 [Personal Page](people/Justin_Chang)|[Personal Page](people/Eric_Peng/Eric_Peng.md)|[Personal Page](people/Eathen_Weng)|[Personal Page](people/Peter_Chen)|[Personal Page](people/Yi-Cheng_Fang/Yi-Cheng_Fang.md)|[Personal Page](people/Le-Chi_Hu/Le-Chi_Hu.md)|[Personal Page](people/Ian_Luo/Ian_Luo.md)|[Personal Page](people/Hao-Cheng_Yang/Hao-Cheng_Yang.md)|[Personal Page](people/Eric_Sung/Eric_Sung.md)|[Personal Page](people/Jessica_Liu/Jessica_Liu.md)|||
 
 |![Sam Jiang](people/Sam_Jiang/Sam_Jiang.jpg)|![Kevin Wu](people/Kevin_Wu/Kevin_Wu.jpg)|![葉方奕](people/Anderson_Yeh/Anderson_Yeh.jpg)|![洪子貽](people/Joy_Hong.png)|![吳雨蓁](people/Angel_Wu.png)|![周柏宇](people/Bill_Po-Yu_Chou.jpg)|![施兆恩](people/Chao-an_Shih/Chao-an_Shih.jpg)|
