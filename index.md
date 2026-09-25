@@ -30,6 +30,8 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ikdxW6pdx94?si=VQ7lZI4rRSysHm5d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDlJwlXXGEE" title="Robot Nurse Helper Progress 2026/09/24 Zenbo Jr II demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This is a project to develop an interactive robot desktop multimedia system to deliver health education in hospitals to alleviate the shortage of nurse educator in Taiwan. We collaborate with an ophthalmologist at Chang Gung Memorial Hospital to develop the content and control flow for cataract patients for their pre- and post-surgical health education.
 Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/RobotNurseHelper).
 
