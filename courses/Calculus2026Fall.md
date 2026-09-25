@@ -26,7 +26,7 @@ title: "微積分 2026 秋季學期"
 |--- |---   |---                        |---         |---       |---  |---       |
 |1   |9/10  | Background Review and Introduction to Calculus                      | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQCMKBtQu1oKSJoQmo67xJFiAY5eISqG2gwLFnOLSevMpjs?e=szQNsZ)           |            | |         |
 |2   |9/17  | Functions and Limits                  | 因為出版社版權限制，不允許上傳至公開網頁，請至Teams班群中開啟下載連結 | 請至Teams班群中開啟YouTube連結           | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQDExuNTg4u_TYmlSxmjFAOqAUyllAAF0BqPQ6GiM2sPm1o?e=ILHtLl) |        |
-|3   |9/24  | Limits and Continuity             | 同上           |             | |         |
+|3   |9/24  | Limits and Continuity             | 同上           | 同上            | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQDN7wigDGu4RouWaqX4s6QGAZaFWpGFf2sS8JPah2cTNlY?e=Jk1iZB) |         |
 |4   |10/1  | Continuity and Derivatives            |           |            |  |       |
 |5   |10/8  | Differentiation Rules                  |          |             |  |        |
 |6   |10/15 | Differentiation Rules II & Applications of Differentiation I                        |           |            |          |  |
