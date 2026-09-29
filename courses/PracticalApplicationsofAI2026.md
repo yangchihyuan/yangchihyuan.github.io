@@ -24,13 +24,13 @@ title: "人工智慧應用實務 2026 秋季學期"
 
 |週次 |日期  |授課教師 | 主題                   |投影片     |錄影         | 預定事項 |
 |--- |---   |---      |---                      |---         |---         |---       |
-|1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          | [pptx](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDOKeo-ZPI-SLGZ89QR1z6eAQnJnB9ZJfGoeH4caAFvLZk?e=xd7hYC)           |[YouTube](https://youtu.be/egyJHR9JAEM)            |          |
+|1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDOKeo-ZPI-SLGZ89QR1z6eAQnJnB9ZJfGoeH4caAFvLZk?e=xd7hYC)           |[YouTube](https://youtu.be/egyJHR9JAEM)            |          |
 |2   |9/18  | 林英嘉  |git, GitHub, 與Codex CLI    | [HackMD](https://hackmd.io/@mcps5601/BJBtuyrYfe#/)           |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
-|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe              |           |            |         |
+|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, Canva              |           |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
 |6   |10/16 | 鄭振牟  | 定理證明 AI 工具 ChatGPT |           |            |          |
-|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ  |            |            |          |
+|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe  |            |            |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具 SUNO, BandLab                       |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
 |10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
@@ -52,6 +52,8 @@ title: "人工智慧應用實務 2026 秋季學期"
 | 1 | 有光必有影、有美好也有離別、有喜必有悲 | 朱語涵 (B1504203) | [![觀看影片](https://img.youtube.com/vi/Ub9FDG2pHhU/hqdefault.jpg)](https://www.youtube.com/watch?v=Ub9FDG2pHhU) | [PDF](./PracticalApplicationofAI2026/HW1/B1504203/B1504203_人工智慧影片作業-1.pdf) |
 | 1 | SKYPIERCER | 莊昀翰 (B1528013) | [![觀看影片](https://img.youtube.com/vi/34dBiT9369Y/hqdefault.jpg)](https://www.youtube.com/watch?v=34dBiT9369Y) | [DOCX](./PracticalApplicationofAI2026/HW1/B1528013/B1528013_補繳_影片生成報告.docx) |
 | 1 | 謎之咖啡館 | 林恩晴 (B1528024) | [![觀看影片](https://img.youtube.com/vi/cO6Pca9FyYk/hqdefault.jpg)](https://www.youtube.com/watch?v=cO6Pca9FyYk) | [DOCX](./PracticalApplicationofAI2026/HW1/B1528024/B1528024_補繳_影片生成報告.docx) |
+
+<br/>
 
 #### 教科書
 無教科書，因為本門課涵蓋的內容非常廣，沒有任何一本教科書能完全涵蓋所有內容。而且本課程的內容每年都會有新的工具出現，因此課程的教材會隨著時間而更新。
