@@ -47,13 +47,11 @@ title: "人工智慧應用實務 2026 秋季學期"
 
 展示順序是由學號決定的，都是高品質作業報告，並非名次。
 
-|作業|題目                          |作者                  |影片 | 報告 |
+| 作業 | 題目 | 作者 | 影片 | 報告 |
 |---|---|---|---|---|
-|1   |生成影片  | 朱語涵 (B1504203) | <iframe width="640" height="360" src="https://www.youtube.com/embed/Ub9FDG2pHhU" title="人工智慧實務作業" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>       | [PDF](./PracticalApplicationofAI2026/HW1/B1504203/B1504203_人工智慧影片作業-1.pdf) |
-|1   |生成影片  | 莊昀翰 (B1528013) | <iframe width="640" height="360" src="https://www.youtube.com/embed/34dBiT9369Y" title="FINAL edit v8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>       | [PDF](./PracticalApplicationofAI2026/HW1/B1528013/B1528013_補繳_影片生成報告.docx) |
-|1   |生成影片  | 林恩晴 (B1528024) | <iframe width="640" height="360" src="https://www.youtube.com/embed/cO6Pca9FyYk" title="AI影片" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>       | [PDF](./PracticalApplicationofAI2026/HW1/B1528024/B1528024_補繳_影片生成報告.docx) |
-
-
+| 1 | 有光必有影、有美好也有離別、有喜必有悲 | 朱語涵 (B1504203) | [![觀看影片](https://img.youtube.com/vi/Ub9FDG2pHhU/hqdefault.jpg)](https://www.youtube.com/watch?v=Ub9FDG2pHhU) | [PDF](./PracticalApplicationofAI2026/HW1/B1504203/B1504203_人工智慧影片作業-1.pdf) |
+| 1 | SKYPIERCER | 莊昀翰 (B1528013) | [![觀看影片](https://img.youtube.com/vi/34dBiT9369Y/hqdefault.jpg)](https://www.youtube.com/watch?v=34dBiT9369Y) | [DOCX](./PracticalApplicationofAI2026/HW1/B1528013/B1528013_補繳_影片生成報告.docx) |
+| 1 | 謎之咖啡館 | 林恩晴 (B1528024) | [![觀看影片](https://img.youtube.com/vi/cO6Pca9FyYk/hqdefault.jpg)](https://www.youtube.com/watch?v=cO6Pca9FyYk) | [DOCX](./PracticalApplicationofAI2026/HW1/B1528024/B1528024_補繳_影片生成報告.docx) |
 
 #### 教科書
 無教科書，因為本門課涵蓋的內容非常廣，沒有任何一本教科書能完全涵蓋所有內容。而且本課程的內容每年都會有新的工具出現，因此課程的教材會隨著時間而更新。
