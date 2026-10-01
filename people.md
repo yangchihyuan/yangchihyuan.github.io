@@ -37,6 +37,14 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 <p></p>
 
+|![Hemanth Ratna Sagar Reddy Thelluri](people/Hemanth_Thelluri/Hemanth_Thelluri.jpg)|
+|:---:|
+|Hemanth Ratna Sagar Reddy Thelluri|
+|हेमन्त रत्न सागर रेड्डी थेल्लुरी హేమంత్ రత్న సాగర్ రెడ్డి తెల్లూరి|
+|[Personal Page](people/Hemanth_Thelluri/Hemanth_Thelluri.md)|
+
+<p></p>
+
 #### <center>Capstone Students</center>
 
 |![Eric Chen](http://yangchihyuan.github.io/assets/img/Eric_Chen.jpg)|
@@ -62,17 +70,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Sam Jiang|Kevin Wu|Anderson Yeh|Joy Hong|Angel Wu|Bill Po-Yu Chou|Chao-an Shih|
 |姜柏任|吳宜祐|葉方奕|洪子貽|吳雨蓁|周柏宇|施兆恩|
-|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Kevin_Wu.md)|[Personal Page](people/Anderson_Yeh/Anderson_Yeh.md)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|[Personal Page](people/Chao-an_Shih/Personal_Info)|
-
-<p></p>
-
-#### <center>2026 TEEP Students</center>
-
-|![Karthikeyan Palani Murugan](people/Karthikeyan_Palani_Murugan.png)|
-|:---:|
-|Karthikeyan Palani Murugan|
-|कार्तिकेय पलानी मुरुगन|
-|[Personal Page](people/Karthikeyan_Palani_Murugan)|  
+|[Personal Page](people/Sam_Jiang)|[Personal Page](people/Kevin_Wu/Kevin_Wu.md)|[Personal Page](people/Anderson_Yeh/Anderson_Yeh.md)|[Personal Page](people/Joy_Hong)|[Personal Page](people/Angel_Wu)|[Personal Page](people/Bill_Po-Yu_Chou)|[Personal Page](people/Chao-an_Shih/Chao-an_Shih.md)|
 
 <p></p>
 
@@ -82,18 +80,17 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |:---:|:---:|:---:|
 |Brian Liu|Wayne Tsai|Eric Lu|
 |劉冠亨|蔡承原|盧睿霆|
-|[Personal Page](people/Brian_Liu/Brian_Liu.md)|[Personal Page](people/Wayne_Tsai/Wayne_Tsai.md)|[Personal Page](people/Eric_Lu/Eric_Lu)|
+|[Personal Page](people/Brian_Liu/Brian_Liu.md)|[Personal Page](people/Wayne_Tsai/Wayne_Tsai.md)|[Personal Page](people/Eric_Lu/Eric_Lu.md)|
 
 <p></p>
 
 #### <center>Former Visiting Students</center>
 
-|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.jpg)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.jpg)|
-|:---:|:---:|:---:|:---:|
-|Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|
-|محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|
-|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.md)|[Personal Page](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.md)|
-
+|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.jpg)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.jpg)|![Karthikeyan Palani Murugan](people/Karthikeyan_Palani_Murugan/Karthikeyan_Palani_Murugan.png)|
+|:---:|:---:|:---:|:---:|:---:|
+|Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeyan Palani Murugan|
+|محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|कार्तिकेय पलानी मुरुगन|
+|[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.md)|[Personal Page](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.md)|[Personal Page](people/Karthikeyan_Palani_Murugan/Karthikeyan_Palani_Murugan.md)|
 <p></p>
 
 #### <center>Former Capstone Student</center>
@@ -102,4 +99,4 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |:---:|
 |Matt Wu|
 |吳奕廷|
-|[Personal Page](people/Matt_Wu)|
+|[Personal Page](people/Matt_Wu/Matt_Wu.md)|
