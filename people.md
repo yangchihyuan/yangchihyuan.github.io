@@ -91,6 +91,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeyan Palani Murugan|
 |محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|कार्तिकेय पलानी मुरुगन|
 |[Personal Page](https://www.linkedin.com/in/mohamed-elsayed-53269624a/)|[Personal Page](https://www.rzehrung.name/)|[Personal Page](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.md)|[Personal Page](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.md)|[Personal Page](people/Karthikeyan_Palani_Murugan/Karthikeyan_Palani_Murugan.md)|
+
 <p></p>
 
 #### <center>Former Capstone Student</center>
