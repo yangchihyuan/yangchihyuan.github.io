@@ -27,7 +27,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 |1   |9/11  | 楊智淵  |課程簡介及影片創作工具: Veo, 圖片生成工具: Nano Banana, GPT Image, AI圖片編輯平台: Artlist Studio, DeeVid          | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQDOKeo-ZPI-SLGZ89QR1z6eAQnJnB9ZJfGoeH4caAFvLZk?e=xd7hYC)           |[YouTube](https://youtu.be/egyJHR9JAEM)            |          |
 |2   |9/18  | 林英嘉  |git, GitHub, 與Codex CLI    | [HackMD](https://hackmd.io/@mcps5601/BJBtuyrYfe#/)           |            |          |
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
-|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, Canva              |           |            |         |
+|4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, Canva              | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAXeGgqjRdsRL8sAepkYw8lAXhji6ec_Gy8u1Q0qQkrJOQ?e=gJXhLs)          |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
 |6   |10/16 | 鄭振牟  | 定理證明 AI 工具 ChatGPT |           |            |          |
 |7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe  |            |            |          |
