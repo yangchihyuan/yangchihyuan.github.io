@@ -40,7 +40,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 |![Hemanth Ratna Sagar Reddy Thelluri](people/Hemanth_Thelluri/Hemanth_Thelluri.jpg)|
 |:---:|
 |Hemanth Ratna Sagar Reddy Thelluri|
-|हेमन्त रत्न सागर रेड्डी थेल्लुरी హేమంత్ రత్న సాగర్ రెడ్డి తెల్లూరి|
+|हेमन्त रत्न सागर रेड्डी थेल्लुरी|
 |[Personal Page](people/Hemanth_Thelluri/Hemanth_Thelluri.md)|
 
 <p></p>
