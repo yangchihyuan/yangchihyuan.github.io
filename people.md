@@ -37,11 +37,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 <p></p>
 
-|![Hemanth Ratna Sagar Reddy Thelluri](people/Hemanth_Thelluri/Hemanth_Thelluri.jpg)|![Pratik Mrityunjay](people/MaleStudent.jpg)|
-|:---:|:---:|
-|Hemanth Ratna Sagar Reddy Thelluri|Pratik Mrityunjay|
-|हेमन्त रत्न सागर रेड्डी थेल्लुरी|प्रतिक मृत्युन्जय|
-|[Personal Page](people/Hemanth_Thelluri/Hemanth_Thelluri.md)|[Personal Page](people/Pratik_Mrityunjay/Pratik_Mrityunjay.md)|
+|![Pratik Mrityunjay](people/MaleStudent.jpg)|
+|:---:|
+|Pratik Mrityunjay|
+|प्रतिक मृत्युन्जय|
+|[Personal Page](people/Pratik_Mrityunjay/Pratik_Mrityunjay.md)|
 
 <p></p>
 
