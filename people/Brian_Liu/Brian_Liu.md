@@ -32,4 +32,6 @@ Guan-Heng Liu, Chin-Ling Li, Chih-Yuan Yang, and Shih-Feng Liu (2025). Developme
 
 Email: d1561002@cgu.edu.tw
 
+Personal Website: [Guan-Heng Liu — AI, made human.](https://brian-liu-coursework.vercel.app)
+
 ---
