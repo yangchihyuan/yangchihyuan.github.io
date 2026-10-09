@@ -8,7 +8,7 @@ Guan-Heng Liu, Chin-Ling Li, Chih-Yuan Yang, and Shih-Feng Liu (2025). Developme
 
 #### Master's Thesis
 
-開發並驗證一項新穎人工智慧衍生指數以預測慢性阻塞性肺 病醫療成本：臨床實證研究 [pdf](https://www.dropbox.com/scl/fi/cbowil6uq75vvoyq4ah65/Thesis_BrianLiu2025.pdf?rlkey=c96250zgalsglkj6d4fg3vi99&dl=0)
+開發並驗證一項新穎人工智慧衍生指數以預測慢性阻塞性肺病醫療成本：臨床實證研究 [pdf](https://www.dropbox.com/scl/fi/cbowil6uq75vvoyq4ah65/Thesis_BrianLiu2025.pdf?rlkey=c96250zgalsglkj6d4fg3vi99&dl=0)
 
 #### Awards
 
