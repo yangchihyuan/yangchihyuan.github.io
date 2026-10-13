@@ -27,13 +27,13 @@ To be announced
 |6   |10/12 | Chen    |                          |           |            |          |
 |7   |10/19 | Chen    |                           |            |            |          |
 |8   |10/26 |         | Observed holiday, no course |           |           | Taiwan Retrocession Day |
-|9   |11/2  | Yang    | Regularization            |            |            |        |
-|10  |11/9  | Yang    | Classification, Decision tree, Filtering            |            |            |        |
-|11  |11/16 | Yang    | Neural Networks           |            |            |          |
+|9   |11/2  | Chen    | Midterm            |            |            |        |
+|10  |11/9  | Yang    | Regularization            |            |            |        |
+|11  |11/16 | Yang    | Classification, Decision tree, Filtering           |            |            |          |
 |12  |11/23 |         | Observed holiday, no course |            |             | CGU Sports Day   |
-|13  |11/30 | Yang    | Natural Language Processing |            |            |          |
-|14  |12/7  | Yang    | Reinforcement learning    |            |            |          |
-|15  |12/14 | Yang    | GPU Computing             |            |            |          |
+|13  |11/30 | Yang    | Neural Networks |            |            |          |
+|14  |12/7  | Yang    | Natural Language Processing    |            |            |          |
+|15  |12/14 | Yang    | Reinforcement learning             |            |            |          |
 |16  |12/21 |         | Final exam                |            |            |          |
 
 <br/>
