@@ -27,7 +27,7 @@ To be announced
 |6   |10/12 | Chen    |                          |           |            |          |
 |7   |10/19 | Chen    |                           |            |            |          |
 |8   |10/26 |         | Observed holiday, no course |           |           | Taiwan Retrocession Day |
-|9   |11/2  | Chen    | Midterm            |            |            |        |
+|9   |11/2  |         | Midterm            |            |            |        |
 |10  |11/9  | Yang    | Regularization            |            |            |        |
 |11  |11/16 | Yang    | Classification, Decision tree, Filtering           |            |            |          |
 |12  |11/23 |         | Observed holiday, no course |            |             | CGU Sports Day   |
