@@ -37,7 +37,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 <p></p>
 
-|![Pratik Mrityunjay](people/MaleStudent.jpg)|
+|![Pratik Mrityunjay](people/Pratik_Mrityunjay/Pratik_Mrityunjay.jpg)|
 |:---:|
 |Pratik Mrityunjay|
 |प्रतिक मृत्युन्जय|
