@@ -15,7 +15,7 @@ This is a multi-year, integrated project funded by the NSTC, aiming to develop t
 
 This project is funded by NSTC, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
 
-
+<iframe width="1255" height="645" src="https://www.youtube.com/embed/7UhjcDzouW8" title="vSLAM Progress 2026/10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="178" height="315" src="https://www.youtube.com/embed/U93vf_7UN88" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

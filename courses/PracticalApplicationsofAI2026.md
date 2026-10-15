@@ -29,7 +29,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 |3   |9/25  |         |假日，無授課                                   |            |             | 中秋節         |
 |4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, Canva              | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAXeGgqjRdsRL8sAepkYw8lAXhji6ec_Gy8u1Q0qQkrJOQ?e=gJXhLs)          |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
-|6   |10/16 | 鄭振牟  | LINE 聊天機器人 ChatGPT |           |            |          |
+|6   |10/16 | 鄭振牟  | LINE 聊天機器人 ChatGPT | [HackMD](https://hackmd.io/@chenmoucheng/linebot-by-codex#/)          |            |          |
 |7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe  |            |            |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具 SUNO, BandLab                       |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
