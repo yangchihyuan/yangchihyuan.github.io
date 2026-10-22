@@ -47,7 +47,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Capstone Students</center>
 
-|![Eric Chen](http://yangchihyuan.github.io/assets/img/Eric_Chen.jpg)|
+|![Eric Chen](/assets/img/Eric_Chen.jpg)|
 |:---:|
 |Eric Chen|
 |陳毅|
