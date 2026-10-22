@@ -86,7 +86,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Former Visiting Students</center>
 
-|![Mohamed Elsayed](http://yangchihyuan.github.io/assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](http://yangchihyuan.github.io/assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.jpg)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.jpg)|![Karthikeyan Palani Murugan](people/Karthikeyan_Palani_Murugan/Karthikeyan_Palani_Murugan.png)|
+|![Mohamed Elsayed](assets/img/Mohamed_Elsayed.png)|![Rachael Zehrung](assets/img/Rachael_Zehrung_4x3.jpg)|![Shruti Kumari Jaiswal](people/Shruti_Kumari_Jaiswal/Shruti_Kumari_Jaiswal.jpg)|![Shiv Kumar Gupta](people/Shiv_Kumar_Gupta/Shiv_Kumar_Gupta.jpg)|![Karthikeyan Palani Murugan](people/Karthikeyan_Palani_Murugan/Karthikeyan_Palani_Murugan.png)|
 |:---:|:---:|:---:|:---:|:---:|
 |Mohamed Elsayed|Rachael Zehrung|Shruti Kumari Jaiswal|Shiv Kumar Gupta|Karthikeyan Palani Murugan|
 |محمد السيد||रुति कुमारी जयसवाल|शिव कुमार गुप्ता|कार्तिकेय पलानी मुरुगन|
@@ -96,7 +96,7 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 #### <center>Former Capstone Student</center>
 
-| ![Matt Wu](http://yangchihyuan.github.io/assets/img/Matt_Wu.png)|
+| ![Matt Wu](assets/img/Matt_Wu.png)|
 |:---:|
 |Matt Wu|
 |吳奕廷|
