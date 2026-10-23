@@ -30,7 +30,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 |4   |10/2  | 楊智淵  | 筆記本工具Gemini Notebook及簡報製作工具Gamma, Canva              | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/IQAXeGgqjRdsRL8sAepkYw8lAXhji6ec_Gy8u1Q0qQkrJOQ?e=gJXhLs)          |            |         |
 |5   |10/9  |         |補假日，無授課                                 |          |             | 國慶日補假         |
 |6   |10/16 | 鄭振牟  | LINE 聊天機器人 ChatGPT | [HackMD](https://hackmd.io/@chenmoucheng/linebot-by-codex#/)          |            |          |
-|7   |10/23 | 楊智淵  |英語寫作學習工具Grammarly, Gemini Gem, ELSA Speak, ChatGPT Voice Mode, LingQ, 物件辨識工具: Google Images, Google 智慧鏡頭，姿態估計工具: MediaPipe  |            |            |          |
+|7   |10/23 | 楊智淵  |英語寫作AI輔助工具Grammarly, Gemini Gem  | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/cQouLucXGdsYSLkq_mfUdUazEgUCevqc7bEFtNdKCvZNxwb-gA)           | [YouTube](https://youtu.be/AxOwgLi3v1k)           |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具 SUNO, BandLab                       |           |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Google Antigravity, Codex  |            |            |        |
 |10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
