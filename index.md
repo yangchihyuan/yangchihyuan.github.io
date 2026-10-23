@@ -32,6 +32,8 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 [Project GitHub repository](https://github.com/yangchihyuan/SoloSeniorWatchRobot)
 
 #### Robot Nurse Helper
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gp__Mrmae9k" title="Progress 2026/10/21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gl8OrY62YNc?si=JDJkF0hzykJIhrGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ikdxW6pdx94?si=VQ7lZI4rRSysHm5d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
