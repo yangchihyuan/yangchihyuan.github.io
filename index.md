@@ -6,7 +6,7 @@ title: "Home"
 <h3 class="fw-bold">Current Projects</h3>
 
 #### Embodying Cognitive Intelligence in Care Robots
-<img src="assets/img/PedestrianHumanRobotInteraction.jpg" height="450" alt="Embodying Cognitive Intelligence in Care Robots">
+<img src="assets/img/PediatricCareRobot.jpg" height="315" alt="Embodying Cognitive Intelligence in Care Robots">
 
 This is a multi-year, integrated project funded by the NSTC, aiming to develop the embodied cognitive Intelligence in care robots. We are in charge of the Sub-project 2: sensing capability. Our primary scenario is a pediatric ward in a hospital. We expect our robot to automnomously and seamlessly interact with children, in particular to distract them from pain after surgery.
 
