@@ -1,11 +1,11 @@
 menu:
-#- {name: 'lab', url: '/lab'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'talks', url: '/talks'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+- {name: 'lab', url: '/lab'}
 
 #lab:
 

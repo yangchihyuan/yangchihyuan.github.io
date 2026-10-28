@@ -6,7 +6,7 @@ title: "Home"
 <h3 class="fw-bold">Current Projects</h3>
 
 #### Embodying Cognitive Intelligence in Care Robots
-<img src="assets/img/PedestrianHumanRobotInteraction.jpg" height="450" alt="Embodying Cognitive Intelligence in Care Robots">
+<img src="assets/img/PediatricCareRobot.jpg" height="315" alt="Embodying Cognitive Intelligence in Care Robots">
 
 This is a multi-year, integrated project funded by the NSTC, aiming to develop the embodied cognitive Intelligence in care robots. We are in charge of the Sub-project 2: sensing capability. Our primary scenario is a pediatric ward in a hospital. We expect our robot to automnomously and seamlessly interact with children, in particular to distract them from pain after surgery.
 
@@ -16,6 +16,8 @@ This is a multi-year, integrated project funded by the NSTC, aiming to develop t
 <img src="assets/img/SoloSeniorWatchRobot.jpg" height="450" alt="Solo senior watch robot">
 
 This project is funded by NSTC, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
+
+<iframe width="177" height="315" src="https://www.youtube.com/embed/Y3VcNg7ZbDg" title="vSLAM Week12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="177" height="315" src="https://www.youtube.com/embed/Y4hHqfshfIc" title="ASD Progress 2026 Oct 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
