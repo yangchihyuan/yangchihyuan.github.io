@@ -37,11 +37,11 @@ Regarding the fully-sponsored-by-supervisor-and-CGU scholarship (RA scholarship)
 
 <p></p>
 
-|![Pratik Mrityunjay](/people/Pratik_Mrityunjay/Pratik_Mrityunjay.jpg)|
-|:---:|
-|Pratik Mrityunjay|
-|प्रतिक मृत्युन्जय|
-|[Personal Page](/people/Pratik_Mrityunjay/Pratik_Mrityunjay.md)|
+|![Pratik Mrityunjay](/people/Pratik_Mrityunjay/Pratik_Mrityunjay.jpg)|![Parsa Razaei](/people/Parsa_Razaei/Parsa_Razaei.jpg)|
+|:---:|:---:|
+|Pratik Mrityunjay|Parsa Razaei|
+|प्रतिक मृत्युन्जय|پارسا رضائی|
+|[Personal Page](/people/Pratik_Mrityunjay/Pratik_Mrityunjay.md)|[Personal Page](/people/Parsa_Razaei/Parsa_Razaei.md)|
 
 <p></p>
 
