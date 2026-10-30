@@ -31,7 +31,7 @@ title: "微積分 2026 秋季學期"
 |5   |10/8  | Differentiation Rules                  | 同上         | 同上            | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQAkX5T0cCgoQIXjQw3aUqVkAeiQjxfIkBwRswTpXlB3feg?e=c1YlIv)  |        | |
 |6   |10/15 | Differentiation Rules II                         | 同上          | 同上           | [pdf](https://changgunguniversity-my.sharepoint.com/:b:/g/personal/d000019097_cgu_edu_tw/IQD30xGlGbDlSbc35dPspkzDAQwv_jxru9SOMJgUVL6TeRo?e=vqMnjf)         |  | |
 |7   |10/22 | Applications of Differentiation                    | 同上           | 同上           | 無         | 無 | |
-|8   |10/29 | 期中考，無授課                           |           |           |          | | |
+|8   |10/29 | 期中考，無授課                           | [考卷](https://changgunguniversity-my.sharepoint.com/:b:/r/personal/d000019097_cgu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fd000019097%5Fcgu%5Fedu%5Ftw%2FDocuments%2FCourse%2FCalculus%2Fslides%2FWeek08%20Midterm%2FWeek08%20Midterm%2Epdf&parent=%2Fpersonal%2Fd000019097%5Fcgu%5Fedu%5Ftw%2FDocuments%2FCourse%2FCalculus%2Fslides%2FWeek08%20Midterm&share=cQqxwk4XCosFSJvfRTM1Y%2DtHEgUCN6m%2Ddqa3bRzVbdrHbFjhUg)          |           |          | | |
 |9   |11/5  | Introduction to Integrals & the Fundamental Theorem of Calculus             |            |            |        | | |
 |10  |11/12 | Applications of Integration I                |            |            |        | | |
 |11  |11/19 | Applications of Integration II                 |            |            |          | | |
