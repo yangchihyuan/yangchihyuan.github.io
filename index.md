@@ -17,9 +17,9 @@ This is a multi-year, integrated project funded by the NSTC, aiming to develop t
 
 This project is funded by NSTC, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
 
-<iframe width="177" height="315" src="https://www.youtube.com/embed/Y3VcNg7ZbDg" title="vSLAM Week12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="177" height="315" src="https://www.youtube.com/embed/VaMeGHQWOkw" title="ASD Progress 10/31" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="177" height="315" src="https://www.youtube.com/embed/Y4hHqfshfIc" title="ASD Progress 2026 Oct 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="177" height="315" src="https://www.youtube.com/embed/Y3VcNg7ZbDg" title="vSLAM Week12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="612" height="315" src="https://www.youtube.com/embed/7UhjcDzouW8" title="vSLAM Progress 2026/10/11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
