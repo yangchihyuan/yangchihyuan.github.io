@@ -20,7 +20,7 @@ people:
 #- {name: 'Eric Chen 陳毅', title: 'Capstone student' , image: 'assets/img/Eric_Chen.jpg', description: 'Project of Zenbo Nurse Helper', url: 'Eric_Chen'}
 
 courses:
-- {name: 'Artificial Intelligence and Asset Pricing 2026', url: 'ArtificialIntelligenceAndAssetPricing2026'}
+- {name: 'Artificial Intelligence and Asset Pricing I (人工智慧與資產定價 I) 2026', url: 'ArtificialIntelligenceAndAssetPricing2026'}
 - {name: '微積分 (Calculus) 2026', url: 'Calculus2026Fall'}
 - {name: '人工智慧應用實務 (Practical Applications of AI) 2026', url: 'PracticalApplicationsofAI2026'}
 - {name: '專題研究 (Capstone Project) 2026', url: 'CapstoneProject2026'}
