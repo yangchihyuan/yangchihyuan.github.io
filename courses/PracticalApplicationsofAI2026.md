@@ -54,7 +54,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 | 1 | 謎之咖啡館 | 林恩晴 (B1528024) | [![觀看影片](https://img.youtube.com/vi/cO6Pca9FyYk/hqdefault.jpg)](https://www.youtube.com/watch?v=cO6Pca9FyYk) | [DOCX](./PracticalApplicationofAI2026/HW1/B1528024/B1528024_補繳_影片生成報告.docx) |
 |3|我的 AI 實作網頁進化史|詹前禹 (B1221114) |[![參訪網頁](./PracticalApplicationofAI2026/HW3/B1221114詹前禹/B1221114詹前禹.jpg)](https://rex20041130-ux.github.io/1002.html)|[PDF](./PracticalApplicationofAI2026/HW3/B1221114詹前禹/B1221114詹前禹.pdf)|
 |3|先別匯款|林子軒 (B1228047) |[![參訪網頁](./PracticalApplicationofAI2026/HW3/B1228047林子軒/B1228047林子軒.jpg)](https://opluke.github.io/fraud-check-site/)|[PDF](./PracticalApplicationofAI2026/HW3/B1228047林子軒/B1228047林子軒.pdf)|
-|3|論AI於教學之實際應用|朱語涵 (B1504203)|[![參訪網頁](./PracticalApplicationofAI2026/HW3/B1504203朱語涵/B1504203朱語涵.jpg)](https://rex20041130-ux.github.io/1003.html)|[PDF](./PracticalApplicationofAI2026/HW3/B1504203朱語涵/B1504203朱語涵.pdf)|
+|3|論AI於教學之實際應用|朱語涵 (B1504203)|[![參訪網頁](./PracticalApplicationofAI2026/HW3/B1504203朱語涵/B1504203朱語涵.jpg)](https://canva.link/tg4he0b7ai39c3d)|[PDF](./PracticalApplicationofAI2026/HW3/B1504203朱語涵/B1504203朱語涵.pdf)|
 
 
 <br/>
