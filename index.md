@@ -6,13 +6,16 @@ title: "Home"
 <h3 class="fw-bold">Current Projects</h3>
 
 #### Embodying Cognitive Intelligence in Care Robots
+[Project GitHub repository](https://github.com/yangchihyuan/PediatricCareRobot)
+
 <img src="assets/img/PediatricCareRobot.jpg" height="315" alt="Embodying Cognitive Intelligence in Care Robots">
 
 This is a multi-year, integrated project funded by the NSTC, aiming to develop the embodied cognitive Intelligence in care robots. We are in charge of the Sub-project 2: sensing capability. Our primary scenario is a pediatric ward in a hospital. We expect our robot to automnomously and seamlessly interact with children, in particular to distract them from pain after surgery.
 
-[Project GitHub repository](https://github.com/yangchihyuan/PediatricCareRobot)
 
 #### Solo Senior Watch Robot
+[Project GitHub repository](https://github.com/yangchihyuan/SoloSeniorWatchRobot)
+
 <img src="assets/img/SoloSeniorWatchRobot.jpg" height="450" alt="Solo senior watch robot">
 
 This project is funded by NSTC, aiming to develop a social robot program as a watchdog to serve solo seniors at home. There are two primary goals in this project. The first goal is to actively detect  emergency cases and contact care providers. The second is to detect home intruders.
@@ -31,9 +34,12 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8el_fQtFTi4" title="Solo Senior Watch Robot Progress 9/9 vSLAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Project GitHub repository](https://github.com/yangchihyuan/SoloSeniorWatchRobot)
 
 #### Robot Nurse Helper
+[Project GitHub repository](https://github.com/yangchihyuan/RobotNurseHelper).
+
+This is a project to develop an interactive robot desktop multimedia system to deliver health education in hospitals to alleviate the shortage of nurse educator in Taiwan. We collaborate with an ophthalmologist at Chang Gung Memorial Hospital to develop the content and control flow for cataract patients for their pre- and post-surgical health education.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gp__Mrmae9k" title="Progress 2026/10/21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gl8OrY62YNc?si=JDJkF0hzykJIhrGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -42,8 +48,6 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDlJwlXXGEE" title="Robot Nurse Helper Progress 2026/09/24 Zenbo Jr II demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is a project to develop an interactive robot desktop multimedia system to deliver health education in hospitals to alleviate the shortage of nurse educator in Taiwan. We collaborate with an ophthalmologist at Chang Gung Memorial Hospital to develop the content and control flow for cataract patients for their pre- and post-surgical health education.
-Code is available on my GitHub webpage [(Link)](https://github.com/yangchihyuan/RobotNurseHelper).
 
 #### Depth Estimation in an Eye Ball
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5K5XpxEGqus?si=4NuJfTuDyljWDS5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
