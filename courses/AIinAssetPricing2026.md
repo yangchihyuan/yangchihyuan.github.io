@@ -34,26 +34,22 @@ To be announced
 |13  |11/30 | Yang    | Neural Networks |            |            |          |
 |14  |12/7  | Yang    | Natural Language Processing    |            |            |          |
 |15  |12/14 | Yang    | Reinforcement learning             |            |            |          |
-|16  |12/21 |         | Final exam                |            |            |          |
+|16  |12/21 |         | Paper Presentation                |            |            |          |
 
 <br/>
 
 #### Textbook
-No. We use our own lecture notes and slides. However, the following books are good references for this course.
+Professor Chen will use his lecture notes and slides. However, the following books are good references for this course.
 
 #### References
-Machine Learning in Business: An Introduction to the World of Data Science by by John C. Hull, Jacky Chen, Zissis Poulos, Jun Yuan (later edition)
+Machine Learning in Business: An Introduction to the World of Data Science by by John C. Hull, Jacky Chen, Zissis Poulos, Jun Yuan (2025)
+Pattern Recognition and Machine Learning by Christopher by M. Bishop (2006)
 
 #### Grading
-Your final grade will be made up from
-- 70% Homework assignments, including 7 homework assignments (10% each).
-- 30% final exam
-- late policy<br/>
-Ten points will be deducted each day a submission is late. However, you have three penalty-free "waive days" free the entire course. Specifically, the first 24 hours after the due date counts as one day, up to 48 hours as two days, and up to 72 hours as three days. Once you run out of the three "waive days", I will begin deducting points from your score.
+Prof. Chen will decide it.
 
 #### Contact Info and Office Hour
 Ren-Raw Chen: rchen@fordham.edu  <br/>
-Office hour: To be announced<br/>
 <br/>
 Chih-Yuan Yang: cyyang@cgu.edu.tw <br/>
 Office hour: Tue 10:30~11:30 Management Building Room 1416<br/>
