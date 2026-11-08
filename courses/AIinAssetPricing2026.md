@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Artificial Intelligence and Asset Pricing 2026 Fall Semester"
+title: "AI in Asset Pricing 2026 Fall Semester"
 ---
 
 Fall 2026, Monday 9:10 am to 12:00 pm, Classroom: B050F<br/>
@@ -28,7 +28,7 @@ To be announced
 |7   |10/19 | Chen    |                           |            |            |          |
 |8   |10/26 |         | Observed holiday, no course |           |           | Taiwan Retrocession Day |
 |9   |11/2  |         | Midterm            |            |            |        |
-|10  |11/9  | Yang    | Regularization            |            |            |        |
+|10  |11/9  | Yang    | Regularization            | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/cQq_rVoknGFqToV4zfT0749CEgUCwsi8saYzBaGJaVrn96akMw)           |            |        |
 |11  |11/16 | Yang    | Classification, Decision tree, Filtering           |            |            |          |
 |12  |11/23 |         | Observed holiday, no course |            |             | CGU Sports Day   |
 |13  |11/30 | Yang    | Neural Networks |            |            |          |
