@@ -40,7 +40,7 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 
 This is a project to develop an interactive robot desktop multimedia system to deliver health education in hospitals to alleviate the shortage of nurse educator in Taiwan. We collaborate with an ophthalmologist at Chang Gung Memorial Hospital to develop the content and control flow for cataract patients for their pre- and post-surgical health education.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gp__Mrmae9k" title="Progress 2026/10/21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BBknhFEPqNs" title="2026年11月11日" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gl8OrY62YNc?si=JDJkF0hzykJIhrGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
