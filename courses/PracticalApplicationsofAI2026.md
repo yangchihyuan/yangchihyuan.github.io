@@ -33,7 +33,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 |7   |10/23 | 楊智淵  |英語寫作AI輔助工具Grammarly, Gemini Gem  | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/cQouLucXGdsYSLkq_mfUdUazEgUCevqc7bEFtNdKCvZNxwb-gA)           | [YouTube](https://youtu.be/AxOwgLi3v1k)           |          |
 |8   |10/30 | 蘇豐文  | AI 音樂工具 SUNO, BandLab                       | [PDF](./PracticalApplicationofAI2026/Week08AIandMusicTools/AIandMusicTools.pdf)          |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Codex  | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/cQrMqZr5Rf5aQb4tLvJEwVWfEgUCn-rcMSbKtnb9CqsyBkNPgQ)           |            |        |
-|10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      |            |            |        |
+|10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      | [Google Slides](https://docs.google.com/presentation/d/1FkSX3YbuDm6CCgASaX01Vmy98hewGMFEp-VKeQrbBPE/edit?usp=sharing)           |            |        |
 |11  |11/20 | 張書瑋  | 如何善用AI工具學習統計分析 ChatGPT, SAS            |            |          |
 |12  |11/27 | 陳冠甫  | 醫療用 no-code/low-code AI工具       |            |             |          |
 |13  |12/4  | 賴旭昭  |圖形檢索增強生成工具 Neo4J                |            |            |          |
