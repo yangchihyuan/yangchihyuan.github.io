@@ -12,6 +12,9 @@ title: "Home"
 
 This is a multi-year, integrated project funded by the NSTC, aiming to develop the embodied cognitive Intelligence in care robots. We are in charge of the Sub-project 2: sensing capability. Our primary scenario is a pediatric ward in a hospital. We expect our robot to automnomously and seamlessly interact with children, in particular to distract them from pain after surgery.
 
+<iframe width="612" height="315" src="https://www.youtube.com/embed/_JMAWwKb7p0" title="Storytelling and singing progress on Nov 14, 2026." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="177" height="315" src="https://www.youtube.com/embed/1U8WF4xQLwo" title="Interaction with Pediatric Patients Progress on Nov 14, 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Solo Senior Watch Robot
 [Project GitHub repository](https://github.com/yangchihyuan/SoloSeniorWatchRobot)
