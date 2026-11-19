@@ -9,3 +9,5 @@ permalink: /lab/
 [Device purchase procedure](https://docs.google.com/document/d/1-e90xNYs4xh5Gjp0VkmJCGXaaES3D16t8fw1w1QEf0k/edit?usp=sharing)
 
 [Lab devices](https://docs.google.com/spreadsheets/d/1BHDDXCKzDJmXZcO87TX4-1zLVNvKIgeaqf6ciiiVnXU/edit?usp=sharing)
+
+[Credits of research ethics education](https://docs.google.com/document/d/1DxgpDn-iclmeTKbqTD0PgGx4sDkBE98_aypR3yjoyHs/edit?usp=sharing)
