@@ -34,7 +34,7 @@ title: "人工智慧應用實務 2026 秋季學期"
 |8   |10/30 | 蘇豐文  | AI 音樂工具 SUNO, BandLab                       | [PDF](./PracticalApplicationofAI2026/Week08AIandMusicTools/AIandMusicTools.pdf)          |           |          |
 |9   |11/6  | 張賢宗   |代理人編程 Codex  | [PPTX](https://changgunguniversity-my.sharepoint.com/:p:/g/personal/d000019097_cgu_edu_tw/cQrMqZr5Rf5aQb4tLvJEwVWfEgUCn-rcMSbKtnb9CqsyBkNPgQ)           |            |        |
 |10  |11/13 | 王佑中   |教學長影片及講稿製作工具 Make Slide      | [Google Slides](https://docs.google.com/presentation/d/1FkSX3YbuDm6CCgASaX01Vmy98hewGMFEp-VKeQrbBPE/edit?usp=sharing)           |            |        |
-|11  |11/20 | 張書瑋  | 如何善用AI工具學習統計分析 ChatGPT, SAS            |            |          |
+|11  |11/20 | 張書瑋  | 如何善用AI工具學習統計分析 ChatGPT, SAS            | [PDF](https://changgunguniversity-my.sharepoint.com/:b:/r/personal/d000019097_cgu_edu_tw/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fd000019097%5Fcgu%5Fedu%5Ftw%2FDocuments%2FCourse%2FPracticalApplicationsOfAI%2FSlides%2FWeek11%2F115%2E1%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%87%89%E7%94%A8%E5%AF%A6%E5%8B%99%2D%E5%A6%82%E4%BD%95%E5%96%84%E7%94%A8AI%E5%B7%A5%E5%85%B7%E5%AD%B8%E7%BF%92%E7%B5%B1%E8%A8%88%E5%88%86%E6%9E%90%5F11202026%2Epdf&parent=%2Fpersonal%2Fd000019097%5Fcgu%5Fedu%5Ftw%2FDocuments%2FCourse%2FPracticalApplicationsOfAI%2FSlides%2FWeek11&share=cQoqcwZLTsCkTIcRvMIcvUwEEgUCShMyxzyi%2DBj4uJEYHaDNVA)           |          |
 |12  |11/27 | 陳冠甫  | 醫療用 no-code/low-code AI工具       |            |             |          |
 |13  |12/4  | 賴旭昭  |圖形檢索增強生成工具 Neo4J                |            |            |          |
 |14  |12/11 | 馬誠佑   |醫學影像AI工具 3D-Slicer                 |            |            |          |
