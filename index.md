@@ -39,8 +39,6 @@ This project is funded by NSTC, aiming to develop a social robot program as a wa
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMfmX8SKkuA" title="Solo Senior Watch Robot Progress 9/9 Identity Recognition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JeibyE7Nroo" title="Solo Senior Watch Robot Progress 9/9 Active Speaker Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 #### Robot Nurse Helper
 [Project GitHub repository](https://github.com/yangchihyuan/RobotNurseHelper).
 
